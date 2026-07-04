@@ -38,3 +38,5 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Job Displacement Section:** Rewrote the 'AI will take all the jobs' section in Lesson 1 to acknowledge Goldman Sachs projections regarding 15 million displaced jobs while maintaining the course's empowering tone about adapting to the evolving landscape.
 
 - **Lesson 1 Video Update:** Replaced the video placeholder in Lesson 1 ('What AI Actually Is') with the new YouTube video ID ('S08kQNgNGjk').
+
+- **Lesson 2 Rewrite:** Completely rewrote 'Introduction to Generative AI' in compile_curriculum_v6.py to be more engaging for vocational students, adding an interactive Activity card, a Practice scratchpad, and heavily emphasizing the creation of *new* content from training data.
