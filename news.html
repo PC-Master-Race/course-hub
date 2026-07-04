@@ -1,0 +1,70 @@
+---
+layout: default
+title: "News & Commentary"
+---
+
+<div class="news-container container">
+  <header class="news-header-container">
+    <div class="news-title-desc">
+      <h1 class="news-heading">News & Commentary</h1>
+      <p class="news-desc">Written parses and articles exploring artificial intelligence, online privacy, digital surveillance, and Linux system design.</p>
+    </div>
+
+    <!-- Live Search & Filtering Box -->
+    <div class="search-filter-box">
+      <!-- Search Input -->
+      <div class="search-input-wrapper">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="search" id="search-input" class="search-input" placeholder="Search news and courses by keywords..." aria-label="Search news and course content">
+      </div>
+
+      <!-- Tag Quick Links -->
+      <div class="tag-filters-container" aria-label="Filter posts by tag">
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--color-text-muted);">Quick Tags:</span>
+        <button class="filter-tag-pill" data-tag="AI" aria-pressed="false">AI</button>
+        <button class="filter-tag-pill" data-tag="Privacy" aria-pressed="false">Privacy</button>
+        <button class="filter-tag-pill" data-tag="Surveillance" aria-pressed="false">Surveillance</button>
+        <button class="filter-tag-pill" data-tag="Linux" aria-pressed="false">Linux</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- News/Blog Grid -->
+  <div class="news-grid" id="news-grid">
+    {% for post in site.posts %}
+      <article class="post-card">
+        <span class="post-card-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h2 class="post-card-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-card-excerpt">{{ post.content | strip_html | truncatewords: 25 }}</p>
+        
+        {% if post.tags and post.tags.size > 0 %}
+          <div class="post-card-tags" aria-label="Tags">
+            {% for tag in post.tags %}
+              <span class="tag-pill">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+        
+        <a href="{{ post.url | relative_url }}" class="post-card-link" aria-label="Read full post: {{ post.title }}">
+          Read More
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </a>
+      </article>
+    {% else %}
+      <div style="grid-column: 1 / -1; text-align: center; padding: 48px; background: white; border-radius: var(--radius-lg); border: 1px solid var(--color-border);">
+        <p style="color: var(--color-text-secondary);">No articles published yet.</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Load Search Script -->
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>

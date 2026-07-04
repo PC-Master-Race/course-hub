@@ -1,0 +1,106 @@
+<header class="site-header">
+  <div class="header-container">
+    <!-- Brand Logo -->
+    <a href="{{ '/' | relative_url }}" class="site-brand">
+      <span class="logo-text">Course<span class="logo-accent">Hub</span></span>
+    </a>
+
+    <!-- Hamburger menu for mobile/tablet screens -->
+    <button class="menu-toggle" id="menu-toggle-btn" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle Navigation Menu">
+      <span class="hamburger-bar"></span>
+      <span class="hamburger-bar"></span>
+      <span class="hamburger-bar"></span>
+    </button>
+
+    <!-- Global Navigation -->
+    <nav class="primary-nav" id="primary-nav" aria-label="Primary Navigation">
+      <ul class="nav-links">
+        <li>
+          <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+        </li>
+        
+        <!-- Courses Dropdown (Mega-Menu style) -->
+        <li class="dropdown-container">
+          <button class="nav-dropdown-trigger" id="courses-dropdown-trigger" aria-expanded="false" aria-haspopup="true" aria-controls="courses-mega-menu">
+            Courses
+            <svg class="dropdown-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </button>
+          
+          <!-- Mega Menu Panel -->
+          <div class="mega-menu" id="courses-mega-menu" aria-labelledby="courses-dropdown-trigger">
+            <div class="mega-menu-grid">
+              
+              <!-- Category 1: AI Literacy -->
+              <div class="mega-menu-col">
+                <h3 class="category-title">AI Literacy</h3>
+                <ul class="mega-menu-list">
+                  {% assign ai_topics = site.data.topics | where: "category", "AI Literacy" %}
+                  {% for topic in ai_topics %}
+                    <li>
+                      {% if topic.lessons.size > 0 %}
+                        <a href="{{ '/topics/' | append: topic.id | append: '/' | relative_url }}">
+                          {{ topic.title }}
+                        </a>
+                      {% else %}
+                        <span class="mega-menu-disabled" title="Coming Soon">
+                          {{ topic.title }} <small style="font-size: 0.75rem; color: var(--color-text-muted); font-weight: normal;">(Soon)</small>
+                        </span>
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+
+              <!-- Category 2: Office Productivity -->
+              <div class="mega-menu-col">
+                <h3 class="category-title">Office Productivity</h3>
+                <ul class="mega-menu-list">
+                  {% assign office_topics = site.data.topics | where: "category", "Office Productivity" %}
+                  {% for topic in office_topics %}
+                    <li>
+                      {% if topic.lessons.size > 0 %}
+                        <a href="{{ '/topics/' | append: topic.id | append: '/' | relative_url }}">
+                          {{ topic.title }}
+                        </a>
+                      {% else %}
+                        <span class="mega-menu-disabled" title="Coming Soon">
+                          {{ topic.title }} <small style="font-size: 0.75rem; color: var(--color-text-muted); font-weight: normal;">(Soon)</small>
+                        </span>
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+
+              <!-- Category 3: Foundational Tech -->
+              <div class="mega-menu-col">
+                <h3 class="category-title">Foundational Tech</h3>
+                <ul class="mega-menu-list">
+                  {% assign tech_topics = site.data.topics | where: "category", "Foundational Tech" %}
+                  {% for topic in tech_topics %}
+                    <li>
+                      {% if topic.lessons.size > 0 %}
+                        <a href="{{ '/topics/' | append: topic.id | append: '/' | relative_url }}">
+                          {{ topic.title }}
+                        </a>
+                      {% else %}
+                        <span class="mega-menu-disabled" title="Coming Soon">
+                          {{ topic.title }} <small style="font-size: 0.75rem; color: var(--color-text-muted); font-weight: normal;">(Soon)</small>
+                        </span>
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <a href="{{ '/news/' | relative_url }}" class="nav-link {% if page.url contains '/news/' %}active{% endif %}">News</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,144 @@
+---
+layout: default
+---
+{% assign current_topic = site.data.topics | where: "id", page.topic | first %}
+
+<div class="lesson-container">
+  <!-- Sidebar Navigation for Topic Lessons -->
+  <aside class="lesson-sidebar" aria-label="Course Lessons">
+    <div class="sidebar-sticky">
+      <div class="sidebar-header">
+        <a href="{{ '/topics/' | append: current_topic.id | append: '/' | relative_url }}" class="back-to-course">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+          Back to {{ current_topic.title }} landing
+        </a>
+        <h2 class="sidebar-title">{{ current_topic.title }}</h2>
+      </div>
+
+      <nav class="lesson-list-nav" aria-label="Lessons List">
+        <ul class="lesson-list">
+          {% for lesson in current_topic.lessons %}
+            {% assign is_active = false %}
+            {% if page.url contains lesson.slug %}
+              {% assign is_active = true %}
+            {% endif %}
+            <li>
+              <a href="{{ '/topics/' | append: current_topic.id | append: '/' | append: lesson.slug | relative_url }}" 
+                 class="lesson-link {% if is_active %}active{% endif %}"
+                 {% if is_active %}aria-current="page"{% endif %}>
+                <span class="lesson-number">{{ forloop.index }}</span>
+                <span class="lesson-title-text">{{ lesson.title }}</span>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </aside>
+
+  <!-- Lesson Content Area -->
+  <article class="lesson-content">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/topics/' | append: current_topic.id | append: '/' | relative_url }}">{{ current_topic.title }}</a></li>
+        <li aria-current="page">{{ page.title }}</li>
+      </ol>
+    </nav>
+
+    <header class="lesson-header">
+      <h1 class="lesson-title">{{ page.title }}</h1>
+      {% if page.last_updated %}
+        <p class="lesson-meta">Last updated: <time datetime="{{ page.last_updated }}">{{ page.last_updated | date: "%B %d, %Y" }}</time></p>
+      {% endif %}
+    </header>
+
+    <!-- YouTube Video Embed (accessible wrapper) -->
+    {% if page.youtube_id %}
+      <div class="video-wrapper">
+        <iframe 
+          src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}" 
+          title="YouTube video player for {{ page.title }}" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+      </div>
+    {% endif %}
+
+    <!-- Lesson Main Text -->
+    <div class="lesson-text-body">
+      {{ content }}
+    </div>
+
+    <!-- Practice File Downloads -->
+    {% if page.practice_files %}
+      <section class="practice-downloads" aria-labelledby="downloads-heading">
+        <h2 id="downloads-heading">Practice Files</h2>
+        <p>Download these files to practice along with the lesson:</p>
+        <ul class="download-list">
+          {% for file in page.practice_files %}
+            <li>
+              <a href="{{ '/topics/' | append: current_topic.id | append: '/downloads/' | append: file.filename | relative_url }}" class="download-button" download>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                <span>{{ file.name }} ({{ file.format }})</span>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+
+    <!-- Prev/Next Navigation Controls -->
+    <footer class="lesson-navigation">
+      {% assign prev_lesson = nil %}
+      {% assign next_lesson = nil %}
+      {% assign found_current = false %}
+      
+      {% for lesson in current_topic.lessons %}
+        {% if page.url contains lesson.slug %}
+          {% assign found_current = true %}
+        {% else %}
+          {% if found_current %}
+            {% assign next_lesson = lesson %}
+            {% break %}
+          {% else %}
+            {% assign prev_lesson = lesson %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <div class="nav-buttons-container">
+        {% if prev_lesson %}
+          <a href="{{ '/topics/' | append: current_topic.id | append: '/' | append: prev_lesson.slug | relative_url }}" class="nav-btn prev-btn">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            <div class="btn-text">
+              <span class="btn-label">Previous Lesson</span>
+              <span class="btn-title">{{ prev_lesson.title }}</span>
+            </div>
+          </a>
+        {% else %}
+          <div class="nav-btn-placeholder"></div>
+        {% endif %}
+
+        {% if next_lesson %}
+          <a href="{{ '/topics/' | append: current_topic.id | append: '/' | append: next_lesson.slug | relative_url }}" class="nav-btn next-btn">
+            <div class="btn-text">
+              <span class="btn-label">Next Lesson</span>
+              <span class="btn-title">{{ next_lesson.title }}</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </a>
+        {% else %}
+          <a href="{{ '/topics/' | append: current_topic.id | append: '/' | relative_url }}" class="nav-btn next-btn finish-btn">
+            <div class="btn-text">
+              <span class="btn-label">Finish Course</span>
+              <span class="btn-title">Back to Course Landing</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+          </a>
+        {% endif %}
+      </div>
+    </footer>
+  </article>
+</div>

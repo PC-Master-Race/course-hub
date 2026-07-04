@@ -1,0 +1,31 @@
+title: Course Hub
+email: ruben@example.com
+description: >-
+  Standalone educational platform hosting original course content for vocational re-entry
+  and older/disabled student programs.
+baseurl: "/course-hub"
+url: "https://pc-master-race.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /topics/:categories/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /news/:year/:month/:day/:title/
+
+# Exclude list from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - course-hub-spec.md
+  - LICENSE
+  - README.md

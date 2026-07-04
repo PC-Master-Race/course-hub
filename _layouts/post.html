@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div class="post-detail-container">
+  <article class="post-article">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/news/' | relative_url }}">News</a></li>
+        <li aria-current="page">{{ page.title }}</li>
+      </ol>
+    </nav>
+
+    <header class="post-header">
+      <div class="post-meta-top">
+        <time class="post-date" datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        {% if page.tags and page.tags.size > 0 %}
+          <span class="post-tags-separator">•</span>
+          <div class="post-tags" aria-label="Tags">
+            {% for tag in page.tags %}
+              <a href="{{ '/news/' | relative_url }}?tag={{ tag | url_encode }}" class="tag-pill">{{ tag }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+
+    {% if page.youtube_id %}
+      <div class="post-video-wrapper">
+        <div class="video-wrapper">
+          <iframe 
+            src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}" 
+            title="YouTube video player for {{ page.title }}" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+          </iframe>
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <footer class="post-footer">
+      <a href="{{ '/news/' | relative_url }}" class="back-to-news">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        Back to all news
+      </a>
+    </footer>
+  </article>
+</div>

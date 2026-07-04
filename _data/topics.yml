@@ -1,0 +1,143 @@
+- id: "excel-1"
+  title: "Excel 1"
+  category: "Office Productivity"
+  description: "Master the basics: navigate the grid, enter data, format sheets, and write your first formulas."
+  lessons:
+    - title: "Introduction to Excel"
+      slug: "01-intro"
+    - title: "Entering and Editing Data"
+      slug: "02-data-entry"
+    - title: "Creating Simple Formulas"
+      slug: "03-formulas"
+
+- id: "excel-2"
+  title: "Excel 2"
+  category: "Office Productivity"
+  description: "Take Excel further: work with multiple sheets, use absolute references, and format with styles."
+  lessons: []
+
+- id: "excel-3"
+  title: "Excel 3"
+  category: "Office Productivity"
+  description: "Advanced data sorting, filtering, tables, and introductory PivotTables."
+  lessons: []
+
+- id: "word-1"
+  title: "Word 1"
+  category: "Office Productivity"
+  description: "Learn word processing basics, typing, basic editing, and text formatting."
+  lessons: []
+
+- id: "word-2"
+  title: "Word 2"
+  category: "Office Productivity"
+  description: "Format paragraphs, use lists, adjust margins, and insert page numbers."
+  lessons: []
+
+- id: "word-3"
+  title: "Word 3"
+  category: "Office Productivity"
+  description: "Insert tables, images, use page breaks, and configure advanced layouts."
+  lessons: []
+
+- id: "powerpoint-1"
+  title: "PowerPoint 1"
+  category: "Office Productivity"
+  description: "Create presentation slides, add titles, bullet points, and basic layouts."
+  lessons: []
+
+- id: "powerpoint-2"
+  title: "PowerPoint 2"
+  category: "Office Productivity"
+  description: "Add transitions, animations, insert pictures, and run slide presentations."
+  lessons: []
+
+- id: "canva"
+  title: "Canva"
+  category: "Office Productivity"
+  description: "Create beautiful graphics, flyers, and announcements using Canva's drag-and-drop templates."
+  lessons: []
+
+- id: "ai-foundations"
+  title: "AI Foundations"
+  category: "AI Literacy"
+  description: "A comprehensive guide to how artificial intelligence works, prompting frameworks, ethical considerations, and real-world career applications."
+  lessons:
+    - title: "What AI Actually Is"
+      slug: "01-what-is-ai"
+    - title: "Introduction to Generative AI"
+      slug: "02-generative-ai"
+    - title: "Prompting Fundamentals & RTCF"
+      slug: "03-prompting-fundamentals"
+    - title: "Advanced Prompting & Image AI"
+      slug: "04-advanced-prompting"
+    - title: "Task Filtering & AI Audits"
+      slug: "05-task-filtering"
+    - title: "The 5 Categories of AI at Work"
+      slug: "06-categories-of-ai"
+    - title: "AI Ethics, Bias, and Trust"
+      slug: "07-ethics-and-bias"
+    - title: "Professional Fields & Applications"
+      slug: "08-industry-applications"
+    - title: "Local AI vs. Hosted Workflows"
+      slug: "09-local-ai"
+
+- id: "creating-with-ai"
+  title: "Creating with AI"
+  category: "AI Literacy"
+  description: "Explore the basics of prompts, generative text, and creative applications of artificial intelligence."
+  lessons: []
+
+- id: "ai-intermediate"
+  title: "AI Intermediate"
+  category: "AI Literacy"
+  description: "Level up your prompting: structured queries, multi-turn dialogues, and basic coding workflows."
+  lessons: []
+
+- id: "ai-beginner"
+  title: "AI Beginner"
+  category: "AI Literacy"
+  description: "A gentle introduction to artificial intelligence and how to safely use it in everyday life."
+  lessons: []
+
+- id: "local-ai"
+  title: "Local AI"
+  category: "AI Literacy"
+  description: "Run privacy-focused AI models directly on your own computer without using the internet."
+  lessons: []
+
+- id: "basic-computing-1"
+  title: "Basic Computing 1"
+  category: "Foundational Tech"
+  description: "Learn how to turn on a computer, use a mouse, type on a keyboard, and open programs."
+  lessons: []
+
+- id: "basic-computing-2"
+  title: "Basic Computing 2"
+  category: "Foundational Tech"
+  description: "Learn about files, folders, saving documents, and basic security."
+  lessons: []
+
+- id: "digital-citizenship"
+  title: "Digital Citizenship"
+  category: "Foundational Tech"
+  description: "Learn to navigate the internet safely, recognize scams, and manage your online footprint."
+  lessons: []
+
+- id: "samsung-one-ui"
+  title: "Samsung One UI"
+  category: "Foundational Tech"
+  description: "Navigate your Samsung phone or tablet, customize settings, and use helpful shortcuts."
+  lessons: []
+
+- id: "ios"
+  title: "iOS"
+  category: "Foundational Tech"
+  description: "Master your iPhone or iPad: understand gestures, organize apps, and customize settings."
+  lessons: []
+
+- id: "social-media-basics"
+  title: "Social Media Basics"
+  category: "Foundational Tech"
+  description: "Connect with family and friends safely using email and popular social platforms."
+  lessons: []
