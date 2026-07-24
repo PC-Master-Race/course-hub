@@ -44,3 +44,5 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Classroom Noise Purge & Card Styling Overhaul:** Completely eliminated all residual classroom agenda noise, timing markers ('15 minutes'), curriculum standard tags ('CMO 1-8', 'SLO'), and physical school logistics across all 9 lessons. Added .lead-in-card and .quiz-card component styling and enhanced visual hierarchy with color-coded activity, practice, and takeaway callout cards.
 
 - **Header & Module Divider Cleanup:** Fixed compiler heading parser to automatically block --- MODULE transition headers, Coming Up Next () lines, empty parentheses (), and stacked consecutive headers.
+
+- **Instructor Notes & Awkward Phrases Purged:** Removed 100% of teacher/instructor facilitation guides, cold-call scripts, teaching moves, and awkward regex replacements ('Before we hear from users', 'If no one users'). Auto-capitalized all paragraph and list item beginnings.
