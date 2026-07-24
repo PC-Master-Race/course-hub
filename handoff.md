@@ -49,7 +49,7 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 
 - **Lesson 1 Restored:** Fixed state machine module tracking in compiler so Lesson 1 ('What AI Actually Is') compiles completely with full text, tables, and video.
 
-- **100% Complete Rewrite From Scratch:** Rebuilt all 9 lessons from scratch with anti-AI detection humanized prose, rich color-coded cards (`.lead-in-card`, `.activity-card`, `.practice-card`, `.quiz-card`, `.tip-card`), workplace activities, self-check quiz cards, prompt scratchpads, and image/video containers for every section.
+- **9th-Grade Reading Level Adaptation:** Simplified language across all 9 lessons to a 9th-grade reading level. Defined every technical term (algorithm, token, prompt, hallucination, PII, local AI) right when introduced, and used relatable everyday analogies (recipes, automatic sprinklers, phone auto-complete text).
 
 - **Case Study Reflection Purged:** Replaced classroom share-out script ('bring back what you found') and empty 4-column recap table with an interactive Self-Paced Practice Card.
 
