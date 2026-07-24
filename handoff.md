@@ -56,3 +56,5 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Interactive Tournament Scratchpads & Input Security:** Converted static Prompt Tournament tables into interactive dual-textarea scratchpads with client-side JS HTML-stripping sanitizer (setupInputSanitizer).
 
 - **Universal Table Cell Textareas:** Configured compiler and JavaScript engine (setupEditableTableCells) to automatically render interactive textareas inside all table cells where students type.
+
+- **Prompt Table Textareas Fixed:** Added explicit interactive textareas directly inside table cells underneath the 'My prompt (write it here)' and 'AI output (paste key phrases or summarize)' header lines for Round 1, Round 2, and Round 3.

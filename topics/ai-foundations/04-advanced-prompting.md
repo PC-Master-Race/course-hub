@@ -234,9 +234,13 @@ youtube_id: "JUp8B2r7zD8"
 <p>Just type a simple, natural request. Do not use RTCF. Do not add any structure. Write the kind of prompt you would have written before this course.</p>
 
 
-| My prompt (write it here) | AI output (paste key phrases or summarize) |
-| --- | --- |
-| <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea> | <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea> |
+<div class="practice-card">
+  <p><strong>My prompt (write it here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea>
+  
+  <p><strong>AI output (paste key phrases or summarize):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea>
+</div>
 
 
 <h4>Round 2: Add RTCF</h4>
@@ -244,9 +248,13 @@ youtube_id: "JUp8B2r7zD8"
 <p>Now write a new prompt for the same task using the full RTCF framework. Include a specific Role, a precise Task, relevant Context about the situation and audience, and your preferred Format.</p>
 
 
-| My prompt (write it here) | AI output (paste key phrases or summarize) |
-| --- | --- |
-| <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea> | <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea> |
+<div class="practice-card">
+  <p><strong>My prompt (write it here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea>
+  
+  <p><strong>AI output (paste key phrases or summarize):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea>
+</div>
 
 
 <h4>Round 3: Add Few-Shot + Chain-of-Thought</h4>
@@ -254,9 +262,13 @@ youtube_id: "JUp8B2r7zD8"
 <p>Build on your RTCF prompt. Add (a) one example of the tone and length you want - quote a sentence or two from a response you consider professional. Then add (b) 'Before writing, think step by step about what this customer needs to hear and why. Then write the response.'</p>
 
 
-| My prompt (write it here) | AI output (paste key phrases or summarize) |
-| --- | --- |
-| <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea> | <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea> |
+<div class="practice-card">
+  <p><strong>My prompt (write it here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea>
+  
+  <p><strong>AI output (paste key phrases or summarize):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea>
+</div>
 
 
 <h4>After All Three Rounds: Side-by-Side Evaluation</h4>
