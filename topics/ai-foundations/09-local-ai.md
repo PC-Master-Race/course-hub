@@ -5,7 +5,7 @@ topic: "ai-foundations"
 last_updated: 2026-07-02
 ---
 
-<p>A later module -- in this module</p>
+<p>A later module -- in this lesson</p>
 
 
 <h4>Hands On, Speak Up, and Move Forward</h4>
@@ -70,12 +70,7 @@ last_updated: 2026-07-02
 
 <h4>Definition: CPU (Central Processing Unit)</h4>
 
-<p>Your main processor. If you do not have a dedicated GPU, your CPU handles all the AI work. This works but is slower unless your computer has the newer format Unified Memory which many Macs have and some newer PC's have. For running smaller local models on a budget, a modern CPU can still get the job done -- it just takes more patience.</p>
-
 <p class="standout-question">Model Size: What Does 3B vs. 30B Actually Mean?</p>
-<p>When people talk about AI models, you will often see numbers like 3B, 7B, 13B, 30B or more. The B stands for billion -- specifically, the number of parameters in the model.</p>
-<p>A parameter is a setting inside the AI that was adjusted during training to help it understand language. More parameters generally means the model can understand more complex questions and give more nuanced answers -- but it also means the model is bigger, slower, and needs more powerful hardware to run.</p>
-
 
 | Model Size | What It Is Good At | Limitations | Hardware Needed |
 | --- | --- | --- | --- |
@@ -116,7 +111,7 @@ last_updated: 2026-07-02
 | Option 1 -- Try the prompts below | If you are not sure where to start, use the guided prompts on the next page. They are designed for your specific field and will walk you through a real task step by step. |
 | --- | --- |
 | Option 2 -- Work on your own AI task | If you already know what you want to do, spend this time actually building or testing your AI workflow from your discussion post. Bring your questions and share what you are finding. |
-| Option 3 -- Explore a tool from in this module | Go back to the in this module guide, find a tool from your field you want to try, and spend this time experimenting with it. If it has a free version or trial, jump in. |
+| Option 3 -- Explore a tool from in this lesson | Go back to the in this lesson guide, find a tool from your field you want to try, and spend this time experimenting with it. If it has a free version or trial, jump in. |
 
 
 <h4>Guided Prompts -- Try These in ChatGPT, Gemini, or Claude</h4>
@@ -217,8 +212,8 @@ last_updated: 2026-07-02
 
 <ol>
   <li>Get into groups of 3 to 4 people.</li>
-  <li>Each group takes 10-15 minutes to share their AI workflow plan with their group. Cover three things: what task you chose, what tool you are using (or planning to use), and one thing you learned from the ethics questions in your A later module discussion post.</li>
-  <li>After each person shares, the group has 5 minutes to ask a question or make a comment. Keep it supportive -- this is a learning environment.</li>
+  <li>Each group takes  to share their AI workflow plan with their group. Cover three things: what task you chose, what tool you are using (or planning to use), and one thing you learned from the ethics questions in your A later module discussion post.</li>
+  <li>After each person shares, the group has  to ask a question or make a comment. Keep it supportive -- this is a learning environment.</li>
   <li>As a group, decide which plan you want to share with the full class. The person whose plan you choose will be the one to speak -- or the group can choose a spokesperson to summarize all of the group's ideas together.</li>
   <li>Prepare a 2 to 3 minute summary of what you discussed. You do not need notes or slides -- just a few sentences about what you talked about and what stood out.</li>
 </ol>
@@ -233,10 +228,10 @@ last_updated: 2026-07-02
 <h4>Group Presentations</h4>
 
 
-| Type:  Full Group Share-Out | Time:  20 minutes | Format:  One speaker per group |
+| Type:  Full Group Share-Out | Time: | Format:  One speaker per group |
 | --- | --- | --- |
 
-<p>Each group will take 2 to 3 minutes to share with the full class. Listen to each group -- you are going to hear a range of industries, tools, and approaches. Some of what you hear might spark an idea for your own workflow.</p>
+<p>Each group will take 2 to  to share with the full class. Listen to each group -- you are going to hear a range of industries, tools, and approaches. Some of what you hear might spark an idea for your own workflow.</p>
 
 <p>What to Cover in you's Summary</p>
 

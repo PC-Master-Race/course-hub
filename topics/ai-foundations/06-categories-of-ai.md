@@ -8,10 +8,6 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img1.png" | relative_url }})
 
-<p>AI Foundations</p>
-
-<p>This course, in this module - Complete Course Guide</p>
-
 <p>Table of Contents</p>
 
 <p>[Right-click and select "Update Field" to generate the Table of Contents]</p>
@@ -19,19 +15,17 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img2.png" | relative_url }})
 
-<p>AI Foundations  |  This course, in this module  |</p>
-
 <p>Debrief</p>
 
 <p>Share What You Found · Sharpen Your Category Eye · Frame the Day</p>
 
 <p>Time Format Objectives Before You Start</p>
 
-<p>15 minutes Share-Out + Verbal</p>
+<p>Share-Out + Verbal</p>
 
 <p>Review</p>
 
-<p>CMO 4, CMO 6 Have your between-</p>
+<p>,  Have your between-</p>
 
 <p>session tool ready</p>
 
@@ -40,7 +34,7 @@ last_updated: 2026-07-02
 
 <p>Last class I gave you a challenge: find one AI tool in the category most relevant to your field that</p>
 
-<p>you didn't know existed before in this module. A few of you are going to share out loud - and as you</p>
+<p>you didn't know existed before in this lesson. A few of you are going to share out loud - and as you</p>
 
 <p>listen to your peers, I want you to do two things:</p>
 
@@ -116,7 +110,6 @@ last_updated: 2026-07-02
 <ul>
   <li>Ask these four questions. If most answers are YES → good fit for AI:</li>
   <li>Is this task repetitive? Does it come up over and over in roughly the same form?</li>
-  <li>Is it language or data -based? Can AI actually process what this task involves?</li>
   <li>Is a mistake recoverable? Can a human catch and fix errors before they cause real</li>
 </ul>
 <p class="standout-question">harm?</p>
@@ -202,7 +195,7 @@ last_updated: 2026-07-02
 
 <p>You test a second task from your field</p>
 
-<p>using a different AI category than in this module</p>
+<p>using a different AI category than in this lesson</p>
 
 <ul>
   <li>run the filter, write a layered RTCF</li>
@@ -211,7 +204,7 @@ last_updated: 2026-07-02
 
 <p>This completes the Industry AI Audit you</p>
 
-<p>started in this module - and gives you real</p>
+<p>started in this lesson - and gives you real</p>
 
 <p>output to drop into your capstone</p>
 
@@ -237,7 +230,7 @@ last_updated: 2026-07-02
 
 <p>One Thing Before We Start</p>
 
-<p>Pull up your in this module anchor output - the task you ran through the filter and the RTCF prompt</p>
+<p>Pull up your in this lesson anchor output - the task you ran through the filter and the RTCF prompt</p>
 
 <p>you built. You'll need it for the Anchor Activity in Part 2 in this session. Screenshot, typed notes, or</p>
 
@@ -253,17 +246,11 @@ last_updated: 2026-07-02
 
 <h3>THE 5 CATEGORIES OF AI AT WORK</h3>
 
-<p>AI Foundations  |  This course, in this module  |</p>
-
 <p>The 5 Categories of AI at Work</p>
 
 <p>Map the full landscape -- now that you have used two of these yourself.</p>
 
-<p>Time CMOs Key Concepts Why It Matters Now</p>
-
-<p>30 minutes CMO 4 (primary) /</p>
-
-<p>CMO 6</p>
+<p>(primary) /</p>
 
 <p>5 categories + Bots vs.</p>
 
@@ -299,8 +286,6 @@ last_updated: 2026-07-02
 <ul>
   <li>It sets up your capstone directly. The AI Workplace Framework you are building requires</li>
 </ul>
-<p>you to identify which categories apply to your field -- this module gives you the vocabulary to</p>
-
 <p>do that precisely.</p>
 
 <p>Category 1: Language and Communication</p>
@@ -933,19 +918,11 @@ last_updated: 2026-07-02
 
 <h3>IMAGE AI: HANDS-ON LAB</h3>
 
-<p>AI Foundations  |  This course, in this module  |</p>
-
 <p>Image AI: Hands-On Lab</p>
 
 <p>Concepts are done. Now you build something real.</p>
 
-
-<div class="practice-card">
-
-
-<h3>Time CMOs Skills Practiced Tools Needed</h3>
-
-<p>35 minutes CMO 4 / CMO 6 Critical thinking, prompt</p>
+<p>/  Critical thinking, prompt</p>
 
 <p>writing</p>
 
@@ -955,11 +932,11 @@ last_updated: 2026-07-02
 
 <p>Quick Recap -- What You Already Know</p>
 
-<p>in this module you were introduced to the four -part image prompt framework. Before you generate</p>
+<p>in this lesson you were introduced to the four -part image prompt framework. Before you generate</p>
 
 <p>anything today, let's make sure that structure is sharp in your mind -- because the quality of</p>
 
-<p>what you produce in the next 30 minutes depends entirely on how well you write the prompt</p>
+<p>what you produce in the next  depends entirely on how well you write the prompt</p>
 
 <p>first.</p>
 
@@ -1038,8 +1015,6 @@ last_updated: 2026-07-02
 <p>into the chat -- Gemini</p>
 
 <p>generates images inline</p>
-
-</div>
 
 
 <h3>Activity -- Generate for Your Field</h3>
@@ -1653,9 +1628,6 @@ last_updated: 2026-07-02
 
 <p>every step it took.</p>
 
-
-<h3>Part 4: What This Looks Like in Your Field</h3>
-
 <p>The same job can be done very differently depending on which kind of AI you use. Read the</p>
 
 <p>examples below and think about your own field while you read.</p>
@@ -1852,7 +1824,7 @@ last_updated: 2026-07-02
 </div>
 
 
-<h3>Time: 12-15 minutes  |  Whole-class activity</h3>
+<h3>Time:   |  Whole-class activity</h3>
 
 
 <h5 class="card-section-label">Purpose</h5>
@@ -1968,8 +1940,6 @@ last_updated: 2026-07-02
 
 <p>Module Wrap-Up: What You Should Be Able to Do Now</p>
 
-<p>After reading this module, you should be able to do these things:</p>
-
 <ul>
   <li>Explain why saying 'chatbots just follow rules' is no longer accurate -- and what the better</li>
 </ul>
@@ -1990,7 +1960,7 @@ last_updated: 2026-07-02
 <p class="standout-question">Want to Learn More?</p>
 <p>These articles are written in plain English for non -technical readers. Each one takes about 5 to</p>
 
-<p>15 minutes to read.</p>
+<p>to read.</p>
 
 <ul>
   <li>IBM -- What Are AI Agents? -- A clear, plain-English explanation of how agents work and how they</li>
@@ -2012,9 +1982,7 @@ last_updated: 2026-07-02
 </ul>
 <p>piece on what changes when AI can act, not just answer questions.</p>
 
-<p>This course, in this module  |  BONUS EXTENSION</p>
-
-<p>AI Foundations  |  This course, in this module  |</p>
+<p>This course, in this lesson  |  BONUS EXTENSION</p>
 
 <p>ATS Resume Lab -- Optional</p>
 
@@ -2022,13 +1990,11 @@ last_updated: 2026-07-02
 
 <p>Use AI to Beat the Resume Screener -- in this guide or At Home</p>
 
-<p>Time Format CMO Covered Who This Is For</p>
-
 <p>15 min in this guide -- or</p>
 
 <p>finish at home</p>
 
-<p>Demo + Try It CMO 6 -- language</p>
+<p>Demo + Try It  -- language</p>
 
 <p>task that fits AI</p>
 
@@ -2307,17 +2273,13 @@ last_updated: 2026-07-02
 
 <p>-- End of ATS Resume Lab -- Optional At-Home Extension --</p>
 
-<p>This course, in this module  |  CLOSE</p>
-
-<p>AI Foundations  |  This course, in this module  |</p>
+<p>This course, in this lesson  |  CLOSE</p>
 
 <p>This course Close & A later module Preview</p>
 
 <p>Collect -- Synthesize -- Set Up What Comes Next</p>
 
 <p>Time Format Before You Leave Office Hours</p>
-
-<p>25 minutes Exit Ticket + Preview  Submit Capstone Draft</p>
 
 <p>1</p>
 
@@ -2327,11 +2289,9 @@ last_updated: 2026-07-02
 
 <p>Look What You Built in this session</p>
 
-<p>Before we do the exit ticket, take 30 seconds and look at what you actually accomplished in one</p>
-
 <p>class session.</p>
 
-<p>This course, in this module -- What You Did</p>
+<p>This course, in this lesson -- What You Did</p>
 
 <ul>
   <li>Audio AI -- Lesson 7: Learned what audio AI does, which tools exist, tried a live demo,</li>
@@ -2368,7 +2328,7 @@ last_updated: 2026-07-02
 
 <p>If you have not submitted yet, do it now before you pack up. I will return written feedback before</p>
 
-<p>A later module in this module so you have something concrete to build on.</p>
+<p>A later module in this lesson so you have something concrete to build on.</p>
 
 <p>How to Submit -- Three Options</p>
 
@@ -2393,11 +2353,7 @@ last_updated: 2026-07-02
 
 <p>best prompt before A later module.</p>
 
-<p>Exit Ticket -- One Honest Thought</p>
-
 <p>Complete this before you leave. I will ask a few people to share out loud.</p>
-
-<p>Exit Ticket</p>
 
 <p>One task from my field I thought was AI -ready -- but now I am not so sure:</p>
 
@@ -2550,7 +2506,7 @@ last_updated: 2026-07-02
 
 <p>Office Hours in this session --  to , This Room</p>
 
-<p>Stay if you want one -on-one time. I will be here for 15 minutes after class. Bring any of the</p>
+<p>Stay if you want one -on-one time. I will be here for  after class. Bring any of the</p>
 
 <p>following:</p>
 
@@ -2578,4 +2534,4 @@ last_updated: 2026-07-02
 
 <p>A later module is where it gets harder -- and more interesting. Bring your worry. See you then.</p>
 
-<p>-- End of This course, in this module --</p>
+<p>-- End of This course, in this lesson --</p>

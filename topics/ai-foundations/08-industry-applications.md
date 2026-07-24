@@ -5,7 +5,7 @@ topic: "ai-foundations"
 last_updated: 2026-07-02
 ---
 
-<p>A later module -- in this module</p>
+<p>A later module -- in this lesson</p>
 
 <p>Warm-Up</p>
 
@@ -39,7 +39,7 @@ last_updated: 2026-07-02
 
 <p class="standout-question">What Is the Future of Work With AI?</p>
 
-| Type:  Reading and Discussion | Time:  20 minutes | Format:  Full group |
+| Type:  Reading and Discussion | Time: | Format:  Full group |
 | --- | --- | --- |
 
 <p>You have probably heard people say things like "AI is going to take our jobs" or "AI will replace workers." The reality is more nuanced than that, and understanding the difference matters for how you plan your career.</p>
@@ -76,7 +76,7 @@ last_updated: 2026-07-02
 <h4>AI in Your Field: Healthcare and Human Services</h4>
 
 
-| Vocations:  CNA Nursing, Pharmacy Tech, Behavioral Specialist | Time:  20 minutes |
+| Vocations:  CNA Nursing, Pharmacy Tech, Behavioral Specialist | Time: |
 | --- | --- |
 
 <p>If you work in healthcare or human services, AI is already in your workplace -- even if you have not noticed it yet. Let us look at what is actually being used, what it does, and what it means for your role.</p>
@@ -161,7 +161,7 @@ last_updated: 2026-07-02
 | AI Tool | What It Does | Where You Will See It |
 | --- | --- | --- |
 | Zillow AI and Zestimate | Uses AI to estimate property values based on hundreds of data points -- square footage, location, recent sales, school ratings, and more. | Zillow platform, real estate searches |
-| ChatGPT / Claude for listing descriptions | Agents use AI to write compelling property descriptions from bullet points of features. A good listing description used to take 30 minutes -- AI does a first draft in seconds. | Real estate agencies, independent agents |
+| ChatGPT / Claude for listing descriptions | Agents use AI to write compelling property descriptions from bullet points of features. A good listing description used to take  -- AI does a first draft in seconds. | Real estate agencies, independent agents |
 | Ojo Labs and Homebot | AI tools that analyze buyer and seller behavior to predict who is ready to move, and send personalized market updates automatically. | Real estate brokerages, mortgage companies |
 | DocuSign AI (Intelligent Agreement Management) | Reads contracts, flags unusual clauses, and extracts key dates and obligations from real estate agreements. | Real estate transactions, property management |
 

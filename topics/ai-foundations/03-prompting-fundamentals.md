@@ -26,7 +26,7 @@ youtube_id: "dH8gX3Zg85U"
 
 | ❌  Vague Prompt | ✅  Strategic Prompt (RTCF) |
 | --- | --- |
-| "Write me an email." | "You are a medical office coordinator. Write a 3-sentence email to a patient reminding them of their 2 PM appointment tomorrow. Use a warm, professional tone and include a note about arriving 10 minutes early for check-in." |
+| "Write me an email." | "You are a medical office coordinator. Write a 3-sentence email to a patient reminding them of their 2 PM appointment tomorrow. Use a warm, professional tone and include a note about arriving  early for check-in." |
 | Result: A generic, bland email with no context, no tone, and no useful details. Could apply to anything, to anyone, in any industry. | Result: A polished, warm, professional patient communication - ready to copy, paste, and send with one quick review. |
 
 <p>The tool did not change. The input did. That is the entire lesson of prompting in one sentence.</p>
@@ -136,13 +136,12 @@ youtube_id: "dH8gX3Zg85U"
 
 <h4>Dig Deeper: Recommended Reading</h4>
 
-<p>These high-quality, trustworthy sources will strengthen your understanding of prompting and AI communication. Each takes 5-15 minutes to read.</p>
+<p>These high-quality, trustworthy sources will strengthen your understanding of prompting and AI communication. Each takes  to read.</p>
 
 <ul>
   <li>For a deeper dive, read this from OpenAI: Prompt Engineering Guide - The officia guide from the makers of ChatGPT. Clear, well-organized, and full of tested techniques (Advanced).</li>
   <li>Read this from Anthropic: Prompt Library: Real Examples Across Use Cases - A browsable library of strong prompts across dozens of workplace scenarios. Excellent for inspiration and pattern recognition (Advanced).</li>
   <li>For a deeper dive, read this from Google: How to Write Better AI Prompts - Google's accessible, beginner-friendly take on effective prompting. Practical advice with real examples.</li>
-  <li>For a deeper dive, read this from MIT Sloan Management Review: Effective Prompts for AI - Research-backed advice on prompt construction from an enterprise perspective.</li>
   <li>For a deeper dive, read this from Ethan Mollick - One Useful Thing: How to Use AI to Do Stuff: An Opinionated Guide - Mollick is a Wharton professor and one of the most practical AI educators writing today. Every post is worth reading.</li>
 </ul>
 

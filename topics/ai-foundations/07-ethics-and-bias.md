@@ -8,10 +8,10 @@ last_updated: 2026-07-02
 
 <h2>Part 1: AI Bias & Accountability Gap</h2>
 
-<p>A later module, in this module - Complete Student Guide</p>
+<p>A later module, in this lesson - Complete Student Guide</p>
 
 <p class="standout-question">Who Is Responsible When AI Gets It Wrong?</p>
-<p>--- A later module, in this module  -  WARM-UP ---</p>
+<p>--- A later module, in this lesson  -  WARM-UP ---</p>
 
 <p class="standout-question">What Worries You About AI?</p>
 <p>Surfacing real concerns before we talk about real solutions</p>
@@ -71,7 +71,7 @@ last_updated: 2026-07-02
 <p class="standout-question">Who Is Responsible?</p>
 <p class="standout-question">When AI makes a decision that affects your life -- who do you hold accountable?</p>
 
-| Time:  30 min | Format:  Reading + discussion | Week:  A later module, in this module |
+| Time:  30 min | Format:  Reading + discussion | Week:  A later module, in this lesson |
 | --- | --- | --- |
 
 <p>You already know the difference between a scoped AI tool and an autonomous agent. We covered that in this course. Today we are not going to review the technology. We are going to ask a harder question: when AI makes a mistake that hurts someone -- who is responsible for that?</p>
@@ -174,7 +174,7 @@ last_updated: 2026-07-02
 <ol>
   <li>Read this scenario: An AI agent rejects your job application before any human reads it. You know you are qualified. You apply again. It rejects you again.</li>
   <li>With your partner, talk through these questions: Who do you complain to? What proof do you need to show the decision was wrong? Can you even get an explanation of why it happened?</li>
-  <li>After 5 minutes, share your thinking with others. You do not need to have answers -- the point is to notice how hard the questions are.</li>
+  <li>After , share your thinking with others. You do not need to have answers -- the point is to notice how hard the questions are.</li>
   <li>After others shares, we will name what this difficulty is called: the accountability gap.</li>
 </ol>
 
@@ -547,17 +547,11 @@ last_updated: 2026-07-02
   <li>Share with others. I will write every response below.</li>
   <li>After everyone has shared, we will look at the board together and notice: what do all these lines have in common? What principle is underneath them?</li>
 </ol>
-<p>--- A later module, in this module  -  CLOSE ---</p>
+<p>--- A later module, in this lesson  -  CLOSE ---</p>
 
 <p>Pulling it together before we go</p>
 
 <p>We covered a lot today. Real cases, hard concepts, and some genuinely uncomfortable questions. That was intentional. Before we leave, I want to make sure everything connects.</p>
-
-
-<h4>Step 2 -- Exit Ticket</h4>
-
-
-<h4>Exit Ticket -- One Sentence Before You Leave</h4>
 
 <p>In one sentence, write down: one AI risk from today that directly connects to your field. Be specific -- name your field and name the risk.</p>
 
@@ -599,14 +593,14 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-07-part2-img1.png" | relative_url }})
 
-<p>--- A later module, in this module  -  WARM-UP ---</p>
+<p>--- A later module, in this lesson  -  WARM-UP ---</p>
 
 
 <h4>One Thing That Stuck</h4>
 
-<p>Re-engaging with in this module before we go deeper</p>
+<p>Re-engaging with in this lesson before we go deeper</p>
 
-<p>Before we get into today's material, I want to know what is still on your mind from yesterday. in this module covered a lot of heavy content -- real harm, real lawsuits, real ethical failures. I do not expect you to have processed all of it overnight. That is actually the point of starting today this way.</p>
+<p>Before we get into today's material, I want to know what is still on your mind from yesterday. in this lesson covered a lot of heavy content -- real harm, real lawsuits, real ethical failures. I do not expect you to have processed all of it overnight. That is actually the point of starting today this way.</p>
 
 <p>Yesterday was about systems and accountability. Today is about people -- human dignity, the planet, knowledge, and what kind of AI user you choose to be.</p>
 
@@ -876,7 +870,7 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>Applying everything from A later module to your own AI opportunity</p>
 
-<p>This is the most important work of the week. Everything in this module and in this module -- the case studies, the bias discussion, the concept of human dignity, the Magnifica Humanitas framework -- has been building toward the questions you are going to answer right now.</p>
+<p>This is the most important work of the week. Everything in this lesson and in this lesson -- the case studies, the bias discussion, the concept of human dignity, the Magnifica Humanitas framework -- has been building toward the questions you are going to answer right now.</p>
 
 <p>Open your This course capstone document. Find Section 2 -- the AI-ready task you identified in your field. That task is what we are examining today. You are going to add Section 4 to your capstone: the ethics layer.</p>
 
@@ -974,7 +968,7 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 <p>Collecting what we built -- and setting up the final week</p>
 
 
-| Time:  30 min | Format:  Submit + reflect + preview | Week:  A later module, in this module |
+| Time:  30 min | Format:  Submit + reflect + preview | Week:  A later module, in this lesson |
 | --- | --- | --- |
 
 <p>We are at the end of A later module. This is worth pausing on for a moment. Two weeks ago you were learning what AI is. This week you examined who is responsible when it causes harm, what fairness and dignity require, what it costs the environment, and whether your own AI task holds up under ethical scrutiny. That is not a small thing.</p>
@@ -986,12 +980,6 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 <h4>How to Submit</h4>
 
 <p>-- Canvas: Share part two of your discussion in the discussion prompt that will be available on Friday June 5th. Instructions will be posted on the discussion but will mirror the in this guide activity we completed today.</p>
-
-
-<h4>Step 2 -- Exit Ticket</h4>
-
-
-<h4>Exit Ticket -- Complete This Sentence</h4>
 
 <p>Complete this sentence before you leave:</p>
 
@@ -1011,9 +999,9 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 | A later module Topic | What It Means for You |
 | --- | --- |
 | The Future of Work and AI Adoption Challenges | A realistic look at how workplaces are actually adapting to AI -- the barriers, the speed bumps, and the opportunities that are still open. |
-| CMO 8 -- The Full Picture | Bringing together all eight course outcomes into one coherent view of what it means to be an AI-informed professional. |
+| -- The Full Picture | Bringing together all eight course outcomes into one coherent view of what it means to be an AI-informed professional. |
 | Capstone Finalization | You take your workflow document -- the opportunity you identified, the ethics layer you built this week -- and prepare to discuss it. |
-| Presentation Day | in this module of A later module is presentation day. Each student walks through their AI Workplace Framework in 2 to 3 minutes. It does not need to be polished. It needs to be honest and informed. |
+| Presentation Day | in this lesson of A later module is presentation day. Each student walks through their AI Workplace Framework in 2 to . It does not need to be polished. It needs to be honest and informed. |
 
 
 <h4>Presentation Prep -- Start Thinking Now</h4>

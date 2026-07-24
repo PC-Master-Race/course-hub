@@ -6,9 +6,6 @@ last_updated: 2026-07-02
 youtube_id: "JUp8B2r7zD8"
 ---
 
-<p>in this module ended with a challenge: try one AI tool for a real task, screenshot the result, and bring it back.</p>
-<p>That challenge was not optional independent practice - it was the first moment you used AI outside of a learning space setting, on something that actually matters to you. This 15 minutes exists to honor that experiment, learn from each other's attempts, and sharpen your memory of the core framework before we build on it.</p>
-
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img1.png" | relative_url }})
 
@@ -81,11 +78,8 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>You have recalled the foundation. Now we build on it. Module 5 introduces four professional-grade prompting techniques that go beyond RTCF - few-shot prompting, chain-of-thought, persona and constraint prompting, and iterative refinement. You will use all of them in the Prompt Tournament activity.</p>
 
-<p>Your only task right now: get your notes from in this module in front of you and think of one workplace task you have not yet tried in AI. You will use it in today's activity.</p>
+<p>Your only task right now: get your notes from in this lesson in front of you and think of one workplace task you have not yet tried in AI. You will use it in today's activity.</p>
 
-<ul>
-  <li>End of in this module Reconnect -</li>
-</ul>
 
 <h4>--- MODULE 5: Advanced Prompting Techniques ---</h4>
 
@@ -390,7 +384,7 @@ youtube_id: "JUp8B2r7zD8"
 
 | Field | Image AI use cases | Realistic time savings |
 | --- | --- | --- |
-| Healthcare & Patient Services | Patient education diagrams, anatomy illustrations, multilingual signage, training scenario visuals for staff | Eliminates hours of stock photo searching or waiting for a graphic designer. A training flyer that took 2 days now takes 20 minutes. |
+| Healthcare & Patient Services | Patient education diagrams, anatomy illustrations, multilingual signage, training scenario visuals for staff | Eliminates hours of stock photo searching or waiting for a graphic designer. A training flyer that took 2 days now takes . |
 | Logistics, Warehousing & Manufacturing | Safety procedure posters, equipment layout diagrams, hazard zone visualizations, onboarding visual guides | Safety signage that previously required a vendor can be mocked up in-house in under an hour - then refined with a designer. |
 | Business Administration & Office Professionals | Presentation visuals, report infographics, professional headshots (with caveats), social media graphics for company pages | A professional-looking slide deck visual that would have required Shutterstock or a designer can be generated and customized in minutes. |
 | Early Childhood & Education | Custom learning space illustrations, story visuals for student materials, parent newsletter headers, culturally inclusive imagery | Teachers can create visuals that reflect their specific student community instead of defaulting to generic stock images. |
@@ -580,21 +574,17 @@ youtube_id: "JUp8B2r7zD8"
   <li>Write a specific image prompt using the five-part formula (Subject + Setting + Style + Mood + Format) and refine it iteratively.</li>
   <li>Evaluate an AI-generated image critically before using it professionally - checking for accuracy, representation, usability, and legal appropriateness.</li>
 </ul>
-<p>Coming up after the break: the Anchor Activity - the centerpiece of This course. You will put everything from both days together in a structured, field-specific AI audit of your own work. Bring your in this module notes.</p>
+<p>Coming up after the break: the Anchor Activity - the centerpiece of This course. You will put everything from both days together in a structured, field-specific AI audit of your own work. Bring your in this lesson notes.</p>
 
 
 <h4>BONUS SKILL PREVIEW</h4>
 
-<p>Audio AI & Chain-of-Thought Reasoning  |  This course, in this module  |</p>
-
-<p>Segment: Bonus Skill Preview  |  Time:    |  Format: Demonstration + Observation</p>
-
-<p>CMOs: CMO 3 (AI tools)  |  CMO 4 (content generation)  |  CMO 7 (limitations)  |  CMO 8 (emerging trends)</p>
+<p>Audio AI & Chain-of-Thought Reasoning  |  This course, in this lesson  |</p>
 
 
 <h4>What This Bonus Preview Covers</h4>
 
-<p>The final 20 minutes of This course is a forward-looking glimpse at two powerful AI capabilities you have not yet explored: Audio AI tools and Chain-of-Thought (CoT) reasoning. This preview is intentionally brief - you will go deeper in this course and 3. in this session, the goal is simple: expand your sense of what is possible.</p>
+<p>The final  of This course is a forward-looking glimpse at two powerful AI capabilities you have not yet explored: Audio AI tools and Chain-of-Thought (CoT) reasoning. This preview is intentionally brief - you will go deeper in this course and 3. in this session, the goal is simple: expand your sense of what is possible.</p>
 
 <p>You do not need to master these tools right now. You need to walk away thinking: 'That is something I could actually use.' If any of in this session's demonstrations spark a question or a use case in your field, write it down - your curiosity is exactly the fuel that makes This course powerful.</p>
 
@@ -670,8 +660,6 @@ youtube_id: "JUp8B2r7zD8"
   <li>Standard AI response: You ask a question → AI gives you an answer. No explanation of how it got there.</li>
   <li>Chain-of-Thought response: You ask a question → AI works through the problem step by step, showing intermediate reasoning → then gives a final answer.</li>
 </ul>
-<p>Why this matters for you: When you can see the reasoning, you can catch errors before they affect your work. You can also prompt the AI to slow down and reason carefully through a complex workplace decision.</p>
-
 
 <h4>How to Trigger Chain-of-Thought Reasoning</h4>
 
@@ -726,7 +714,7 @@ youtube_id: "JUp8B2r7zD8"
 
 <h4>Pacing and Facilitation</h4>
 
-<p>Timing: This is a 20-minute segment - 10 minutes Audio AI, 10 minutes CoT. Do not let this expand. Students are likely fatigued at . Keep energy high through live demonstration rather than slides.</p>
+<p>Timing: This is a 20-minute segment -  Audio AI,  CoT. Do not let this expand. Students are likely fatigued at . Keep energy high through live demonstration rather than slides.</p>
 
 <p>Audio AI demo tip: Pre-load Otter.ai and have a 60-second script ready. If live Otter.ai demo has technical issues, show a pre-recorded screenshot sequence instead. The key is students seeing an actual transcription and summary - not a PowerPoint description of one.</p>
 
@@ -739,20 +727,16 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>This course CLOSE & This course PREVIEW</p>
 
-<p>Segment: This course Close  |  Time:    |  Format: Whole group reflection + individual exit ticket</p>
-
-<p>CMOs: CMO 1-8 (synthesis)  |  SLOs: Critical thinking  |  Communication  |  Workforce readiness</p>
-
 
 <h3>Part 1: AI Word Association Revisit</h3>
 
-<p>At the start of This course, in this module, you contributed words which represented your initial associations with AI before any instruction. You have spent the past two days learning what AI actually is, how to prompt it, how to identify opportunities, how to catch its errors, and how to approach it as a critical thinking tool.</p>
+<p>At the start of This course, in this lesson, you contributed words which represented your initial associations with AI before any instruction. You have spent the past two days learning what AI actually is, how to prompt it, how to identify opportunities, how to catch its errors, and how to approach it as a critical thinking tool.</p>
 
 <p>Now it is time to look at what you wrote one more time not to erase it, but to see how your thinking has evolved.</p>
 
 <p>Word Wall Final Reflection - group discussion</p>
 
-<p>Instructor: Display or refer to the original Word Wall from in this module. Give students 60 seconds of quiet thinking time, then open the floor.</p>
+<p>Instructor: Display or refer to the original Word Wall from in this lesson. Give students 60 seconds of quiet thinking time, then open the floor.</p>
 
 <p>Prompt 1: "Look at the words you added at the beginning of This course. Which one would you add a footnote to now - something you would want to add or change?"</p>
 
@@ -763,13 +747,6 @@ youtube_id: "JUp8B2r7zD8"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img13.png" | relative_url }})
 
-
-<h3>Part 2: Exit Ticket</h3>
-
-<p>The exit ticket is the most important 5 minutes of This course. It is not a test - it is a commitment device. Research on learning consistently shows that writing a specific, concrete statement of intended application dramatically increases follow-through. You are not just summarizing what you learned. You are making a professional declaration.</p>
-
-<p>Exit Ticket: My This course AI Commitment</p>
-
 <p>Complete this sentence:</p>
 
 <p>"AI can help someone in my field by _____________________________________________, and I plan to try it by ___________________"</p>
@@ -778,12 +755,7 @@ youtube_id: "JUp8B2r7zD8"
 | Name: ___________________________________ | Field / Trade: ___________________________ |
 | --- | --- |
 
-
-<h4>How to Complete Your Exit Ticket</h4>
-
 <p>Be specific, not general: "AI can help someone in my field by drafting follow-up emails after client consultations" is strong. "AI can help with writing" is too vague.</p>
-
-<p>Use your Opportunity Map: Look at what you wrote in Part B of the Anchor Activity. Your best row is probably your best exit ticket answer.</p>
 
 <p>Set a real deadline: The second blank is a date - not 'someday.' Write an actual date within the next 7 days. Make it real.</p>
 
@@ -795,8 +767,6 @@ youtube_id: "JUp8B2r7zD8"
 <p>Your This course-to-This course Challenge</p>
 
 <p>The Challenge:</p>
-
-<p>Take the task you wrote on your exit ticket and actually test it with an AI tool before This course. Use what you wrote on your Opportunity Map as your starting prompt. Document what happens - what the AI produced, whether you trusted it, and what you would change.</p>
 
 <p>What to bring to This course:</p>
 
@@ -812,9 +782,9 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>Your job is not to be impressed by AI. Your job is to decide whether it earns a place in your workflow. That is an expert judgment - and only you can make it.</p>
 
-<p>in this module Quick Reference  |</p>
+<p>in this lesson Quick Reference  |</p>
 
-<p>📖  in this module KEY TERMS & DEFINITIONS</p>
+<p>📖  in this lesson KEY TERMS & DEFINITIONS</p>
 
 
 | Few-Shot Prompting | Giving the AI 2-3 examples of the output you want before making your real request. The AI learns your intended pattern and replicates it. |
@@ -845,7 +815,7 @@ youtube_id: "JUp8B2r7zD8"
 <p>"You are a medical office administrator writing for patients with limited health literacy [Persona]. Do not use clinical abbreviations [Constraint]. Here are two examples of how I explain billing notices: [Example 1: Dear Mr. Reyes, your insurance covered most of your visit.</p>
 <p>The remaining $45 is your copay. Please call us at 555-0100 if you have questions.] [Example 2: Dear Ms. Park, we received a payment of $120 from your insurance. Your balance of $30 is due by the 15th.] [Few-Shot] Now write a notice for a patient who owes $75 after insurance, with a payment due date of June 30."</p>
 
-<p>in this module Quick Reference  -  Page 2 of 2</p>
+<p>in this lesson Quick Reference  -  Page 2 of 2</p>
 
 
 <h4>🖼️  IMAGE AI - TOOLS, PROMPTS & PROFESSIONAL USE</h4>

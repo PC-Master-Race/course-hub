@@ -8,30 +8,16 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-05-img1.png" | relative_url }})
 
-<p>AI Foundations</p>
-
-<p>This course, in this module - Complete Course Guide</p>
-
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-05-img2.png" | relative_url }})
 
-<p>AI Foundations  |  This course, in this module  |</p>
-
-<p>Let's Check In, Reconnect, and Build on What You Already Know</p>
-
-<p>15 minutes Discussion +</p>
-
 <p>Reflection</p>
 
-<p>CMO 1, CMO 2,</p>
-
-<p>CMO 5</p>
-
-<p>What This 15 Minutes Is About</p>
+<p>, ,</p>
 
 <p>This course introduced the big picture - what AI is, how it thinks, and why prompting matters.</p>
 
-<p class="standout-question">Before we go deeper, I want to take 15 minutes to check in with you. What actually landed?</p>
+<p class="standout-question">Before we go deeper, I want to take  to check in with you. What actually landed?</p>
 <p>What felt unclear? Did anyone take a shot at using an AI tool on a real task this week? This</p>
 
 <p>is not a quiz - it is a conversation. The goal is to make sure we move into This course with a</p>
@@ -86,7 +72,7 @@ last_updated: 2026-07-02
 <ul>
   <li>Accounting / Bookkeeping: "I asked ChatGPT to summarize a client's expense categories</li>
 </ul>
-<p>from a spreadsheet description and it saved me about 20 minutes."</p>
+<p>from a spreadsheet description and it saved me about ."</p>
 
 <ul>
   <li>Real Estate: "I tried having Gemini write a property listing and the first draft was too generic,</li>
@@ -211,9 +197,6 @@ last_updated: 2026-07-02
 
 <p>reason the output felt generic. We will fix that today.</p>
 
-
-<h3>Part 4 - What This course Is About</h3>
-
 <p>Here is the shift we are making this week. Last week answered the question: "What is AI and</p>
 
 <p>how does it work?" This week answers a more practical question:</p>
@@ -232,7 +215,7 @@ last_updated: 2026-07-02
 
 <p>What We Will Cover in this session</p>
 
-<p>Here is the plan for This course, in this module:</p>
+<p>Here is the plan for This course, in this lesson:</p>
 
 <ul>
   <li>The 5 Categories of AI at Work - mapping the full landscape of what AI tools actually do</li>
@@ -282,8 +265,6 @@ last_updated: 2026-07-02
 <h3>activity.</h3>
 
 <p>Map the Landscape - Know What Each Tool Can Actually Do</p>
-
-<p>Why This Module Matters</p>
 
 <p>Most people open ChatGPT for everything - writing, data questions, images, scheduling.</p>
 
@@ -588,7 +569,7 @@ last_updated: 2026-07-02
 
 <h3>one category directly to your own work. This activity has two parts: a group sort, then a</h3>
 
-<p>personal reflection. Both take about 15 minutes total.</p>
+<p>personal reflection. Both take about  total.</p>
 
 
 <h3>Part A - Group Category Sort</h3>
@@ -649,9 +630,7 @@ last_updated: 2026-07-02
 <p>______________</p>
 
 
-<h3>This course, in this module - MODULE: CRITERIA FOR PICKING THE RIGHT TASK</h3>
-
-<p>AI Foundations  |  This course, in this module  |</p>
+<h3>This course, in this lesson - MODULE: CRITERIA FOR PICKING THE RIGHT TASK</h3>
 
 <p>Criteria for Picking the Right Task</p>
 
@@ -661,26 +640,18 @@ last_updated: 2026-07-02
 
 <p>Time</p>
 
-<p>35 minutes Content + Anchor</p>
+<p>Content + Anchor</p>
 
 
 <h3>Activity</h3>
 
-<p>CMO 6, SLO Critical</p>
-
 <p>Thinking</p>
-
-<p>12-15 minutes</p>
-
-<p>Why This Module Matters</p>
 
 <p>Knowing the five categories of AI is a great start. But the next skill - the one that separates</p>
 
 <p>people who get real, lasting value from AI - is knowing which tasks to hand off and which</p>
 
 <p>to keep for yourself.</p>
-
-<p>Not every task that AI can do should go to AI. This module gives you a practical filter you</p>
 
 <p>can apply to any task in under 30 seconds.</p>
 
@@ -806,7 +777,7 @@ last_updated: 2026-07-02
 </ul>
 <p>enough' creates liability</p>
 
-<p>Quick rule of thumb: If a task takes you more than 10 minutes manually and you will do it</p>
+<p>Quick rule of thumb: If a task takes you more than  manually and you will do it</p>
 
 <p>more than once - it is worth experimenting with AI. As your prompting skill grows, that</p>
 
@@ -1050,7 +1021,7 @@ last_updated: 2026-07-02
 <p>AI is likely worth it when...  AI may not be worth it when...</p>
 
 <ul>
-  <li>The task takes more than 10 minutes to do</li>
+  <li>The task takes more than  to do</li>
 </ul>
 <p>manually</p>
 
@@ -1070,7 +1041,7 @@ last_updated: 2026-07-02
 <p>summaries, reports, lists)</p>
 
 <ul>
-  <li>The task takes 2-3 minutes and requires no</li>
+  <li>The task takes  and requires no</li>
 </ul>
 <p>real thinking</p>
 
@@ -1103,11 +1074,6 @@ last_updated: 2026-07-02
   <li>For a deeper dive, read this from Harvard Business Review: How to Use AI to Do Practical Tasks at</li>
 </ul>
 <p>Work - https://hbr.org/2023/09/how-to-use-ai-tools-effectively-at-work</p>
-
-<ul>
-  <li>For a deeper dive, read this from MIT Sloan Management Review: When Should You Trust AI -</li>
-</ul>
-<p>and When Should You Not? - https://sloanreview.mit.edu/article/when-should-you-trust-ai-and-</p>
 
 <p>when-should-you-not/</p>
 
@@ -1253,7 +1219,7 @@ last_updated: 2026-07-02
 
 <p>telling students that next week's class will be held in a different room. Tone:</p>
 
-<p>friendly and clear. Include the new room number: CMO 4."</p>
+<p>friendly and clear. Include the new room number: ."</p>
 
 <p>Healthcare /</p>
 
@@ -1311,9 +1277,7 @@ last_updated: 2026-07-02
 <p>relevant to your own field using Canva AI or Gemini.</p>
 
 
-<h3>This course, in this module - MODULE: IMAGE AI IN THE WORKPLACE</h3>
-
-<p>AI Foundations  |  This course, in this module  |</p>
+<h3>This course, in this lesson - MODULE: IMAGE AI IN THE WORKPLACE</h3>
 
 <p>Image AI in the Workplace</p>
 
@@ -1363,8 +1327,6 @@ last_updated: 2026-07-02
 <p>into a coherent image that matches your description. Think of it like developing a</p>
 
 <p>photograph in a darkroom, except the photograph never existed before you asked for it.</p>
-
-<p>What this means for you: The better your description, the better the result. Vague prompts</p>
 
 <p>produce generic images. Specific prompts produce images that actually match what you</p>
 
@@ -1428,8 +1390,6 @@ last_updated: 2026-07-02
 <h3>Part 2 - Tools Tour: The Three Most Accessible Image AI</h3>
 
 <p>Tools</p>
-
-<p>You do not need all three. By the end of this module you will know which one fits your work</p>
 
 <p>best.</p>
 
@@ -1639,8 +1599,6 @@ last_updated: 2026-07-02
 
 <p>need to know before you use it professionally.</p>
 
-<p>Limitation What This Means for Your Work</p>
-
 <p>Accuracy issues with text,</p>
 
 <p>hands, and faces</p>
@@ -1844,9 +1802,7 @@ last_updated: 2026-07-02
 <p>______________</p>
 
 
-<h3>This course, in this module - ADVANCED PROMPTING LAB: RTCF + LAYERING</h3>
-
-<p>AI Foundations  |  This course, in this module  |</p>
+<h3>This course, in this lesson - ADVANCED PROMPTING LAB: RTCF + LAYERING</h3>
 
 <p>Advanced Prompting Lab: RTCF +</p>
 
@@ -1854,19 +1810,15 @@ last_updated: 2026-07-02
 
 <p>Three Rounds - Watch Your Output Get Better Each Time</p>
 
-<p>30 minutes Hands-On Lab + Pair</p>
+<p>Hands-On Lab + Pair</p>
 
 <p>Share</p>
-
-<p>CMO 6, SLO</p>
 
 <p>Communication</p>
 
 <p>ChatGPT or Gemini</p>
 
 <p>(open now)</p>
-
-<p>What This Lab Is - and Why It Works This Way</p>
 
 <p>You have used RTCF. You have run prompts. Now we put it all together - deliberately, side</p>
 
@@ -2211,7 +2163,7 @@ last_updated: 2026-07-02
 
 <p>Yes / No / With major edits Yes / No / With minor edits Yes / No / As-is or minor edits</p>
 
-<p>Pair Share - 2 Minutes</p>
+<p>Pair Share -</p>
 
 <p>Swap with the person next to you. Tell them two things:</p>
 
@@ -2243,17 +2195,13 @@ last_updated: 2026-07-02
 <p>______________</p>
 
 
-<h3>This course, in this module - CLOSE</h3>
+<h3>This course, in this lesson - CLOSE</h3>
 
-<p>AI Foundations  |  This course, in this module  |</p>
-
-<p>in this module Close</p>
+<p>in this lesson Close</p>
 
 <p>Consolidate What You Learned - Then Take It Into the Real World</p>
 
 <p>Time Format Objectives Before You Leave</p>
-
-<p>15 minutes Exit Ticket + Preview  CMO 4, CMO 6 Complete your exit</p>
 
 <p>ticket</p>
 
@@ -2287,8 +2235,6 @@ last_updated: 2026-07-02
 
 <p>starting tomorrow.</p>
 
-<p>Exit Ticket - One Sentence</p>
-
 <p>Complete this sentence before you pack up. I will ask a few people to share out loud.</p>
 
 <p>Complete This Sentence</p>
@@ -2305,7 +2251,7 @@ last_updated: 2026-07-02
 
 <p>Introducing the Capstone - Your AI Workplace Framework</p>
 
-<p>Starting in this module, you will begin building something you will carry with you after this course</p>
+<p>Starting in this lesson, you will begin building something you will carry with you after this course</p>
 
 <p>ends.</p>
 
@@ -2327,11 +2273,11 @@ last_updated: 2026-07-02
   <li>One real AI output per week that you produced yourself</li>
   <li>A short reflection each week on what changed in how you think about AI at work</li>
 </ul>
-<p>You do not start writing it in this session. in this module kicks it off with a structured template. in this session</p>
+<p>You do not start writing it in this session. in this lesson kicks it off with a structured template. in this session</p>
 
 <p>just know it is coming - and that everything you did in this guide today counts toward it.</p>
 
-<p>Between-Session Challenge - Before in this module</p>
+<p>Between-Session Challenge - Before in this lesson</p>
 
 <p>This is not optional independent practice. It is the first real data point for your AI Workplace Framework.</p>
 
@@ -2344,7 +2290,7 @@ last_updated: 2026-07-02
 <ul>
   <li>It does not have to be a tool you use - just one you find, look at, and can describe</li>
   <li>Look it up, read the website, watch a 60-second demo if there is one</li>
-  <li>Come to in this module ready to share: the tool name and one sentence about what it does</li>
+  <li>Come to in this lesson ready to share: the tool name and one sentence about what it does</li>
   <li>Bonus: if you actually try it - screenshot the output and bring it</li>
 </ul>
 <p>My Challenge - Write It Here So You Do Not Forget</p>
@@ -2401,7 +2347,7 @@ last_updated: 2026-07-02
 
 <p>you explore without coding</p>
 
-<p>Preview - What Is Coming in this module</p>
+<p>Preview - What Is Coming in this lesson</p>
 
 <p>Here is exactly what we will do next section so you can show up prepared:</p>
 
@@ -2474,9 +2420,9 @@ last_updated: 2026-07-02
 
 <p>Keep building on it.</p>
 
-<p>See you in this module. Bring your curiosity - and your challenge tool.</p>
+<p>See you in this lesson. Bring your curiosity - and your challenge tool.</p>
 
 <ul>
-  <li>End of This course, in this module -</li>
+  <li>End of This course, in this lesson -</li>
 </ul>
 </div>

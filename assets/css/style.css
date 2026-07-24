@@ -1561,3 +1561,78 @@ input:focus-visible,
   border-style: solid;
   box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
 }
+
+/* --- Section Lead-In Cards --- */
+.lead-in-card {
+  background-color: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-left: 5px solid var(--color-primary);
+  border-radius: var(--radius-md);
+  padding: 24px 28px;
+  margin: 32px 0;
+  box-shadow: var(--shadow-sm);
+}
+
+.lead-in-card h3 {
+  color: var(--color-primary);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.lead-in-badge {
+  display: inline-block;
+  background-color: var(--color-primary-light);
+  color: var(--color-primary);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+/* --- Quiz / Self-Check Container Cards --- */
+.quiz-card {
+  background-color: #f8f5ff; /* Violet tint */
+  border-left: 5px solid #7c3aed; /* Purple accent */
+  border-radius: 4px var(--radius-md) var(--radius-md) 4px;
+  padding: 24px 28px;
+  margin: 36px 0;
+  box-shadow: var(--shadow-sm);
+  border-top: 1px solid rgba(124, 58, 237, 0.1);
+  border-right: 1px solid rgba(124, 58, 237, 0.1);
+  border-bottom: 1px solid rgba(124, 58, 237, 0.1);
+}
+
+.quiz-card h3,
+.quiz-card h4 {
+  color: #7c3aed;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.quiz-card p {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 1rem;
+}
+
+.quiz-card ul, .quiz-card ol {
+  margin-top: 8px;
+  margin-bottom: 20px;
+  padding-left: 24px;
+}
+
+.quiz-card li {
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+
+.quiz-card li::marker {
+  color: #7c3aed;
+  font-weight: 700;
+}
+

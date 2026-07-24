@@ -97,7 +97,7 @@ youtube_id: "S08kQNgNGjk"
 
 <h4>Dig Deeper: Recommended Reading</h4>
 
-<p>These are high-quality, trustworthy sources to expand your understanding of today's topics. Each takes 5-15 minutes to read.</p>
+<p>These are high-quality, trustworthy sources to expand your understanding of today's topics. Each takes  to read.</p>
 
 <ul>
   <li>For a deeper dive, read this from McKinsey & Company: What Is AI? A Plain-English Explainer - Clear, jargon-free overview of AI fundamentals with real business examples across industries.</li>
