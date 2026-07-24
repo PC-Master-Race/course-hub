@@ -5,7 +5,7 @@ topic: "ai-foundations"
 last_updated: 2026-07-02
 ---
 
-<p>a later lesson -- in this lesson</p>
+<p>A later lesson -- in this lesson</p>
 
 <p>Warm-Up</p>
 

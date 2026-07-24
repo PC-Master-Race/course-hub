@@ -42,3 +42,5 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Lesson 2 Rewrite:** Completely rewrote 'Introduction to Generative AI' in compile_curriculum_v6.py to be more engaging for vocational students, adding an interactive Activity card, a Practice scratchpad, and heavily emphasizing the creation of *new* content from training data.
 
 - **Classroom Noise Purge & Card Styling Overhaul:** Completely eliminated all residual classroom agenda noise, timing markers ('15 minutes'), curriculum standard tags ('CMO 1-8', 'SLO'), and physical school logistics across all 9 lessons. Added .lead-in-card and .quiz-card component styling and enhanced visual hierarchy with color-coded activity, practice, and takeaway callout cards.
+
+- **Header & Module Divider Cleanup:** Fixed compiler heading parser to automatically block --- MODULE transition headers, Coming Up Next () lines, empty parentheses (), and stacked consecutive headers.

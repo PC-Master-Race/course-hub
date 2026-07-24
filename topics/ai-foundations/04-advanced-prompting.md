@@ -15,27 +15,10 @@ youtube_id: "JUp8B2r7zD8"
 <p>Recently, you were asked to try one AI tool on a real task and bring back what you found. Now it is time to share. There are no wrong answers here - what matters is what you actually experienced, not what you thought you were supposed to experience.</p>
 
 
-<h4>Instructor Facilitation Guide</h4>
-
-<p>Call 3-4 users. If the group is quiet, use your roster and cold-call warmly: 'Tell us what you tried - no judgment, just what happened.'</p>
-
-<p>Prompts to draw out deeper responses:</p>
-
-<ul>
-  <li>'What task did you use AI for? Was it something from work, school, or personal life?'</li>
-  <li>'Did the output surprise you - in a good way or a frustrating way?'</li>
-  <li>'Would you have done anything differently based on what you learned in Lesson 3 or 4?'</li>
-  <li>'Did you find yourself verifying the output? Why or why not?'</li>
-</ul>
-<p>Teaching move: After 2-3 responses, synthesize below. Write 1-2 takeaways in real time ('What I'm hearing: AI works best when...'). This models the analytical listening you want students to develop.</p>
-
-
 <div class="practice-card">
 
 
 <h4>Your Independent Practice - Quick Recap</h4>
-
-<p>Before we hear from users, take 90 seconds to fill in the row below so your own experiment is fresh in your mind.</p>
 
 </div>
 
@@ -50,18 +33,7 @@ youtube_id: "JUp8B2r7zD8"
 <p>In Lesson 3 you learned the RTCF framework - a four-part structure for writing prompts that get professional results. Before we go deeper with advanced techniques today, let's make sure that foundation is solid.</p>
 
 
-<h4>Instructor Review Protocol</h4>
-
-<p>Select one student. Ask: 'Without looking at your notes, walk us through the RTCF framework. What does each letter stand for, and why does each part matter?'</p>
-
-<p>After the student responds, open it with others for additions or corrections. Then reveal the reference below. Affirm what was right - correct gently what was incomplete.</p>
-
-<p>If no one users: say 'Let's build it together' and call out letters one at a time, asking different students for each component. This still achieves the retrieval practice goal.</p>
-
-
 <h4>RTCF Framework - Quick Reference</h4>
-
-<p>Use this as your check after the Review. Each component is described with its purpose and a quick workplace example:</p>
 
 
 | Letter | Component + Purpose | Workplace Example |
@@ -381,8 +353,6 @@ youtube_id: "JUp8B2r7zD8"
 | Legal / copyright considerations | Images generated are available for personal and commercial use per Google's terms. Always check current policy. | Canva AI images are licensed for commercial use within Canva's terms. Read the pro vs. free tier differences. | Trained exclusively on Adobe Stock and openly licensed content. Currently the safest option for professional commercial use. |
 | Free access? | Yes - available with a free Google account. Some advanced features require Gemini Advanced subscription. | Yes - free tier available. Some AI features require Canva Pro subscription (~$15/month). | Limited free tier available. Full access requires Adobe Creative Cloud subscription. |
 
-<p>Instructor recommendation: For today's activity, use Gemini, Chat GPT (free, no download, works on phones) or Canva AI (free tier, most beginner-friendly). If students have Adobe accounts, Firefly is an excellent option. Avoid tools that require email sign-up during study time.</p>
-
 
 <h3>Part 4: Key Limitations - Use Image AI Carefully</h3>
 
@@ -586,30 +556,11 @@ youtube_id: "JUp8B2r7zD8"
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img11.png" | relative_url }})
 
 
-<h4>Live Demonstration: Otter.ai Transcription - Instructor Demo</h4>
-
-<p>Speak aloud for 60-90 seconds on a workplace scenario relevant to your students' fields (e.g., a mock client consultation, a brief site safety briefing, a customer service interaction). Let Otter.ai transcribe it live on the projected screen.</p>
-
-<p>After the recording, show the generated summary and highlight:</p>
-
-<ul>
-  <li>The accuracy of the transcription (including any errors - this is a teaching moment)</li>
-  <li>The auto-generated summary paragraph</li>
-  <li>The action items list</li>
-</ul>
-<p>Discussion prompt : "In your field, what conversation or meeting would be most valuable to have an automatic record of?"</p>
-
-
-<div class="tip-card">
-
-
-<h4>Quick Note: AI Voice Synthesis</h4>
+<h4>Live Demonstration: Otter.ai Transcription - Quick Note: AI Voice Synthesis</h4>
 
 <p>Voice synthesis tools like ElevenLabs can generate speech that is nearly indistinguishable from a real human voice. This has powerful legitimate applications: accessibility tools, training video narration, multilingual content creation.</p>
 
 <p>It also introduces a responsibility: synthesized voice can be used to create deceptive audio. Always ask yourself - and your students - 'Is this voice real?' before sharing or acting on audio content you did not personally record.</p>
-
-</div>
 
 
 <h3>Part 2: Chain-of-Thought (CoT) Reasoning - Watching AI Think</h3>
@@ -640,15 +591,9 @@ youtube_id: "JUp8B2r7zD8"
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img12.png" | relative_url }})
 
 
-<h4>Live CoT Demo: Student Observation Sheet</h4>
-
-<p>the guide will now run a live Chain-of-Thought demonstration using ChatGPT or Claude on a workplace problem relevant to your field. Use the observation sheet below to capture what you notice. You will use your observations in a brief discussion.</p>
-
-
-<h4>Observation Sheet - CoT Live Demo</h4>
+<h4>Live CoT Demo: Student Observation Sheet - Observation Sheet - CoT Live Demo</h4>
 
 <ol>
-  <li>The prompt the instructor used (write it below):</li>
   <li>What steps did the AI work through? List 2-3 things it reasoned about:</li>
   <li>Did the AI's reasoning seem accurate and trustworthy? What would you verify?</li>
   <li>Name one decision or problem in your field where step-by-step AI reasoning could be useful:</li>
@@ -668,7 +613,7 @@ youtube_id: "JUp8B2r7zD8"
   <li>Google DeepMind Blog (deepmind.google) - "Chain of Thought Prompting Elicits Reasoning in Large Language Models" - the foundational research paper made accessible.</li>
 </ul>
 
-<h4>Instructor Notes: Running This Segment - Pacing and Facilitation</h4>
+<h4>Pacing and Facilitation</h4>
 
 <p>Timing: This is a 20-minute segment -  Audio AI,  CoT. Do not let this expand. Students are likely fatigued at . Keep energy high through live demonstration rather than slides.</p>
 
@@ -691,8 +636,6 @@ youtube_id: "JUp8B2r7zD8"
 <p>Now it is time to look at what you wrote one more time not to erase it, but to see how your thinking has evolved.</p>
 
 <p>Word Wall Final Reflection - group discussion</p>
-
-<p>Instructor: Display or refer to the original Word Wall from in this lesson. Give students 60 seconds of quiet thinking time, then open the floor.</p>
 
 <p>Prompt 1: "Look at the words you added at the beginning of This course. Which one would you add a footnote to now - something you would want to add or change?"</p>
 
@@ -738,7 +681,7 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>Your job is not to be impressed by AI. Your job is to decide whether it earns a place in your workflow. That is an expert judgment - and only you can make it.</p>
 
-<p>in this lesson Quick Reference  |</p>
+<p>In this lesson Quick Reference  |</p>
 
 <p>📖  in this lesson KEY TERMS & DEFINITIONS</p>
 
@@ -771,13 +714,13 @@ youtube_id: "JUp8B2r7zD8"
 <p>"You are a medical office administrator writing for patients with limited health literacy [Persona]. Do not use clinical abbreviations [Constraint]. Here are two examples of how I explain billing notices: [Example 1: Dear Mr. Reyes, your insurance covered most of your visit.</p>
 <p>The remaining $45 is your copay. Please call us at 555-0100 if you have questions.] [Example 2: Dear Ms. Park, we received a payment of $120 from your insurance. Your balance of $30 is due by the 15th.] [Few-Shot] Now write a notice for a patient who owes $75 after insurance, with a payment due date of June 30."</p>
 
-<p>in this lesson Quick Reference  -  Page 2 of 2</p>
+<p>In this lesson Quick Reference  -  Page 2 of 2</p>
 
 
 <h4>🖼️  IMAGE AI - TOOLS, PROMPTS & PROFESSIONAL USE</h4>
 
 
-| GEMINI (Google) <br> gemini.google.com <br> Fast generation, integrated with Google Workspace. Best for: quick concept images, presentations, brainstorming visuals. <br> ✅ Free tier available <br> ⚠️ Review terms for commercial use | CANVA AI <br> canva.com <br> Design-focused generation inside templates. Best for: social media, marketing materials, professional layouts, branded content. <br> ✅ Integrates with Canva designs <br> ✅ Good for non-designers | ADOBE FIREFLY <br> firefly.adobe.com <br> Trained on licensed Adobe Stock content. Best for: commercial work, client-facing materials, legally safer use cases. <br> ✅ Commercially safest option <br> ✅ Attribution-clear content |
+| GEMINI (Google) <br> Gemini.google.com <br> Fast generation, integrated with Google Workspace. Best for: quick concept images, presentations, brainstorming visuals. <br> ✅ Free tier available <br> ⚠️ Review terms for commercial use | CANVA AI <br> Canva.com <br> Design-focused generation inside templates. Best for: social media, marketing materials, professional layouts, branded content. <br> ✅ Integrates with Canva designs <br> ✅ Good for non-designers | ADOBE FIREFLY <br> Firefly.adobe.com <br> Trained on licensed Adobe Stock content. Best for: commercial work, client-facing materials, legally safer use cases. <br> ✅ Commercially safest option <br> ✅ Attribution-clear content |
 | --- | --- | --- |
 
 
@@ -802,8 +745,8 @@ youtube_id: "JUp8B2r7zD8"
 
 | TOOL | WHAT IT DOES | BEST FOR IN YOUR FIELD |
 | --- | --- | --- |
-| Otter.ai <br> otter.ai | Transcribes meetings and recordings in real time. Auto-generates summary, key points, and action items. | Any field with client meetings, team calls, interviews, or site walkthroughs needing a written record. |
-| ElevenLabs <br> eighttenlabs.io | Generates realistic synthetic voice narration from any written text - multiple voices and languages. | Creating training video narration, multilingual client materials, accessible audio versions of written documents. |
+| Otter.ai <br> Otter.ai | Transcribes meetings and recordings in real time. Auto-generates summary, key points, and action items. | Any field with client meetings, team calls, interviews, or site walkthroughs needing a written record. |
+| ElevenLabs <br> Eighttenlabs.io | Generates realistic synthetic voice narration from any written text - multiple voices and languages. | Creating training video narration, multilingual client materials, accessible audio versions of written documents. |
 | Microsoft Copilot <br> (Teams/M365) | Integrated meeting AI - live transcription, auto-summary, follow-up emails, searchable meeting archive inside Microsoft 365. | Any workplace already using Microsoft Teams: automated post-meeting summaries sent directly to all participants. |
 
 

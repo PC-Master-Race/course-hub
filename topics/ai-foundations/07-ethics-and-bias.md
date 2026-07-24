@@ -8,10 +8,10 @@ last_updated: 2026-07-02
 
 <h2>Part 1: AI Bias & Accountability Gap</h2>
 
-<p>a later lesson, in this lesson - Complete Student Guide</p>
+<p>A later lesson, in this lesson - Complete Student Guide</p>
 
 <p class="standout-question">Who Is Responsible When AI Gets It Wrong?</p>
-<p>a later lesson, in this lesson  -</p>
+<p>A later lesson, in this lesson  -</p>
 
 <p class="standout-question">What Worries You About AI?</p>
 <p>Surfacing real concerns before we talk about real solutions</p>
@@ -306,7 +306,7 @@ last_updated: 2026-07-02
   <li>Open Google and search for it using the key terms -- for example: 'UnitedHealth nH Predict lawsuit' or 'RealPage antitrust DOJ.'</li>
   <li>Find one credible source that confirms the case is real. A credible source is a news organization, government website (.gov), or academic institution. Not a blog or social media post.</li>
   <li>Write down three things: (1) the name of the source, (2) one sentence explaining why you trust it, and (3) one detail from that source that I did not mention in this guide.</li>
-  <li>Three users share with others. You do not need a perfect answer -- just share what you found.</li>
+  <li>Three volunteers share with others. You do not need a perfect answer -- just share what you found.</li>
 </ol>
 
 <h4>Why This Skill Matters</h4>
@@ -521,7 +521,7 @@ last_updated: 2026-07-02
   <li>Share with others. I will write every response below.</li>
   <li>After everyone has shared, we will look at the board together and notice: what do all these lines have in common? What principle is underneath them?</li>
 </ol>
-<p>a later lesson, in this lesson  -</p>
+<p>A later lesson, in this lesson  -</p>
 
 <p>Pulling it together before we go</p>
 
@@ -557,14 +557,14 @@ last_updated: 2026-07-02
 <h2>Part 2: Human Dignity & Magnifica Humanitas Framework</h2>
 
 
-<h4>Human Dignity, the Environment, - and Your Ethical AI Plan</h4>
+<h4>Human Dignity, the Environment, - And Your Ethical AI Plan</h4>
 
 <p>Thursday  |   --</p>
 
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-07-part2-img1.png" | relative_url }})
 
-<p>a later lesson, in this lesson  -</p>
+<p>A later lesson, in this lesson  -</p>
 
 
 <h4>One Thing That Stuck</h4>
@@ -839,9 +839,9 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>This course: You found the opportunity. You identified a task in your field that AI could realistically help with.</p>
 
-<p>a later lesson: You examine whether it is safe and ethical to pursue. Identify if there are any aspects that might cause harm to others or yourself long term.</p>
+<p>A later lesson: You examine whether it is safe and ethical to pursue. Identify if there are any aspects that might cause harm to others or yourself long term.</p>
 
-<p>a later lesson: You present the full picture, the opportunity, the risks, and your plan for navigating both.</p>
+<p>A later lesson: You present the full picture, the opportunity, the risks, and your plan for navigating both.</p>
 
 
 <h4>Section 4 -- The Ethics Layer</h4>
@@ -950,15 +950,15 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>_____________________________________________________________________________________</p>
 
-<p>a later lesson is about the future. After everything you have learned -- the tools, the opportunities, the ethics, the risks -- the final week is about putting it all together and presenting your thinking.</p>
+<p>A later lesson is about the future. After everything you have learned -- the tools, the opportunities, the ethics, the risks -- the final week is about putting it all together and presenting your thinking.</p>
 
 
-| a later lesson Topic | What It Means for You |
+| A later lesson Topic | What It Means for You |
 | --- | --- |
 | The Future of Work and AI Adoption Challenges | A realistic look at how workplaces are actually adapting to AI -- the barriers, the speed bumps, and the opportunities that are still open. |
 | -- The Full Picture | Bringing together all eight course outcomes into one coherent view of what it means to be an AI-informed professional. |
 | Capstone Finalization | You take your workflow document -- the opportunity you identified, the ethics layer you built this week -- and prepare to discuss it. |
-| Presentation Day | in this lesson of a later lesson is presentation day. Each student walks through their AI Workplace Framework in 2 to . It does not need to be polished. It needs to be honest and informed. |
+| Presentation Day | In this lesson of a later lesson is presentation day. Each student walks through their AI Workplace Framework in 2 to . It does not need to be polished. It needs to be honest and informed. |
 
 
 <h4>Presentation Prep -- Start Thinking Now</h4>

@@ -5,7 +5,7 @@ topic: "ai-foundations"
 last_updated: 2026-07-02
 ---
 
-<p>a later lesson -- in this lesson</p>
+<p>A later lesson -- in this lesson</p>
 
 
 <h4>Hands On, Speak Up, and Move Forward</h4>
@@ -252,10 +252,10 @@ last_updated: 2026-07-02
 <h4>What You Built Over These Three Weeks</h4>
 
 
-| this course and 2 | You built your foundation. You learned what AI actually is, how language models work, how to write prompts that get useful results, and how to identify tasks in your own career that AI can realistically help with. You built an Opportunity Chart for your own workflow. |
+| This course and 2 | You built your foundation. You learned what AI actually is, how language models work, how to write prompts that get useful results, and how to identify tasks in your own career that AI can realistically help with. You built an Opportunity Chart for your own workflow. |
 | --- | --- |
-| a later lesson | You built your ethics layer. You learned about accountability gaps, algorithmic bias, the right to explanation, and the real-world consequences when AI goes wrong. You applied that thinking directly to your own plan and made a public commitment to use AI intentionally and safely. |
-| a later lesson | You saw the full picture. You mapped AI tools across fourteen different vocations, learned the difference between local and hosted AI, and put your hands on the tools. You heard your peers' plans and shared your own. |
+| A later lesson | You built your ethics layer. You learned about accountability gaps, algorithmic bias, the right to explanation, and the real-world consequences when AI goes wrong. You applied that thinking directly to your own plan and made a public commitment to use AI intentionally and safely. |
+| A later lesson | You saw the full picture. You mapped AI tools across fourteen different vocations, learned the difference between local and hosted AI, and put your hands on the tools. You heard your peers' plans and shared your own. |
 
 <p>Five Things to Do After this course</p>
 
