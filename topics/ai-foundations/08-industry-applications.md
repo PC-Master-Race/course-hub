@@ -10,63 +10,63 @@ youtube_id: "k4j3h2g1f0e"
 
 <div class="lead-in-card">
   <span class="lead-in-badge">LESSON OVERVIEW</span>
-  <h3>Sector-Specific AI Integration</h3>
-  <p>Tailor AI workflows to Healthcare, Business/Logistics, and Education/Community sectors.</p>
-  <p>In this lesson, you will explore industry case studies and build a customized field workflow.</p>
+  <h3>Using AI in Your Specific Job Field</h3>
+  <p>See how AI tools are used safely in Healthcare, Office Business, and Education work.</p>
+  <p>In this guide, you will look at real-world examples and create a simple workflow for your job.</p>
 </div>
 
-<h3>Part 1: Sector Deep Dives</h3>
+<h3>Part 1: Field-by-Field Examples</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">INDUSTRY FOCUS</span>
-  <p>Different industries require distinct compliance, data handling, and prompt structures.</p>
+  <span class="lead-in-badge">FIELD EXAMPLES</span>
+  <p>Different jobs have different safety rules and helpful tasks for AI.</p>
 </div>
 
-<p>**Healthcare & Social Services:** Use AI for clinical note formatting, patient education summaries, and intake form synthesis (HIPAA compliance mandatory).</p>
+<p>**Healthcare & Clinic Support:** Use AI to draft patient educational notes, reformat clinical templates, or summarize general articles (never private PII).</p>
 
-<p>**Business, Retail & Logistics:** Use AI for inventory trend analysis, customer service draft responses, and vendor proposal comparisons.</p>
+<p>**Business & Office Work:** Use AI to draft client replies, compare vendor prices, or organize event notes.</p>
 
-<p>**Education & Community Services:** Use AI for lesson plan drafting, grant proposal outlines, and multilingual community updates.</p>
+<p>**Education & Community Services:** Use AI to outline lesson ideas, draft family update notes, or create multilingual event flyers.</p>
 
-![Diagram showing sector deep dives]({{ "/assets/images/topics/ai-foundations/lesson-08-img2.png" | relative_url }})
+![Diagram showing field-by-field examples]({{ "/assets/images/topics/ai-foundations/lesson-08-img2.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: Industry Workflow Design</h4>
-  <p>Design a 3-step AI-assisted workflow tailored specifically to your job role.</p>
+  <h4>✏️ Workplace Activity: Build Your Job Plan</h4>
+  <p>Design a 3-step AI plan tailored specifically to your daily job.</p>
   <ul>
-    <li>Step 1: Input preparation & sanitization</li>
-    <li>Step 2: AI prompt execution</li>
-    <li>Step 3: Human verification & publishing</li>
+    <li>Step 1: Sanitize input</li>
+    <li>Step 2: Run prompt</li>
+    <li>Step 3: Human verification</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: Custom Field Prompt Blueprint</h4>
-  <p>Write an RTCF prompt tailored to your exact industry role:</p>
+  <h4>🎯 Practice Scratchpad: Field Request Scratchpad</h4>
+  <p>Write a clear request tailored to your specific job role:</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Detail human verification steps required before deploying output:</p>
+  <p>What human checks will you do before using the output?</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: Comply with Industry Regulations</h4>
-  <p>Always ensure AI workflows conform to industry-specific regulatory standards.</p>
+  <h4>💡 Simple Rule & Verification Check: Follow Workplace Rules</h4>
+  <p>Always follow your employer's official rules regarding AI tools.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: Which compliance framework must healthcare professionals adhere to when considering AI tools?</h4>
+  <h4>🟣 Self-Check Quiz: Which health privacy rule must clinic workers follow when considering AI tools?</h4>
   <ul>
     <li>A) OSHA</li>
     <li>B) HIPAA</li>
-    <li>C) ERISA</li>
-    <li>D) FERC</li>
+    <li>C) USDA</li>
+    <li>D) FCC</li>
   </ul>
-  <p><em>Answer Key: B — HIPAA regulates health information privacy and security.</em></p>
+  <p><em>Answer Key: B — HIPAA regulates health data privacy and security.</em></p>
 </div>
 
 <h3>Lesson Summary & Next Steps</h3>
 
 <div class="lead-in-card">
   <span class="lead-in-badge">KEY TAKEAWAYS</span>
-  <p>You have completed <strong>AI Applications in Professional Fields</strong>. Apply these principles in your daily workflow before moving to the next lesson.</p>
+  <p>You have finished <strong>AI Applications in Professional Fields</strong>. Practice these easy steps in your work routine before starting the next lesson.</p>
 </div>

@@ -10,112 +10,111 @@ youtube_id: "e9f8g7h6i5j"
 
 <div class="lead-in-card">
   <span class="lead-in-badge">LESSON OVERVIEW</span>
-  <h3>Ethical & Responsible AI Deployment</h3>
-  <p>Protect your organization against algorithmic bias, privacy leaks, and copyright infringement.</p>
-  <p>In this lesson, you will learn data privacy laws, PII masking protocols, and ethical AI review practices.</p>
+  <h3>Using AI Fairly and Protect Privacy</h3>
+  <p>Learn how to use AI tools responsibly while protecting private information and avoiding unfair bias.</p>
+  <p>In this guide, you will master data privacy rules, masking personal details, and building trust.</p>
 </div>
 
-<h3>Part 1: Algorithmic Bias & Fairness</h3>
+<h3>Part 1: Unfair Patterns & Bias</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">ETHICAL SAFETY</span>
-  <p>AI algorithms reproduce historical biases embedded in training datasets unless actively mitigated.</p>
+  <span class="lead-in-badge">FAIRNESS</span>
+  <p>AI can repeat old unfair patterns if its training examples were unfair.</p>
 </div>
 
-<p>If training data contains historical biases in hiring, lending, or healthcare access, the AI model will replicate those disparities.</p>
+<p>If an AI learned from past examples that had unfair patterns, the AI will repeat those unfair patterns.</p>
 
-<p>Ethical deployment requires ongoing audits, diverse evaluation teams, and transparent decision criteria.</p>
+<p>Using AI responsibly means always having human oversight to ensure everyone is treated fairly.</p>
 
-<p>Never allow automated scoring systems to make unmonitored decisions affecting human lives.</p>
+<p>Never let an automated computer tool make final life-changing decisions about people.</p>
 
-![Diagram showing algorithmic bias & fairness]({{ "/assets/images/topics/ai-foundations/lesson-07-img2.png" | relative_url }})
+![Diagram showing unfair patterns & bias]({{ "/assets/images/topics/ai-foundations/lesson-07-img2.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: Ethical Impact Assessment</h4>
-  <p>Evaluate an AI customer credit scoring tool for potential demographic bias.</p>
+  <h4>✏️ Workplace Activity: Check for Fairness</h4>
+  <p>Review an AI resume-screening tool for potential unfair biases.</p>
   <ul>
-    <li>Identify risk variables</li>
-    <li>Propose bias mitigation steps</li>
-    <li>Establish human appeal review process</li>
+    <li>Identify potential bias risks</li>
+    <li>Propose human review safeguards</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: Audit a Workplace AI System</h4>
-  <p>Describe an automated or AI system used in your industry. What ethical risks exist?</p>
+  <h4>🎯 Practice Scratchpad: Fairness Review</h4>
+  <p>Describe an automated tool used in your field. What fairness checks should a human perform?</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Propose 2 mandatory human oversight safeguards:</p>
+  <p>List 2 oversight rules:</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: Transparency Is Required</h4>
-  <p>Always disclose when AI has been used to generate public-facing or candidate-evaluation materials.</p>
+  <h4>💡 Simple Rule & Verification Check: Be Open About AI Use</h4>
+  <p>Always be honest when AI has been used to help create public documents or materials.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: What is the primary cause of algorithmic bias in AI systems?</h4>
+  <h4>🟣 Self-Check Quiz: What is the primary cause of unfair bias in AI tools?</h4>
   <ul>
-    <li>A) Server hardware overheating.</li>
-    <li>B) Biased or unrepresentative historical training data.</li>
-    <li>C) Using open-source web browsers.</li>
-    <li>D) High internet bandwidth speed.</li>
+    <li>A) Computer screen brightness.</li>
+    <li>B) Unfair or imbalanced patterns in the past example data.</li>
+    <li>C) Fast internet connection speed.</li>
+    <li>D) Cold weather.</li>
   </ul>
-  <p><em>Answer Key: B — Training data disparities create algorithmic bias.</em></p>
+  <p><em>Answer Key: B — AI repeats unfair patterns present in its training data.</em></p>
 </div>
 
-<h3>Part 2: Privacy, Confidentiality & PII Protection</h3>
+<h3>Part 2: Protecting Private Personal Information</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">DATA SECURITY</span>
-  <p>Never enter Personally Identifiable Information (PII) or proprietary trade secrets into public cloud AI.</p>
+  <span class="lead-in-badge">PRIVACY RULES</span>
+  <p>Never paste private personal information into public AI websites.</p>
 </div>
 
-<p>Public AI services may retain user inputs for model retraining. Uploading patient records, social security numbers, or internal financial spreadsheets breaches privacy laws (HIPAA, FERPA, GDPR).</p>
+<p>Public AI websites may save whatever you type to train future models.</p>
 
-<p>Always mask or redact sensitive data before prompting: replace names with 'Client A' and numbers with generic placeholders.</p>
+<p>Pasting patient names, home addresses, or private numbers violates privacy laws (like HIPAA or FERPA).</p>
 
-<p>Verify whether your company has an enterprise private tenant before processing internal documents.</p>
+<p>Always **mask or erase private details** before prompting: replace real names with 'Client A' or 'Person 1'.</p>
 
-![Diagram showing privacy, confidentiality & pii protection]({{ "/assets/images/topics/ai-foundations/lesson-07-img3.png" | relative_url }})
+![Diagram showing protecting private personal information]({{ "/assets/images/topics/ai-foundations/lesson-07-img3.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: Data Redaction Practice</h4>
-  <p>Sanitize a confidential email excerpt by removing all PII before creating an AI prompt.</p>
+  <h4>✏️ Workplace Activity: Practice Data Masking</h4>
+  <p>Sanitize a sample email by replacing private names and addresses with generic placeholders.</p>
   <ul>
-    <li>Identify names, addresses, SSNs</li>
-    <li>Replace with generic tokens [CLIENT_NAME], [DATE]</li>
-    <li>Verify text is fully sanitized</li>
+    <li>Find private details</li>
+    <li>Replace with [NAME] and [ADDRESS]</li>
+    <li>Verify text is clean</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: Sanitize a Confidential Record</h4>
-  <p>Paste an example document containing sensitive fields:</p>
+  <h4>🎯 Practice Scratchpad: Masking Scratchpad</h4>
+  <p>Original Text containing private names:</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Paste the fully sanitized version safe for AI prompting:</p>
+  <p>Sanitized Version safe for AI:</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: The Whiteboard Test</h4>
-  <p>If you wouldn't write the information on a public whiteboard in a coffee shop, do not type it into a public AI prompt.</p>
+  <h4>💡 Simple Rule & Verification Check: The Public Billboard Rule</h4>
+  <p>If you wouldn't put the information on a public billboard, do not paste it into a public AI website.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: What should you do before entering a document containing client names into a public AI tool?</h4>
+  <h4>🟣 Self-Check Quiz: What should you do before entering a document containing personal client names into a public AI website?</h4>
   <ul>
-    <li>A) Type it in immediately without changes.</li>
-    <li>B) Mask or redact all Personally Identifiable Information (PII).</li>
-    <li>C) Change the font color to white.</li>
-    <li>D) Save the document as a PDF.</li>
+    <li>A) Paste it immediately.</li>
+    <li>B) Erase or mask all private personal names and numbers.</li>
+    <li>C) Change the font size.</li>
+    <li>D) Print it first.</li>
   </ul>
-  <p><em>Answer Key: B — Always redact PII before using public AI tools.</em></p>
+  <p><em>Answer Key: B — Always mask private personal details before using public AI tools.</em></p>
 </div>
 
 <h3>Lesson Summary & Next Steps</h3>
 
 <div class="lead-in-card">
   <span class="lead-in-badge">KEY TAKEAWAYS</span>
-  <p>You have completed <strong>Ethics, Bias, and Trust in AI</strong>. Apply these principles in your daily workflow before moving to the next lesson.</p>
+  <p>You have finished <strong>Ethics, Bias, and Trust in AI</strong>. Practice these easy steps in your work routine before starting the next lesson.</p>
 </div>

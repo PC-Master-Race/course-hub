@@ -10,70 +10,70 @@ youtube_id: "v5g7k6q8r9s"
 
 <div class="lead-in-card">
   <span class="lead-in-badge">LESSON OVERVIEW</span>
-  <h3>Auditing Your Workflow for AI Integration</h3>
-  <p>Not every task belongs in AI. Learn to audit your daily workload using the Traffic Light Task Matrix.</p>
-  <p>In this lesson, you will evaluate task suitability based on data privacy, complexity, and risk level.</p>
+  <h3>Sorting Work Tasks with Traffic Lights</h3>
+  <p>Not every task at work belongs in an AI tool. Learn how to sort your tasks using a simple Green, Yellow, and Red light system.</p>
+  <p>In this guide, you will audit your workload to find tasks that are safe to automate and tasks that must stay 100% human.</p>
 </div>
 
-<h3>Part 1: The Task Filtering Matrix</h3>
+<h3>Part 1: The Traffic Light Task System</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">WORKFLOW AUDIT</span>
-  <p>Filter tasks into Green Light, Yellow Light, and Red Light categories.</p>
+  <span class="lead-in-badge">TASK AUDIT</span>
+  <p>Sort your work tasks into 3 simple safety categories.</p>
 </div>
 
-<p>🟢 **Green Light Tasks:** Low risk, high repetition (drafting templates, brainstorming, reformatting). Fast-track for AI.</p>
+<p>🟢 **Green Light Tasks:** Low-risk, routine tasks (making meeting outlines, brainstorming, fixing spelling). Safe for AI.</p>
 
-<p>🟡 **Yellow Light Tasks:** Moderate risk (summarizing reports, drafting client communications). AI assists, but human must review.</p>
+<p>🟡 **Yellow Light Tasks:** Moderate-risk tasks (summarizing reports, drafting client emails). AI assists, but a human MUST double-check every word.</p>
 
-<p>🔴 **Red Light Tasks:** High risk (confidential HR files, medical diagnosis, wire transfers, final legal decisions). Human only.</p>
+<p>🔴 **Red Light Tasks:** Private or high-risk tasks (social security numbers, private health notes, signing legal forms). 100% Human Only.</p>
 
-| Category | Risk Level | AI Role | Examples |
+| Traffic Light | Risk Level | AI Role | Examples |
 | --- | --- | --- | --- |
-| Green Light 🟢 | Low | AI Automates / Drafts | Email templates, outline generation, language translation |
-| Yellow Light 🟡 | Moderate | AI Assists / Prepares | Report summaries, meeting notes, customer response drafts |
-| Red Light 🔴 | High / Sensitive | Human Only / No AI | PII processing, payroll calculations, final legal signoff |
+| Green Light 🟢 | Low Risk | AI Drafts & Brainstorms | Drafting message outlines, fixing grammar, brainstorming ideas |
+| Yellow Light 🟡 | Moderate Risk | AI Assists, Human Verifies | Summarizing long reports, drafting client replies |
+| Red Light 🔴 | High Risk / Private | Human Only (No AI) | Confidential health files, payroll math, final legal decisions |
 
 
-![Diagram showing the task filtering matrix]({{ "/assets/images/topics/ai-foundations/lesson-05-img2.png" | relative_url }})
+![Diagram showing the traffic light task system]({{ "/assets/images/topics/ai-foundations/lesson-05-img2.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: Workplace Task Sorting</h4>
-  <p>Sort 5 tasks from your weekly schedule into Green, Yellow, and Red light categories.</p>
+  <h4>✏️ Workplace Activity: Sort 3 Daily Tasks</h4>
+  <p>Look at 3 tasks you do every week. Sort them into Green, Yellow, or Red light categories.</p>
   <ul>
-    <li>Evaluate risk level</li>
-    <li>Evaluate confidential data presence</li>
-    <li>Assign category label</li>
+    <li>Evaluate privacy risk</li>
+    <li>Evaluate consequences of an error</li>
+    <li>Assign light color</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: Personal AI Task Audit</h4>
-  <p>List 3 tasks you will automate (Green), 2 tasks you will assist (Yellow), and 1 task you will protect (Red):</p>
+  <h4>🎯 Practice Scratchpad: Personal Task Audit</h4>
+  <p>List 2 Green Light tasks, 1 Yellow Light task, and 1 Red Light task from your job:</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Calculate estimated weekly hours saved:</p>
+  <p>Estimate how many hours a week Green Light tasks take:</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: When in Doubt, Verify</h4>
-  <p>If a task involves sensitive personal identifiable information (PII), automatically treat it as Red Light.</p>
+  <h4>💡 Simple Rule & Verification Check: Private Information is Always Red</h4>
+  <p>If information contains names, addresses, or private details, treat it as Red Light.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: Which of the following is classified as a Red Light (Human Only) task?</h4>
+  <h4>🟣 Self-Check Quiz: Which of these is a Red Light (Human Only) task?</h4>
   <ul>
-    <li>A) Drafting a meeting agenda outline.</li>
-    <li>B) Processing unmasked confidential employee social security numbers.</li>
-    <li>C) Reformatting a table from CSV to Markdown.</li>
-    <li>D) Generating email subject line ideas.</li>
+    <li>A) Fixing spelling in a public newsletter draft.</li>
+    <li>B) Typing private employee social security numbers into a public website.</li>
+    <li>C) Brainstorming 5 ideas for a staff party.</li>
+    <li>D) Reformatting a table.</li>
   </ul>
-  <p><em>Answer Key: B — Confidential PII must never be uploaded to unvetted cloud AI systems.</em></p>
+  <p><em>Answer Key: B — Private personal numbers must never be entered into public AI tools.</em></p>
 </div>
 
 <h3>Lesson Summary & Next Steps</h3>
 
 <div class="lead-in-card">
   <span class="lead-in-badge">KEY TAKEAWAYS</span>
-  <p>You have completed <strong>Task Filtering & AI Audits</strong>. Apply these principles in your daily workflow before moving to the next lesson.</p>
+  <p>You have finished <strong>Task Filtering & AI Audits</strong>. Practice these easy steps in your work routine before starting the next lesson.</p>
 </div>

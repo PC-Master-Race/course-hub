@@ -10,171 +10,171 @@ youtube_id: "dH8gX3Zg85U"
 
 <div class="lead-in-card">
   <span class="lead-in-badge">LESSON OVERVIEW</span>
-  <h3>Mastering the RTCF Prompting Framework</h3>
-  <p>The single variable that determines AI output quality is the quality of your prompt.</p>
-  <p>In this lesson, you will master the RTCF framework (Role, Task, Context, Format), transform vague requests into executive-ready outputs, and practice prompt debugging.</p>
+  <h3>Writing Clear AI Instructions Using RTCF</h3>
+  <p>The secret to getting great answers from AI is how clearly you write your instructions (your 'prompt').</p>
+  <p>In this lesson, you will learn the RTCF formula (Role, Task, Context, Format) to write clear, professional requests every time.</p>
 </div>
 
 <h3>Part 1: The Difference is the Prompt</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">CORE PRINCIPLE</span>
-  <p>Poor prompts yield generic filler. Structured prompts yield actionable results.</p>
+  <span class="lead-in-badge">KEY LESSON</span>
+  <p>Vague requests give poor answers. Clear requests give helpful, ready-to-use answers.</p>
 </div>
 
-<p>Many professionals try AI once, type 'Write an email about a meeting', get a generic response, and assume AI isn't useful.</p>
+<p>Many people try AI once, type 'Write an email', get a boring generic response, and give up.</p>
 
-<p>The tool is rarely the problem. The prompt is.</p>
+<p>The AI tool is usually fine. The instructions were just too vague.</p>
 
-<p>Compare a vague 5-word request with a structured 40-word prompt: the structured prompt guides token prediction directly to your target.</p>
+<p>Compare a short 3-word request with a clear 30-word request: the clear request gives the AI the exact background it needs.</p>
 
-| Vague Prompt (Low Quality) | Structured Prompt (High Quality) | Result Shift |
+| Vague Request (Poor) | Clear Structured Request (Great) | What Changed? |
 | --- | --- | --- |
-| 'Help me write a report.' | 'Act as a project manager. Draft a 1-page status report for executive leadership highlighting Q3 deliverables and risks.' | Shifts from generic essay to structured executive summary |
-| 'Fix this email.' | 'Re-write this customer email to sound polite, professional, and clear while reducing length by 30%.' | Shifts from random rewrites to targeted editing |
-| 'Give me ideas.' | 'List 5 innovative community outreach strategies for a non-profit clinic targeting youth wellness.' | Shifts from generic tips to actionable field ideas |
+| 'Write a report.' | 'Act as a clinic manager. Write a 1-page summary of weekly patient visits for executive leadership.' | Gives clear role, goal, and audience |
+| 'Fix this message.' | 'Rewrite this customer note to sound polite and warm. Keep it under 3 sentences.' | Gives exact tone and length rules |
+| 'Give me ideas.' | 'List 5 practical ideas for improving parking sign clarity at our community center.' | Gives specific real-world context |
 
 
 ![Diagram showing the difference is the prompt]({{ "/assets/images/topics/ai-foundations/lesson-03-img2.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: Vague to Structured Transformation</h4>
-  <p>Take 2 vague prompts from your team and rewrite them using specific instructions.</p>
+  <h4>✏️ Workplace Activity: Fix a Vague Prompt</h4>
+  <p>Take 2 vague prompts and rewrite them with clear background details.</p>
   <ul>
-    <li>Identify missing context</li>
-    <li>Define target audience</li>
-    <li>Specify desired output structure</li>
+    <li>Identify missing details</li>
+    <li>Add the target audience</li>
+    <li>Specify exact format</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: Prompt Makeover</h4>
-  <p>Original Vague Prompt: 'Write a memo about remote work policy.'</p>
+  <h4>🎯 Practice Scratchpad: Prompt Makeover Practice</h4>
+  <p>Vague Request: 'Write an update note.'</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Your Rewritten Structured Prompt:</p>
+  <p>Your Improved Clear Request:</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: Specific Inputs, Superior Outputs</h4>
-  <p>Give the AI the same background context you would give a human colleague assisting with the project.</p>
+  <h4>💡 Simple Rule & Verification Check: Treat AI Like a Helpful Assistant</h4>
+  <p>Give the AI the same clear background details you would give a helpful human assistant helping with a project.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: Why do vague prompts produce poor AI outputs?</h4>
+  <h4>🟣 Self-Check Quiz: Why do vague requests produce poor AI answers?</h4>
   <ul>
-    <li>A) Vague prompts cause server connection timeouts.</li>
-    <li>B) Vague prompts give the token prediction engine wide latitude, producing generic text.</li>
-    <li>C) AI systems automatically reject prompts shorter than 10 words.</li>
-    <li>D) Vague prompts delete stored memory.</li>
+    <li>A) Vague requests break the computer screen.</li>
+    <li>B) Vague requests force the AI to guess, resulting in generic text.</li>
+    <li>C) AI tools automatically block short messages.</li>
+    <li>D) Vague requests delete your files.</li>
   </ul>
-  <p><em>Answer Key: B — Lack of context leaves token prediction wide open to generic defaults.</em></p>
+  <p><em>Answer Key: B — Without clear details, AI relies on generic guesses.</em></p>
 </div>
 
 <h3>Part 2: The RTCF Framework</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">FRAMEWORK</span>
-  <p>RTCF stands for Role, Task, Context, and Format. It is the gold standard for prompt structure.</p>
+  <span class="lead-in-badge">EASY FORMULA</span>
+  <p>RTCF stands for Role, Task, Context, and Format. It is an easy 4-part recipe for great prompts.</p>
 </div>
 
-<p>**Role (R):** Assign an expert identity (e.g., 'You are a senior HR director').</p>
+<p>**R - Role:** Tell the AI who to act like (e.g., 'You are a helpful office manager').</p>
 
-<p>**Task (T):** Define the action using strong verbs (e.g., 'Draft a policy announcement').</p>
+<p>**T - Task:** Tell the AI what exact job to do (e.g., 'Write a 2-paragraph welcome email').</p>
 
-<p>**Context (C):** Provide background facts, constraints, and audience details (e.g., 'For 200 healthcare workers transitioning to hybrid schedules').</p>
+<p>**C - Context:** Give essential background details (e.g., 'For new employees starting Monday in our medical clinic').</p>
 
-<p>**Format (F):** Specify output structure (e.g., 'Use bullet points under 3 clear headers').</p>
+<p>**F - Format:** Tell the AI how to lay out the answer (e.g., 'Use bullet points and a friendly tone').</p>
 
 ![Diagram showing the rtcf framework]({{ "/assets/images/topics/ai-foundations/lesson-03-img3.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: Build an RTCF Prompt</h4>
-  <p>Construct an RTCF prompt for a real task in your job.</p>
+  <h4>✏️ Workplace Activity: Build an RTCF Request</h4>
+  <p>Construct an RTCF request for a real task at your job.</p>
   <ul>
-    <li>R: Define Role</li>
-    <li>T: State Task</li>
-    <li>C: Add Context</li>
-    <li>F: Specify Format</li>
+    <li>R: Pick Role</li>
+    <li>T: Pick Task</li>
+    <li>C: Give Context</li>
+    <li>F: Pick Format</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: RTCF Prompt Builder</h4>
-  <p>Combine Role, Task, Context, and Format into a complete prompt:</p>
+  <h4>🎯 Practice Scratchpad: RTCF Scratchpad</h4>
+  <p>Combine Role, Task, Context, and Format into one clear prompt:</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Test in your AI tool and paste output summary here:</p>
+  <p>Test your prompt in an AI tool and paste the summary here:</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: RTCF Order Doesn't Matter</h4>
-  <p>As long as all 4 elements are present in your prompt, the order does not affect performance.</p>
+  <h4>💡 Simple Rule & Verification Check: All 4 Parts Count</h4>
+  <p>You can write the 4 parts in any order as long as all 4 details are included.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: What does the 'C' in the RTCF framework stand for?</h4>
+  <h4>🟣 Self-Check Quiz: What does the letter 'C' stand for in the RTCF prompt recipe?</h4>
   <ul>
-    <li>A) Code</li>
-    <li>B) Context</li>
-    <li>C) Calculation</li>
-    <li>D) Command</li>
+    <li>A) Computer</li>
+    <li>B) Context (Background Details)</li>
+    <li>C) Calculator</li>
+    <li>D) Code</li>
   </ul>
-  <p><em>Answer Key: B — Context provides essential background information and constraints.</em></p>
+  <p><em>Answer Key: B — Context provides essential background details and audience rules.</em></p>
 </div>
 
-<h3>Part 3: Iterative Refinement & Prompt Debugging</h3>
+<h3>Part 3: Polishing the Output (Refinement)</h3>
 
 <div class="lead-in-card">
-  <span class="lead-in-badge">PRACTICAL SKILL</span>
-  <p>Prompting is a conversation, not a single one-shot attempt.</p>
+  <span class="lead-in-badge">EASY FIXES</span>
+  <p>Prompting is a friendly conversation. You can ask for quick adjustments until it is just right.</p>
 </div>
 
-<p>Rarely will your first prompt yield a 100% perfect final draft. Treat initial outputs as working drafts.</p>
+<p>Your very first AI response is rarely perfect. Treat it like a rough first draft.</p>
 
-<p>Use targeted follow-up prompts to refine tone, shorten paragraphs, add examples, or change formatting.</p>
+<p>Send simple follow-up messages to make quick adjustments: 'Make this shorter', 'Use a friendlier tone', or 'Format as a bulleted list'.</p>
 
-<p>Common debugging commands: 'Make this more concise', 'Adopt a warmer tone', 'Format as a 2-column table'.</p>
+<p>This back-and-forth editing process is called **refinement**.</p>
 
-![Diagram showing iterative refinement & prompt debugging]({{ "/assets/images/topics/ai-foundations/lesson-03-img4.png" | relative_url }})
+![Diagram showing polishing the output (refinement)]({{ "/assets/images/topics/ai-foundations/lesson-03-img4.png" | relative_url }})
 
 <div class="activity-card">
-  <h4>✏️ Workplace Activity: 3-Turn Refinement Sprint</h4>
-  <p>Take an initial AI response through 3 consecutive refinement turns.</p>
+  <h4>✏️ Workplace Activity: 3-Step Refinement Test</h4>
+  <p>Take one AI output through 3 quick improvement requests.</p>
   <ul>
-    <li>Turn 1: Initial RTCF prompt</li>
-    <li>Turn 2: Refine tone & length</li>
-    <li>Turn 3: Format & polish</li>
+    <li>Step 1: Get initial draft</li>
+    <li>Step 2: Ask to shorten by half</li>
+    <li>Step 3: Ask to format into 3 bullet points</li>
   </ul>
 </div>
 
 <div class="practice-card">
-  <h4>🎯 Practice Scratchpad: Refinement Log</h4>
-  <p>Initial Output Feedback needed:</p>
+  <h4>🎯 Practice Scratchpad: Refinement Scratchpad</h4>
+  <p>First Draft Output:</p>
   <textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="4"></textarea>
-  <p>Follow-Up Correction Prompt:</p>
+  <p>Follow-up Request to fix tone or length:</p>
   <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
 </div>
 
 <div class="tip-card">
-  <h4>💡 Pro Tip & Verification Check: Iterate in the Same Session</h4>
-  <p>Keep follow-up requests in the same chat thread so the AI maintains conversation history.</p>
+  <h4>💡 Simple Rule & Verification Check: Keep the Conversation Going</h4>
+  <p>Send your follow-up requests in the same chat window so the AI remembers what you were talking about.</p>
 </div>
 
 <div class="quiz-card">
-  <h4>🟣 Self-Check Quiz: What is the best approach when an AI output is close but not quite right?</h4>
+  <h4>🟣 Self-Check Quiz: What is the best thing to do if an AI draft is a little too long?</h4>
   <ul>
-    <li>A) Delete the chat and start over from scratch.</li>
-    <li>B) Send a follow-up refinement prompt specifying what to fix.</li>
-    <li>C) Accept the output as-is without changes.</li>
-    <li>D) Switch to a completely different computer.</li>
+    <li>A) Delete the chat and give up.</li>
+    <li>B) Reply with a quick message like 'Please shorten this by half'.</li>
+    <li>C) Turn off your computer monitor.</li>
+    <li>D) Print the entire page immediately.</li>
   </ul>
-  <p><em>Answer Key: B — Follow-up prompts allow you to iteratively polish the response.</em></p>
+  <p><em>Answer Key: B — Simple follow-up messages let you quickly polish the response.</em></p>
 </div>
 
 <h3>Lesson Summary & Next Steps</h3>
 
 <div class="lead-in-card">
   <span class="lead-in-badge">KEY TAKEAWAYS</span>
-  <p>You have completed <strong>Prompting Fundamentals & RTCF</strong>. Apply these principles in your daily workflow before moving to the next lesson.</p>
+  <p>You have finished <strong>Prompting Fundamentals & RTCF</strong>. Practice these easy steps in your work routine before starting the next lesson.</p>
 </div>
