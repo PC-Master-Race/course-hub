@@ -109,7 +109,34 @@ youtube_id: "a8f7d6e5c4b"
 
 <p>AI Foundations  |  Week 2, Day 2  |      Page 4 of 44</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Tool Name Category + Why It Caught Your Eye Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Tool Name Category + Why It Caught Your Eye</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h2>Tool Name Category + Why It Caught Your Eye</h2>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>1</p>
 
@@ -2854,4 +2881,6 @@ youtube_id: "a8f7d6e5c4b"
     <li>D) Generating ideas for a staff party.</li>
   </ul>
   <p><em>Answer Key: B — Private PII must never be entered into unvetted public cloud AI tools.</em></p>
+</div>
+
 </div>

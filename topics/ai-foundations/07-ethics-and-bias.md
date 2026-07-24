@@ -79,7 +79,34 @@ youtube_id: "e9f8g7h6i5j"
 | Scoped AI / Bot | It follows a set of rules or a defined area and it may or may not use AI but it waits for you to start and stays in its lane. |
 | Autonomous Agent | It gets a goal from you, plans its own steps, uses multiple tools, and takes action -- often without a human approving each move. |
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1 -- The Accountability Gap Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1 -- The Accountability Gap</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1 -- The Accountability Gap</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is the core problem. When something goes wrong with a simple, rule-based tool, it is usually pretty clear who is at fault. If a cash register charges you the wrong price because it was programmed incorrectly, the store is responsible. The rule was wrong. Someone wrote that rule. You can point to the mistake and find the person behind it.</p>
 
@@ -94,7 +121,36 @@ youtube_id: "e9f8g7h6i5j"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-07-img2.png" | relative_url }})
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2 -- The Black Box Problem Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2 -- The Black Box Problem</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2 -- The Black Box Problem</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>There is another problem that makes accountability even harder. It is called the black box problem, and understanding it will change how you think about AI decisions.</p>
 
@@ -107,7 +163,36 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>That is not a small problem. That is a serious human rights concern.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3 -- Firing by Algorithm (a step-by-step computer recipe) Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3 -- Firing by Algorithm (a step-by-step computer recipe)</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3 -- Firing by Algorithm (a step-by-step computer recipe)</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is a real example of what autonomous AI looks like in the workplace today. It is called algorithm (a step-by-step computer recipe)ic management, and it is already used by major companies.</p>
 
@@ -126,7 +211,36 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>Is removing the human from that decision more fair, or less fair? On one hand, an algorithm (a step-by-step computer recipe) does not have a bad day or a personal grudge. On the other hand, it also cannot recognize context a family emergency, a disability, a systemic problem on the floor that day. Which matters more?</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4 -- A Moral Framework: Magnifica Humanitas Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4 -- A Moral Framework: Magnifica Humanitas</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4 -- A Moral Framework: Magnifica Humanitas</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>In May 2026, Pope Leo XIV published a major document called Magnifica Humanitas -- which means 'The Magnificent Humanity.' It is one of the most important statements any world leader has made specifically about AI and people.</p>
 
@@ -263,6 +377,8 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>Before the activity, notice what all five cases have in common:</p>
 
+</div>
+
 
 | What Happened | Why It Mattered |
 | --- | --- |
@@ -299,7 +415,34 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>This module explains where unfairness in AI comes from, what it looks like in the real world, and why it matters for the work you do every day.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1 -- Where Does Bias in AI Come From? Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1 -- Where Does Bias in AI Come From?</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1 -- Where Does Bias in AI Come From?</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Let's start with the most important concept in this module. AI learns from data, enormous amounts of it. That data was created by human beings, in human societies, over many years.</p>
 
@@ -311,7 +454,36 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>AI bias happens when an AI system produces unfair outcomes for certain groups of people because the data it was trained on reflected past discrimination or imbalance. The AI is not 'trying' to be unfair it is simply repeating the patterns it found in the data. But the harm to real people is just as real, regardless of intent.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2 -- Bias You Cannot See Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2 -- Bias You Cannot See</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2 -- Bias You Cannot See</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is what makes AI bias especially difficult. It is rarely obvious. An AI hiring tool will not say 'do not hire women' or 'avoid applicants from this neighborhood.' It is much more subtle than that.</p>
 
@@ -331,7 +503,36 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>-- Amazon discovered the problem and shut the tool down. But it operated for years before anyone noticed.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3 -- Predictive Redlining Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3 -- Predictive Redlining</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3 -- Predictive Redlining</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>You may have heard of redlining -- the historical practice of denying loans, insurance, and services to people in certain neighborhoods, often based on race. It was declared illegal in the United States in 1968.</p>
 
@@ -342,7 +543,36 @@ youtube_id: "e9f8g7h6i5j"
 <p>Predictive redlining happens when an AI system uses historical data to predict who will succeed in school or pay rent on time -- and those predictions are based on data that reflects past inequality. The AI does not look at race directly.</p>
 <p>But it looks at ZIP codes, school names, and other factors that are closely linked to race because of historical discrimination. The result is that the same people who were excluded before get excluded again -- this time by an algorithm (a step-by-step computer recipe).</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4 -- The Deskilling Risk Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4 -- The Deskilling Risk</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4 -- The Deskilling Risk</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is one more concern that is less dramatic but very real for your career. It is called deskilling.</p>
 
@@ -390,7 +620,36 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>I want you to take this section seriously, even if the concepts feel abstract at first. By the end of this module, you will be able to see this problem clearly in your own field.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1 -- What Is Algorithm (a step-by-step computer recipe)ic Cruelty? Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1 -- What Is Algorithm (a step-by-step computer recipe)ic Cruelty?</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1 -- What Is Algorithm (a step-by-step computer recipe)ic Cruelty?</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Let me give you a concrete example before I give you the definition.</p>
 
@@ -406,7 +665,36 @@ youtube_id: "e9f8g7h6i5j"
 <p>Algorithm (a step-by-step computer recipe)ic cruelty happens when a company replaces a human point of contact a customer service agent, an HR representative, a support line -- with an AI that sounds warm and helpful but cannot actually help.</p>
 <p>The person receives the performance of care without any real support or resolution. The cruelty is not in the AI itself it is in the decision to use AI in situations where people genuinely need human help.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2 -- The Illusion of Empathy Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2 -- The Illusion of Empathy</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2 -- The Illusion of Empathy</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI chatbots are carefully designed to sound understanding, patient, and caring. Many of them do this very well. But here is what is true regardless of how convincing they sound:</p>
 
@@ -423,7 +711,36 @@ youtube_id: "e9f8g7h6i5j"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-07-img4.png" | relative_url }})
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3 -- When AI Relationships Go Too Far Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3 -- When AI Relationships Go Too Far</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3 -- When AI Relationships Go Too Far</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>I want to address something that has generated real concern in the past two years. I am going to discuss it directly and with care, because it is relevant to the workplace even if it starts outside of it.</p>
 
@@ -441,9 +758,40 @@ youtube_id: "e9f8g7h6i5j"
 
 <p>I raise this not to alarm you, but because the ethical principle underneath it applies directly to the workplace tools you will use and design processes around.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4 -- The Workplace Question Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4 -- The Workplace Question</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4 -- The Workplace Question</h3>
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
+
 <p>Here is how this issue shows up in professional settings:</p>
+
+</div>
 
 
 | Situation | The Ethical Question |

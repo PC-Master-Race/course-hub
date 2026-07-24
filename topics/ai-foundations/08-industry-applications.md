@@ -60,7 +60,34 @@ youtube_id: "k4j3h2g1f0e"
 
 <p>I want to start with something concrete before I introduce the big ideas. That way the ideas will already make sense when we get to them.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1 -- What Human Dignity Means in Plain Terms Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1 -- What Human Dignity Means in Plain Terms</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1 -- What Human Dignity Means in Plain Terms</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Human dignity is not a complicated idea. It means this: every person deserves to be treated as a full human being -- not as a number, not as a data point, not as a risk category, and not as a productivity score.</p>
 
@@ -80,7 +107,36 @@ youtube_id: "k4j3h2g1f0e"
 
 <p>Image generation prompt: "Clean flat split illustration. Left side shows a full warm human figure with expression and individuality. Right side shows the same figure reduced to a simple data profile -- a bar chart, a score number, a category label replacing the person. Soft professional colors, white background, modern flat design, no text inside the image, thoughtful and dignified tone"</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2 -- Magnifica Humanitas: What It Is and Why It Matters Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2 -- Magnifica Humanitas: What It Is and Why It Matters</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2 -- Magnifica Humanitas: What It Is and Why It Matters</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>On May 15, 2026, Pope Leo XIV published a document called Magnifica Humanitas. In English, that means 'The Magnificent Humanity.' It is a papal encyclical one of the most significant documents a Pope can issue. This one was written specifically about artificial intelligence and the human person.</p>
 
@@ -100,9 +156,40 @@ youtube_id: "k4j3h2g1f0e"
 
 <p>-- Core argument: AI is a powerful tool, but it must be designed and used in ways that protect the dignity, equality, and accountability that every person deserves</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3 -- Chapter by Chapter: What It Actually Says Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3 -- Chapter by Chapter: What It Actually Says</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3 -- Chapter by Chapter: What It Actually Says</h3>
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
+
 <p>We are referencing specific chapters of Magnifica Humanitas throughout this week. Here is a clear summary of the four chapters most relevant to this course, in plain language, with the key idea of each one:</p>
+
+</div>
 
 
 | Chapter | What It Is About | How It Connects to This Course |
@@ -120,9 +207,38 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>Pope Leo XIV, Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence, Encyclical Letter, Vatican City, May 15, 2026. Available at: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4 -- The Right to an Explanation Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4 -- The Right to an Explanation</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4 -- The Right to an Explanation</h3>
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
+
 <p>Here is something most people do not know: in many parts of the world, you now have, or are gaining, the legal right to know why an AI system made a decision about you.</p>
+
+</div>
 
 
 | Where | What the Law Says | Status |
@@ -133,7 +249,34 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>The question I want you to sit with: should people in the United States have the right to know why an AI system made a decision that affected their life? And if yes, what would that actually look like in your field?</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 5 -- The New Luddites: Not Anti-Technology, Pro-Dignity Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 5 -- The New Luddites: Not Anti-Technology, Pro-Dignity</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 5 -- The New Luddites: Not Anti-Technology, Pro-Dignity</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>You may have heard the word 'Luddite' used as an insult, meaning someone who is afraid of technology or refuses to use it. That is not what the word originally meant.</p>
 
@@ -170,9 +313,40 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>I am keeping this section short on purpose. You do not need to become an environmental scientist or a data researcher. You need to know enough to ask smart questions when your organization makes decisions about AI adoption.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part A -- The Environmental Cost of AI Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part A -- The Environmental Cost of AI</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part A -- The Environmental Cost of AI</h3>
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
+
 <p>When you use ChatGPT or any other AI tool, a server somewhere in the world processes your request. That server generates enormous amounts of heat. Cooling that heat requires two things: electricity and water. A lot of both.</p>
+
+</div>
 
 
 | The Environmental Cost | Why It Matters |
@@ -191,7 +365,34 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img3.png" | relative_url }})
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part B -- The Knowledge Problem Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part B -- The Knowledge Problem</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part B -- The Knowledge Problem</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is the second hidden cost, and this one is less visible but just as important for the future of AI and the people who use it.</p>
 
@@ -351,6 +552,8 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 <p>Week 3 Close and Week 4 Preview</p>
 
 <p>Collecting what we built -- and setting up the final week</p>
+
+</div>
 
 
 | Time:  30 min | Format:  Submit + reflect + preview | Week:  Week 3, Day 2 |

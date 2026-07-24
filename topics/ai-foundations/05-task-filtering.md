@@ -669,7 +669,34 @@ youtube_id: "v5g7k6q8r9s"
 
 <p>Great discussion to have. Here are the 10 tools we will sort:</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Tool Name Which Category? (circle or write it in) Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Tool Name Which Category? (circle or write it in)</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h2>Tool Name Which Category? (circle or write it in)</h2>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>1 Otter.ai Language / Data / Image / Audio / Workflow</p>
 
@@ -782,7 +809,36 @@ youtube_id: "v5g7k6q8r9s"
 
 <p>The better the fit for AI.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Ask Yourself YES - Strong candidate for Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Ask Yourself YES - Strong candidate for</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h2>Ask Yourself YES - Strong candidate for</h2>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI</p>
 
@@ -1311,7 +1367,36 @@ youtube_id: "v5g7k6q8r9s"
   <li>Much better: "Write follow-up emails to clients after a property showing"</li>
 </ul>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: My Task - Be Specific My Field / Role Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: My Task - Be Specific My Field / Role</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h2>My Task - Be Specific My Field / Role</h2>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p><!-- PAGE 20 --></p>
 
@@ -2823,3 +2908,5 @@ youtube_id: "v5g7k6q8r9s"
 </div>
 
 </ul>
+
+</div>

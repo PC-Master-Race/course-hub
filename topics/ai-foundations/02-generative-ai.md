@@ -20,11 +20,34 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>This module gives you the framework. The activity that follows gives you the reps.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1: Why Prompting Matters - Same Tool, Different World Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1: Why Prompting Matters - Same Tool, Different World</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1: Why Prompting Matters - Same Tool, Different World</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Before we get to the framework, let's make the problem concrete. Look at these two prompts and what they produce:</p>
 
@@ -43,11 +66,34 @@ youtube_id: "2IK3DFHRF8g"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-02-img1.png" | relative_url }})
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: The RTCF Framework - Your Prompting Blueprint Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: The RTCF Framework - Your Prompting Blueprint</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: The RTCF Framework - Your Prompting Blueprint</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Every strong prompt for a workplace task can be built using four components. Together, they form the RTCF framework: Role, Task, Context, and Format. Think of RTCF as a checklist you run through before sending any prompt - especially for important outputs.</p>
 
@@ -74,11 +120,34 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>Pro tip: Write your RTCF prompt in one flowing paragraph - you do not need to label each section out loud. The goal is to ensure all four elements are present, not that they are formatted as a checklist.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3: RTCF in Action - A Full Worked Example Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3: RTCF in Action - A Full Worked Example</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3: RTCF in Action - A Full Worked Example</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Let's walk through one complete prompt, built piece by piece, so you can see how each component adds value.</p>
 
@@ -94,9 +163,38 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>Notice how each addition makes the prompt progressively more useful - without making it burdensome. A complete RTCF prompt is typically 2-5 sentences. That is all it takes.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4: AI Is a Conversation, Not a Search Engine Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4: AI Is a Conversation, Not a Search Engine</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4: AI Is a Conversation, Not a Search Engine</h3>
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
+
 <p>This is one of the most important mindset shifts in this course. Most of us are trained to use technology like a search engine: type something in, get a result, move on. AI language tools work differently - and treating them like a search engine is one of the biggest reasons people get frustrated.</p>
+
+</div>
 
 
 | Search Engine Mindset | Conversation Mindset |
@@ -120,7 +218,34 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>In your role, this means: you do not need to get the perfect prompt on the first try. The professionals who get the most out of AI are the ones who treat it as a working session - not a one-shot vending machine. Start with a solid RTCF prompt, then refine.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 5: The Chain-of-Thought Nudge Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 5: The Chain-of-Thought Nudge</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 5: The Chain-of-Thought Nudge</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is a simple technique that can dramatically improve the quality of AI responses on complex tasks. It is called the chain-of-thought approach - and it requires just one extra phrase at the end of your prompt.</p>
 
@@ -247,11 +372,36 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>This module gives you two practical tools for developing that eye: a four-question evaluation framework, and a central question that will follow you throughout your entire career. The anchor activity at the end puts both to work immediately - using your real job.</p>
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1: The Four-Question AI Suitability Check Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1: The Four-Question AI Suitability Check</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1: The Four-Question AI Suitability Check</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>When you look at a task on your plate and wonder, "Could AI help with this?" - run it through four diagnostic questions. Not every task needs to score a "yes" on all four. But the more "yes" answers a task gets, the stronger the candidate it is for AI assistance.</p>
 
@@ -268,11 +418,34 @@ youtube_id: "2IK3DFHRF8g"
 <p>A practical rule of thumb: if a task is repetitive, language-based, information-heavy, and low-stakes if imperfect - it is almost certainly worth trying with AI. If a task is one-of-a-kind, requires physical action, involves deep ethical judgment, or has zero tolerance for error - keep the human in the lead.</p>
 
 <p class="standout-question">Quick Self-Check: How Many Yes Answers Does Your Task Get?</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: The Central Question - Remove, Accelerate, or Improve? Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: The Central Question - Remove, Accelerate, or Improve?</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: The Central Question - Remove, Accelerate, or Improve?</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Once you have identified a task that could be an AI candidate, ask yourself one more thing before you start prompting. This question cuts through the noise and focuses your effort where it will actually pay off:</p>
 
@@ -291,11 +464,34 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>In practice, many AI use cases do all three at once: removing the most tedious part of a task, accelerating the parts that remain, and improving the overall quality of what you produce. But knowing which value you are primarily after helps you prompt more effectively and evaluate the output more honestly.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3: Same Tool, Different Trades Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3: Same Tool, Different Trades</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3: Same Tool, Different Trades</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>One of the most important things to understand about AI language tools is that they are generalists. The same ChatGPT or Gemini that helps a marketing manager write ad copy will also help a warehouse supervisor create a shift handoff report - if it is given the right context.</p>
 
@@ -316,11 +512,40 @@ youtube_id: "2IK3DFHRF8g"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-02-img2.png" | relative_url }})
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4: The Flip Side - Tasks Where AI Falls Short Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4: The Flip Side - Tasks Where AI Falls Short</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4: The Flip Side - Tasks Where AI Falls Short</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Knowing where AI excels is only half the equation. Equally important is knowing where it struggles - so you don't hand over tasks it is not equipped to handle well.</p>
 
 <p>We will go deep on AI limitations and risks in Module 4. For now, here is your quick orientation:</p>
+
+</div>
 
 
 | Where AI Struggles | Why - and What to Do Instead |
@@ -393,11 +618,34 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>By the end of this module, you will have one critical habit locked in: AI proposes, you verify, you decide. That habit protects you, your employer, and the people you serve.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1: Hallucination (a confident made-up answer) - When AI Makes Things Up Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1: Hallucination (a confident made-up answer) - When AI Makes Things Up</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1: Hallucination (a confident made-up answer) - When AI Makes Things Up</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>The single most important limitation to understand about AI language tools is a phenomenon researchers call hallucination (a confident made-up answer) - and it is nothing like what the word might suggest to you.</p>
 
@@ -442,11 +690,34 @@ youtube_id: "2IK3DFHRF8g"
 | Misattributed quotes | A quote correctly attributed to one person that was actually said by someone else - or never said at all | Reputational risk; spreading misinformation in professional communications. |
 | Plausible but wrong procedures | Step-by-step instructions that are mostly correct but contain one subtly wrong step - especially in technical or medical contexts | Operational errors; safety incidents; patient harm in healthcare settings. |
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: The Human-in-the-Loop Principle Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: The Human-in-the-Loop Principle</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: The Human-in-the-Loop Principle</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Understanding hallucination (a confident made-up answer) leads directly to one of the most important operating principles in professional AI use. It is called the human-in-the-loop principle, and it can be summarized in three lines:</p>
 
@@ -474,11 +745,34 @@ youtube_id: "2IK3DFHRF8g"
 
 <p>In your role, this means: every time you use AI to produce something that will leave your hands, an email, a report, a patient communication, a client document - take 60 seconds to ask: are there any specific claims here that I have not verified? That 60 seconds is your professional protection.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3: A First Look at What Else Can Go Wrong Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3: A First Look at What Else Can Go Wrong</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3: A First Look at What Else Can Go Wrong</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Hallucination (a confident made-up answer) is the most immediate risk, but it is not the only one. Here is a brief preview of three other important limitations you will encounter. You will go much deeper on all of these in Week 3 - for now, this is your first warning label on each.</p>
 

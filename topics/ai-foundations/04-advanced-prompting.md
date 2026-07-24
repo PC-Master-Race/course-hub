@@ -28,11 +28,34 @@ youtube_id: "JUp8B2r7zD8"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img1.png" | relative_url }})
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: RTCF Rapid Review Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: RTCF Rapid Review</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: RTCF Rapid Review</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>In Module 2 you learned the RTCF framework - a four-part structure for writing prompts that get professional results. Before we go deeper with advanced techniques today, let's make sure that foundation is solid.</p>
 
@@ -292,11 +315,34 @@ youtube_id: "JUp8B2r7zD8"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img6.png" | relative_url }})
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1: How Image Generation Models Actually Work Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1: How Image Generation Models Actually Work</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1: How Image Generation Models Actually Work</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>You do not need to understand the mathematics. But knowing the basic mechanism helps you understand why these tools behave the way they do - why they sometimes produce brilliant results and why they sometimes produce a person with six fingers.</p>
 
@@ -315,11 +361,34 @@ youtube_id: "JUp8B2r7zD8"
 
 </div>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: What Image AI Can Do at Work - By Industry Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: What Image AI Can Do at Work - By Industry</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: What Image AI Can Do at Work - By Industry</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Here is where image generation is showing up in professional settings today. This is not a future-forward prediction - these are current uses that workers in these fields are already experimenting with:</p>
 
@@ -335,11 +404,34 @@ youtube_id: "JUp8B2r7zD8"
 | Retail, Marketing & Customer Service | Product mockup visuals, promotional flyer layouts, social media campaign images, seasonal graphics | Small businesses without design budgets can produce professional-looking marketing materials for pennies per image. |
 | Construction, Trade & Technical Fields | Site layout visualizations, safety compliance posters, step-by-step procedure diagrams, equipment identification guides | Visual job aids that once required professional illustration can now be drafted quickly and handed to a designer for polish. |
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3: The Tools - A Brief Comparison Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3: The Tools - A Brief Comparison</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3: The Tools - A Brief Comparison</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>You do not need to master every tool. You need to know which one fits your situation. Here is a practical comparison of the three tools you are most likely to encounter in a workplace context:</p>
 
@@ -356,7 +448,34 @@ youtube_id: "JUp8B2r7zD8"
 | Legal / copyright considerations | Images generated are available for personal and commercial use per Google's terms. Always check current policy. | Canva AI images are licensed for commercial use within Canva's terms. Read the pro vs. free tier differences. | Trained exclusively on Adobe Stock and openly licensed content. Currently the safest option for professional commercial use. |
 | Free access? | Yes - available with a free Google account. Some advanced features require Gemini Advanced subscription. | Yes - free tier available. Some AI features require Canva Pro subscription (~$15/month). | Limited free tier available. Full access requires Adobe Creative Cloud subscription. |
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 4: Key Limitations - Use Image AI Carefully Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 4: Key Limitations - Use Image AI Carefully</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 4: Key Limitations - Use Image AI Carefully</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Image AI is impressive and increasingly useful. It also has limitations that matter directly to professional use. These are not minor bugs to be patched - they are structural characteristics of how these models work. Understanding them is part of being a responsible, effective user.</p>
 
@@ -389,7 +508,36 @@ youtube_id: "JUp8B2r7zD8"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img9.png" | relative_url }})
 
+</div>
+
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 5: Prompting for Images - The Anatomy of a Good Image Prompt Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 5: Prompting for Images - The Anatomy of a Good Image Prompt</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 5: Prompting for Images - The Anatomy of a Good Image Prompt</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>The same principles that make text prompts better - specificity, context, format - apply directly to image prompts. The difference is that the 'format' for images includes visual elements: style, composition, lighting, color, and medium.</p>
 
@@ -410,6 +558,8 @@ youtube_id: "JUp8B2r7zD8"
 <p>Format/Specs: Aspect ratio, orientation, or intended use. Options include: landscape 16:9 for a slide, square for social media, portrait for a flyer, white background for a logo, transparent background</p>
 
 <p>Prompt Comparison: Vague vs. Specific</p>
+
+</div>
 
 
 | Vague prompt (weak results) | Specific prompt (usable results) |
@@ -515,11 +665,34 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>You do not need to master these tools right now. You need to walk away thinking: 'That is something I could actually use.' If any of in this session's demonstrations spark a question or a use case in your field, write it down - your curiosity is exactly the fuel that makes Week 2 powerful.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1: Audio AI - Transcription, Voice, and Meeting Intelligence Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1: Audio AI - Transcription, Voice, and Meeting Intelligence</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1: Audio AI - Transcription, Voice, and Meeting Intelligence</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Audio AI is a category of tools that work with spoken language rather than typed text. These tools can transcribe speech to text, summarize spoken conversations, generate realistic synthetic voices, and extract action items from meetings - all automatically.</p>
 
@@ -555,11 +728,34 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>It also introduces a responsibility: synthesized voice can be used to create deceptive audio. Always ask yourself - and your students - 'Is this voice real?' before sharing or acting on audio content you did not personally record.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: Chain-of-Thought (CoT) Reasoning - Watching AI Think Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: Chain-of-Thought (CoT) Reasoning - Watching AI Think</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: Chain-of-Thought (CoT) Reasoning - Watching AI Think</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>In Module 5, you learned that AI generates responses by predicting likely next words based on patterns. Chain-of-Thought (CoT) reasoning is a technique - and increasingly a built-in capability - that pushes AI models to show their reasoning step by step before giving a final answer.</p>
 
@@ -631,11 +827,34 @@ youtube_id: "JUp8B2r7zD8"
 
 </div>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 1: AI Word Association Revisit Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 1: AI Word Association Revisit</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 1: AI Word Association Revisit</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>At the start of Week 1, Day 1, you contributed words which represented your initial associations with AI before any instruction. You have spent the past two days learning what AI actually is, how to prompt it, how to identify opportunities, how to catch its errors, and how to approach it as a critical thinking tool.</p>
 
@@ -654,11 +873,34 @@ youtube_id: "JUp8B2r7zD8"
 
 </div>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 2: Exit Ticket Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 2: Exit Ticket</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 2: Exit Ticket</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>The exit ticket is the most important  of Week 1. It is not a test - it is a commitment device. Research on learning consistently shows that writing a specific, concrete statement of intended application dramatically increases follow-through. You are not just summarizing what you learned. You are making a professional declaration.</p>
 
@@ -682,11 +924,34 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>Set a real deadline: The second blank is a date - not 'someday.' Write an actual date within the next 7 days. Make it real.</p>
 
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Part 3: Between-Session Challenge Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Part 3: Between-Session Challenge</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
 <h3>Part 3: Between-Session Challenge</h3>
 
-
 <div class="lead-in-card">
-  <span class="lead-in-badge">LESSON SECTION</span>
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>Between Week 1 and Week 2, you have one challenge. This is not a independent practice assignment - it is an experiment. You are a researcher, and your workplace or training program is your lab.</p>
 

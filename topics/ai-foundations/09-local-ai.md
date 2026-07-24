@@ -34,9 +34,38 @@ youtube_id: "m9l8k7j6h5g"
 
 <p>-- 20 MIN</p>
 
-<p>Module 1</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Module 1 Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Module 1</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
+<h3>Module 1</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p class="standout-question">What Is the Future of Work With AI?</p>
+</div>
+
 
 | Type:  Reading and Discussion | Time: | Format:  Full group |
 | --- | --- | --- |
@@ -66,9 +95,38 @@ youtube_id: "m9l8k7j6h5g"
 
 <p>-- 20 MIN</p>
 
-<p>Module 2</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Module 2 Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Module 2</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
+<h3>Module 2</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI in Your Field: Healthcare and Human Services</p>
+
+</div>
 
 
 | Vocations:  CNA Nursing, Pharmacy Tech, Behavioral Specialist | Time: |
@@ -116,13 +174,42 @@ youtube_id: "m9l8k7j6h5g"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-09-img3.png" | relative_url }})
 
-<p>Module 3</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Module 3 Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Module 3</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
+<h3>Module 3</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI in Your Field: Business, Finance, and Real Estate</p>
 
 <p>Business, finance, and real estate are fields where large amounts of data, documents, and communications are processed every day. AI has moved into these fields quickly because the tasks are often repetitive, data-heavy, and language-driven -- exactly the type of work AI handles well.</p>
 
 <p>Accounting</p>
+
+</div>
 
 
 | AI Tool | What It Does | Where You Will See It |
@@ -179,7 +266,34 @@ youtube_id: "m9l8k7j6h5g"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-09-img4.png" | relative_url }})
 
-<p>Module 4</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Module 4 Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Module 4</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
+<h3>Module 4</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI in Your Field: Creative and Design Industries</p>
 
@@ -188,6 +302,8 @@ youtube_id: "m9l8k7j6h5g"
 <p>Interior Design</p>
 
 <p>Interior designers spend a significant amount of time creating mood boards, rendering concepts, sourcing products, and writing proposals. AI is changing each of these steps.</p>
+
+</div>
 
 
 | AI Tool | What It Does | Where You Will See It |
@@ -212,13 +328,42 @@ youtube_id: "m9l8k7j6h5g"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-09-img5.png" | relative_url }})
 
-<p>Module 5</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Module 5 Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Module 5</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
+<h3>Module 5</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI in Your Field: Education and Behavioral Health</p>
 
 <p>Education and behavioral health share something important: they are both deeply relationship-based. The human connection is the product. AI is being introduced in ways that protect that relationship by handling the administrative and analytical work so educators and specialists can focus on people.</p>
 
 <p>Education</p>
+
+</div>
 
 
 | AI Tool | What It Does | Where You Will See It |
@@ -236,13 +381,42 @@ youtube_id: "m9l8k7j6h5g"
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-09-img6.png" | relative_url }})
 
-<p>Module 6</p>
+
+<div class="activity-card">
+  <h4>✏️ Workplace Activity: Module 6 Scenario</h4>
+  <p>Apply the concepts from this section to a real task in your office:</p>
+  <ul>
+    <li>Identify 1 workplace task affected by this concept.</li>
+    <li>Evaluate the risk level and review requirements.</li>
+  </ul>
+</div>
+
+<div class="practice-card">
+  <h4>🎯 Practice Scratchpad: Module 6</h4>
+  <p><strong>Your Input / Prompt (type here):</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Type your prompt or response here..." rows="4"></textarea>
+  <p><strong>AI Response / Reflection Summary:</strong></p>
+  <textarea class="prompt-scratchpad" placeholder="Paste or summarize output here..." rows="4"></textarea>
+</div>
+
+<div class="tip-card">
+  <h4>💡 Simple Rule & Verification Check</h4>
+  <p>Always verify AI outputs against primary sources. Remember: AI suggests, Human verifies, Human decides.</p>
+</div>
+
+
+<h3>Module 6</h3>
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">CORE CONCEPT</span>
 
 <p>AI in Your Field: Sales, Customer Service, and Manufacturing</p>
 
 <p>Sales, customer service, and manufacturing all deal with high volumes of interactions, data, and processes that repeat constantly. These fields have seen some of the fastest AI adoption because the efficiency gains are easy to measure.</p>
 
 <p>Sales</p>
+
+</div>
 
 
 | AI Tool | What It Does | Where You Will See It |
