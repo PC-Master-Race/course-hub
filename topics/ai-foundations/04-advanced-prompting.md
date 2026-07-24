@@ -234,18 +234,9 @@ youtube_id: "JUp8B2r7zD8"
 <p>Just type a simple, natural request. Do not use RTCF. Do not add any structure. Write the kind of prompt you would have written before this course.</p>
 
 
-<div class="practice-card">
-  <div class="tournament-grid">
-    <div class="tournament-col">
-      <label for="round1-prompt"><strong>My Prompt (Write it here):</strong></label>
-      <textarea id="round1-prompt" class="prompt-scratchpad" placeholder="Type your prompt here..." rows="4"></textarea>
-    </div>
-    <div class="tournament-col">
-      <label for="round1-output"><strong>AI Output (Paste key phrases or summarize):</strong></label>
-      <textarea id="round1-output" class="prompt-scratchpad" placeholder="Paste or summarize the AI's response here..." rows="4"></textarea>
-    </div>
-  </div>
-</div>
+| My prompt (write it here) | AI output (paste key phrases or summarize) |
+| --- | --- |
+| <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea> | <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea> |
 
 
 <h4>Round 2: Add RTCF</h4>
@@ -253,18 +244,9 @@ youtube_id: "JUp8B2r7zD8"
 <p>Now write a new prompt for the same task using the full RTCF framework. Include a specific Role, a precise Task, relevant Context about the situation and audience, and your preferred Format.</p>
 
 
-<div class="practice-card">
-  <div class="tournament-grid">
-    <div class="tournament-col">
-      <label for="round2-prompt"><strong>My Prompt (Write it here):</strong></label>
-      <textarea id="round2-prompt" class="prompt-scratchpad" placeholder="Type your prompt here..." rows="4"></textarea>
-    </div>
-    <div class="tournament-col">
-      <label for="round2-output"><strong>AI Output (Paste key phrases or summarize):</strong></label>
-      <textarea id="round2-output" class="prompt-scratchpad" placeholder="Paste or summarize the AI's response here..." rows="4"></textarea>
-    </div>
-  </div>
-</div>
+| My prompt (write it here) | AI output (paste key phrases or summarize) |
+| --- | --- |
+| <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea> | <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea> |
 
 
 <h4>Round 3: Add Few-Shot + Chain-of-Thought</h4>
@@ -272,18 +254,9 @@ youtube_id: "JUp8B2r7zD8"
 <p>Build on your RTCF prompt. Add (a) one example of the tone and length you want - quote a sentence or two from a response you consider professional. Then add (b) 'Before writing, think step by step about what this customer needs to hear and why. Then write the response.'</p>
 
 
-<div class="practice-card">
-  <div class="tournament-grid">
-    <div class="tournament-col">
-      <label for="round3-prompt"><strong>My Prompt (Write it here):</strong></label>
-      <textarea id="round3-prompt" class="prompt-scratchpad" placeholder="Type your prompt here..." rows="4"></textarea>
-    </div>
-    <div class="tournament-col">
-      <label for="round3-output"><strong>AI Output (Paste key phrases or summarize):</strong></label>
-      <textarea id="round3-output" class="prompt-scratchpad" placeholder="Paste or summarize the AI's response here..." rows="4"></textarea>
-    </div>
-  </div>
-</div>
+| My prompt (write it here) | AI output (paste key phrases or summarize) |
+| --- | --- |
+| <textarea class="prompt-scratchpad" placeholder="Write your prompt here..." rows="4"></textarea> | <textarea class="prompt-scratchpad" placeholder="Paste key phrases or summarize the AI response here..." rows="4"></textarea> |
 
 
 <h4>After All Three Rounds: Side-by-Side Evaluation</h4>
