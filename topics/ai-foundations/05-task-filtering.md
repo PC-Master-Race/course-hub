@@ -11,6 +11,8 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-05-img2.png" | relative_url }})
 
+<p>This course, in this lesson -  & This course LANDING CHECK</p>
+
 <p>Reflection</p>
 
 <p>, ,</p>
@@ -247,8 +249,6 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-05-img7.png" | relative_url }})
 
-<p>Coming Up Next - The 5 Categories of AI at Work ()</p>
-
 <p>The first thing we are going to do is map the full landscape of AI tools available to you. Not</p>
 
 <p>every tool does the same thing - and knowing the five categories means you will never</p>
@@ -448,7 +448,7 @@ last_updated: 2026-07-02
 
 <p>happens, do Y, then send Z. This is the most powerful category and also the most complex.</p>
 
-<p>We are previewing it here and going deep in a later module.</p>
+<p>We are previewing it here and going deep in a later lesson.</p>
 
 <p>Common tools: Zapier AI, Microsoft Copilot (agent mode), Make (formerly Integromat)</p>
 
@@ -471,7 +471,7 @@ last_updated: 2026-07-02
 
 <p>Key insight: You do not need to touch this deeply in this session - just file the concept away. By</p>
 
-<p>A later module, the other four categories will feel natural and you will be ready to connect them.</p>
+<p>a later lesson, the other four categories will feel natural and you will be ready to connect them.</p>
 
 <p>All 5 Categories at a Glance</p>
 
@@ -555,7 +555,7 @@ last_updated: 2026-07-02
 
 <p>Repetitive cross-app</p>
 
-<p>processes (A later module</p>
+<p>processes (a later lesson</p>
 
 <p>focus)</p>
 
@@ -629,8 +629,7 @@ last_updated: 2026-07-02
 
 <p>______________</p>
 
-
-<h3>This course, in this lesson - MODULE: CRITERIA FOR PICKING THE RIGHT TASK</h3>
+<p>This course, in this lesson - MODULE: CRITERIA FOR PICKING THE RIGHT TASK</p>
 
 <p>Criteria for Picking the Right Task</p>
 
@@ -663,10 +662,7 @@ last_updated: 2026-07-02
   <li>An honest look at when AI saves time - and when it does not</li>
 </ul>
 
-<h3>• One piece of real AI output from your own field, produced during the anchor activity</h3>
-
-
-<h3>Part 1 - The 4-Question Task Filter</h3>
+<h3>• One piece of real AI output from your own field, produced during the anchor activity - Part 1 - The 4-Question Task Filter</h3>
 
 <p>Before you open any AI tool, run the task through these four questions. The more 'yes' answers,</p>
 
@@ -1100,10 +1096,7 @@ last_updated: 2026-07-02
 </div>
 
 
-<h3>Your Goal for This Activity</h3>
-
-
-<h3>By the end of this activity you will have:</h3>
+<h3>Your Goal for This Activity - By the end of this activity you will have:</h3>
 
 <ul>
   <li>Identified 3 real tasks from your own field</li>
@@ -1276,8 +1269,7 @@ last_updated: 2026-07-02
 
 <p>relevant to your own field using Canva AI or Gemini.</p>
 
-
-<h3>This course, in this lesson - MODULE: IMAGE AI IN THE WORKPLACE</h3>
+<p>This course, in this lesson - MODULE: IMAGE AI IN THE WORKPLACE</p>
 
 <p>Image AI in the Workplace</p>
 
@@ -1651,10 +1643,7 @@ last_updated: 2026-07-02
 
 <p class="standout-question">made?</p>
 
-<h3>Activity - Generate for Your Field</h3>
-
-
-<h3>Your Goal for This Activity</h3>
+<h3>Activity - Generate for Your Field - Your Goal for This Activity</h3>
 
 <p>You are going to generate one image directly relevant to your own field - and you are</p>
 
@@ -1801,8 +1790,7 @@ last_updated: 2026-07-02
 
 <p>______________</p>
 
-
-<h3>This course, in this lesson - ADVANCED PROMPTING LAB: RTCF + LAYERING</h3>
+<p>This course, in this lesson - ADVANCED PROMPTING LAB: RTCF + LAYERING</p>
 
 <p>Advanced Prompting Lab: RTCF +</p>
 
@@ -2194,8 +2182,7 @@ last_updated: 2026-07-02
 
 <p>______________</p>
 
-
-<h3>This course, in this lesson - CLOSE</h3>
+<p>This course, in this lesson -</p>
 
 <p>in this lesson Close</p>
 
@@ -2260,7 +2247,7 @@ last_updated: 2026-07-02
 
 <p>Framework. It is a living record of how AI fits into your specific job, your field, and your</p>
 
-<p>workflow. You add to it each week. By A later module, it becomes the foundation of your final</p>
+<p>workflow. You add to it each week. By a later lesson, it becomes the foundation of your final</p>
 
 <p>presentation.</p>
 

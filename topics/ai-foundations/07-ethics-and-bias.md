@@ -8,15 +8,15 @@ last_updated: 2026-07-02
 
 <h2>Part 1: AI Bias & Accountability Gap</h2>
 
-<p>A later module, in this lesson - Complete Student Guide</p>
+<p>a later lesson, in this lesson - Complete Student Guide</p>
 
 <p class="standout-question">Who Is Responsible When AI Gets It Wrong?</p>
-<p>--- A later module, in this lesson  -  WARM-UP ---</p>
+<p>a later lesson, in this lesson  -</p>
 
 <p class="standout-question">What Worries You About AI?</p>
 <p>Surfacing real concerns before we talk about real solutions</p>
 
-<p>Welcome to A later module. This week we are going to talk about something that most AI courses skip entirely: what happens when AI goes wrong, who is responsible, and what you can do about it.</p>
+<p>Welcome to a later lesson. This week we are going to talk about something that most AI courses skip entirely: what happens when AI goes wrong, who is responsible, and what you can do about it.</p>
 
 <p>Before I teach you anything today, I want to hear from you first. Between our last session and now, I asked you to find one real example of an AI risk or worry. It could be something you read, something someone told you, or something you experienced yourself. Whatever came to mind -- that is what we are starting with today.</p>
 
@@ -66,12 +66,10 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-07-part1-img1.png" | relative_url }})
 
-<p>--- Lesson 1: Bots vs. Agents -- Who Is Responsible? ---</p>
-
 <p class="standout-question">Who Is Responsible?</p>
 <p class="standout-question">When AI makes a decision that affects your life -- who do you hold accountable?</p>
 
-| Time:  30 min | Format:  Reading + discussion | Week:  A later module, in this lesson |
+| Time:  30 min | Format:  Reading + discussion | Week:  a later lesson, in this lesson |
 | --- | --- | --- |
 
 <p>You already know the difference between a scoped AI tool and an autonomous agent. We covered that in this course. Today we are not going to review the technology. We are going to ask a harder question: when AI makes a mistake that hurts someone -- who is responsible for that?</p>
@@ -178,9 +176,6 @@ last_updated: 2026-07-02
   <li>After others shares, we will name what this difficulty is called: the accountability gap.</li>
 </ol>
 
-<h4>--- Lesson 3: Real Cases -- When AI Caused Real Harm ---</h4>
-
-
 <h4>Real Cases: When AI Caused Real Harm</h4>
 
 <p>These are not made-up examples. These are real events, real lawsuits, and real people.</p>
@@ -213,10 +208,7 @@ last_updated: 2026-07-02
 <p>AI must never make the final decision about someone's health, especially when a qualified human professional has already reviewed the case. An algorithm does not know your patient. A doctor does.</p>
 
 
-<h4>Case Study 2 -- Real Estate and Business</h4>
-
-
-<h4>RealPage Antitrust Case -- AI That Coordinated Illegal Rent Increases</h4>
+<h4>Case Study 2 -- Real Estate and Business - RealPage Antitrust Case -- AI That Coordinated Illegal Rent Increases</h4>
 
 <p>-- Competing landlords across multiple cities used a shared AI platform called RealPage to set rental prices.</p>
 
@@ -234,10 +226,7 @@ last_updated: 2026-07-02
 <p>AI can be used to break the law -- even when no single person intended to break it. 'The algorithm did it' is not a legal defense. If the outcome would be illegal if humans agreed to it, it is still illegal when AI coordinates it.</p>
 
 
-<h4>Case Study 3 -- Education</h4>
-
-
-<h4>AI Detection Tools -- Wrongly Accusing Students of Cheating</h4>
+<h4>Case Study 3 -- Education - AI Detection Tools -- Wrongly Accusing Students of Cheating</h4>
 
 <p>-- Schools began using AI tools to detect whether students had used AI to write their assignments.</p>
 
@@ -255,10 +244,7 @@ last_updated: 2026-07-02
 <p>AI tools that judge people are only as fair as the data they were trained on. If the training data does not reflect the full range of human diversity including different writing styles, languages, and ways of thinking the tool will produce unfair results. Fairness has to be designed in. It does not happen automatically.</p>
 
 
-<h4>Case Study 4 -- Creative Trades, Small Business, and Entrepreneurship</h4>
-
-
-<h4>Copyright Scraping -- AI Trained on Your Work Without Permission</h4>
+<h4>Case Study 4 -- Creative Trades, Small Business, and Entrepreneurship - Copyright Scraping -- AI Trained on Your Work Without Permission</h4>
 
 <p>-- AI image and text models were trained on millions of photos, product descriptions, and creative works pulled from the internet.</p>
 
@@ -276,10 +262,7 @@ last_updated: 2026-07-02
 <p>If AI learned from your work without your knowledge or permission, you have a legitimate ethical and legal concern. This is not a fringe issue it is one of the most active legal debates in the AI industry right now.</p>
 
 
-<h4>Case Study 5 -- All Fields -- Medical Scribe Hallucinations</h4>
-
-
-<h4>AI Scribes That Invent Medical History</h4>
+<h4>Case Study 5 -- All Fields -- Medical Scribe Hallucinations - AI Scribes That Invent Medical History</h4>
 
 <p>-- AI transcription tools called AI scribes are now widely used in clinics and hospitals to record patient conversations.</p>
 
@@ -295,9 +278,6 @@ last_updated: 2026-07-02
 <h4>The Lesson</h4>
 
 <p>Any AI output that affects a real person's record, finances, or health must be reviewed by a human before it is saved or acted on. This applies to every field in this room -- not just healthcare. If AI is writing something that goes into a record, a report, or a recommendation, a human needs to read it before it becomes official.</p>
-
-
-<h4>Connecting the Cases</h4>
 
 
 <h3>Before the activity, notice what all five cases have in common:</h3>
@@ -332,9 +312,6 @@ last_updated: 2026-07-02
 <h4>Why This Skill Matters</h4>
 
 <p>AI will be used to spread misinformation as easily as it is used for good. The habit of checking claims before believing them -- including claims made in a learning space -- is one of the most valuable skills you can build right now. If you can verify a source, you can verify anything.</p>
-
-
-<h4>--- Lesson 5: Bias, Fairness & The Hidden Rules in AI ---</h4>
 
 
 <h4>Bias, Fairness, and the Hidden Rules in AI</h4>
@@ -446,9 +423,6 @@ last_updated: 2026-07-02
   <li>Final discussion question: does a better prompt fully remove the bias -- or does it just make the bias less visible? What does that mean for using AI in hiring, evaluation, or recommendations at work?</li>
 </ol>
 
-<h4>--- Lesson 7: Algorithmic Cruelty & Artificial Intimacy ---</h4>
-
-
 <h4>Algorithmic Cruelty and Artificial Intimacy</h4>
 
 <p>When AI pretends to care -- and why that matters at work</p>
@@ -547,7 +521,7 @@ last_updated: 2026-07-02
   <li>Share with others. I will write every response below.</li>
   <li>After everyone has shared, we will look at the board together and notice: what do all these lines have in common? What principle is underneath them?</li>
 </ol>
-<p>--- A later module, in this lesson  -  CLOSE ---</p>
+<p>a later lesson, in this lesson  -</p>
 
 <p>Pulling it together before we go</p>
 
@@ -583,17 +557,14 @@ last_updated: 2026-07-02
 <h2>Part 2: Human Dignity & Magnifica Humanitas Framework</h2>
 
 
-<h4>Human Dignity, the Environment,</h4>
-
-
-<h4>and Your Ethical AI Plan</h4>
+<h4>Human Dignity, the Environment, - and Your Ethical AI Plan</h4>
 
 <p>Thursday  |   --</p>
 
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-07-part2-img1.png" | relative_url }})
 
-<p>--- A later module, in this lesson  -  WARM-UP ---</p>
+<p>a later lesson, in this lesson  -</p>
 
 
 <h4>One Thing That Stuck</h4>
@@ -635,8 +606,6 @@ last_updated: 2026-07-02
 
 <p>Yesterday we asked: who is responsible when AI gets it wrong? Today we ask a bigger question: what does it mean to build and use AI in a way that respects the dignity of every person it touches? We will also look at two things that most AI courses never mention -- the environmental cost of AI and what happens to knowledge when AI starts learning from itself.</p>
 <p>Then you will apply all of this to your own prospective AI workflow, building the ethics layer of your AI Workplace Framework.</p>
-
-<p>--- MODULE 5: Human Dignity, The Right to an Explanation & Magnifica Humanitas ---</p>
 
 
 <h4>Human Dignity and the Right to an Explanation</h4>
@@ -680,10 +649,7 @@ last_updated: 2026-07-02
 <p>You do not need to agree with everything in it. You do not need to share any particular faith. What you do need to do is engage with the ideas seriously because they are grounded in real ethical principles that show up in law, policy, and workplace practice.</p>
 
 
-<h4>Magnifica Humanitas at a Glance</h4>
-
-
-<h4>-- Published: May 15, 2026, by Pope Leo XIV</h4>
+<h4>Magnifica Humanitas at a Glance - -- Published: May 15, 2026, by Pope Leo XIV</h4>
 
 <p>-- Full title: Magnifica Humanitas -- On Safeguarding the Human Person in the Time of Artificial Intelligence</p>
 
@@ -760,9 +726,6 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
   <li>Three or four pairs share with others. As each story is shared, we will connect it to the concept of dignity from Magnifica Humanitas.</li>
   <li>Closing question for others: what would it actually look like for an AI tool in your workplace to respect the dignity of every person it touches? Name one specific design choice that would make a difference.</li>
 </ol>
-
-<h4>--- MODULE 6: The Hidden Costs -- Environment & The Knowledge Problem ---</h4>
-
 
 <h4>The Hidden Costs: Environment and the Knowledge Problem</h4>
 
@@ -863,12 +826,9 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 <p>_____________________________________________________________________________________</p>
 
 
-<h4>--- CAPSTONE DRAFT 2: Ethics Layer ---</h4>
+<h4>CAPSTONE DRAFT 2: Ethics Layer - Your Proposed Workflow Part 2 -- Ethics Layer</h4>
 
-
-<h4>Your Proposed Workflow Part 2 -- Ethics Layer</h4>
-
-<p>Applying everything from A later module to your own AI opportunity</p>
+<p>Applying everything from a later lesson to your own AI opportunity</p>
 
 <p>This is the most important work of the week. Everything in this lesson and in this lesson -- the case studies, the bias discussion, the concept of human dignity, the Magnifica Humanitas framework -- has been building toward the questions you are going to answer right now.</p>
 
@@ -879,9 +839,9 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>This course: You found the opportunity. You identified a task in your field that AI could realistically help with.</p>
 
-<p>A later module: You examine whether it is safe and ethical to pursue. Identify if there are any aspects that might cause harm to others or yourself long term.</p>
+<p>a later lesson: You examine whether it is safe and ethical to pursue. Identify if there are any aspects that might cause harm to others or yourself long term.</p>
 
-<p>A later module: You present the full picture, the opportunity, the risks, and your plan for navigating both.</p>
+<p>a later lesson: You present the full picture, the opportunity, the risks, and your plan for navigating both.</p>
 
 
 <h4>Section 4 -- The Ethics Layer</h4>
@@ -968,16 +928,13 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 <p>Collecting what we built -- and setting up the final week</p>
 
 
-| Time:  30 min | Format:  Submit + reflect + preview | Week:  A later module, in this lesson |
+| Time:  30 min | Format:  Submit + reflect + preview | Week:  a later lesson, in this lesson |
 | --- | --- | --- |
 
-<p>We are at the end of A later module. This is worth pausing on for a moment. Two weeks ago you were learning what AI is. This week you examined who is responsible when it causes harm, what fairness and dignity require, what it costs the environment, and whether your own AI task holds up under ethical scrutiny. That is not a small thing.</p>
+<p>We are at the end of a later lesson. This is worth pausing on for a moment. Two weeks ago you were learning what AI is. This week you examined who is responsible when it causes harm, what fairness and dignity require, what it costs the environment, and whether your own AI task holds up under ethical scrutiny. That is not a small thing.</p>
 
 
-<h4>Step 1 -- Submit Part 2 of Your Discussion Project</h4>
-
-
-<h4>How to Submit</h4>
+<h4>Step 1 -- Submit Part 2 of Your Discussion Project - How to Submit</h4>
 
 <p>-- Canvas: Share part two of your discussion in the discussion prompt that will be available on Friday June 5th. Instructions will be posted on the discussion but will mirror the in this guide activity we completed today.</p>
 
@@ -993,15 +950,15 @@ AI and weapons | AI must never be given the authority to decide to use lethal fo
 
 <p>_____________________________________________________________________________________</p>
 
-<p>A later module is about the future. After everything you have learned -- the tools, the opportunities, the ethics, the risks -- the final week is about putting it all together and presenting your thinking.</p>
+<p>a later lesson is about the future. After everything you have learned -- the tools, the opportunities, the ethics, the risks -- the final week is about putting it all together and presenting your thinking.</p>
 
 
-| A later module Topic | What It Means for You |
+| a later lesson Topic | What It Means for You |
 | --- | --- |
 | The Future of Work and AI Adoption Challenges | A realistic look at how workplaces are actually adapting to AI -- the barriers, the speed bumps, and the opportunities that are still open. |
 | -- The Full Picture | Bringing together all eight course outcomes into one coherent view of what it means to be an AI-informed professional. |
 | Capstone Finalization | You take your workflow document -- the opportunity you identified, the ethics layer you built this week -- and prepare to discuss it. |
-| Presentation Day | in this lesson of A later module is presentation day. Each student walks through their AI Workplace Framework in 2 to . It does not need to be polished. It needs to be honest and informed. |
+| Presentation Day | in this lesson of a later lesson is presentation day. Each student walks through their AI Workplace Framework in 2 to . It does not need to be polished. It needs to be honest and informed. |
 
 
 <h4>Presentation Prep -- Start Thinking Now</h4>

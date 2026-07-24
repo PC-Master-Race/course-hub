@@ -15,6 +15,8 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img2.png" | relative_url }})
 
+<p>This course, in this lesson -</p>
+
 <p>Debrief</p>
 
 <p>Share What You Found · Sharpen Your Category Eye · Frame the Day</p>
@@ -243,8 +245,7 @@ last_updated: 2026-07-02
 <ul>
   <li>Let's get into it -</li>
 </ul>
-
-<h3>THE 5 CATEGORIES OF AI AT WORK</h3>
+<p>THE 5 CATEGORIES OF AI AT WORK</p>
 
 <p>The 5 Categories of AI at Work</p>
 
@@ -514,7 +515,7 @@ last_updated: 2026-07-02
 
 <p>-- AI agents are the next frontier -- tools that can handle multi-step tasks on your behalf.</p>
 
-<p>-- A later module will go deeper into agents and the important ethical questions they raise.</p>
+<p>-- a later lesson will go deeper into agents and the important ethical questions they raise.</p>
 
 <p>-- For now: if a tool asks for a goal and handles the steps itself, you are working with an agent.</p>
 
@@ -913,10 +914,7 @@ last_updated: 2026-07-02
 
 <p>that okay?" If they say yes, proceed. If they say no, take notes the old -fashioned way.</p>
 
-</div>
-
-
-<h3>IMAGE AI: HANDS-ON LAB</h3>
+<p>IMAGE AI: HANDS-ON LAB</p>
 
 <p>Image AI: Hands-On Lab</p>
 
@@ -1015,6 +1013,8 @@ last_updated: 2026-07-02
 <p>into the chat -- Gemini</p>
 
 <p>generates images inline</p>
+
+</div>
 
 
 <h3>Activity -- Generate for Your Field</h3>
@@ -1277,8 +1277,7 @@ last_updated: 2026-07-02
 
 <p>looks good. A mediocre image with a sharp, honest reflection earns full credit every time.</p>
 
-
-<h3>End of Image AI: Hands-On Lab</h3>
+<p>End of Image AI: Hands-On Lab</p>
 
 <p>Two ways AI tools work -- and why the difference matters in your job</p>
 
@@ -1809,7 +1808,7 @@ last_updated: 2026-07-02
 
 <p>goes out to real people.</p>
 
-<p>Coming in a later module: Big Questions About Agents</p>
+<p>Coming in a later lesson: Big Questions About Agents</p>
 
 <p class="standout-question">-- If an agent makes a decision that hurts someone -- who is responsible? You? Your company?</p>
 <p class="standout-question">The people who built the tool?</p>
@@ -1937,8 +1936,6 @@ last_updated: 2026-07-02
 <p>-- If you could not easily classify something, that is useful information. It means you should ask</p>
 
 <p>more questions before you trust that tool with something important.</p>
-
-<p>Module Wrap-Up: What You Should Be Able to Do Now</p>
 
 <ul>
   <li>Explain why saying 'chatbots just follow rules' is no longer accurate -- and what the better</li>
@@ -2273,9 +2270,9 @@ last_updated: 2026-07-02
 
 <p>-- End of ATS Resume Lab -- Optional At-Home Extension --</p>
 
-<p>This course, in this lesson  |  CLOSE</p>
+<p>This course, in this lesson  |</p>
 
-<p>This course Close & A later module Preview</p>
+<p>This course Close & a later lesson Preview</p>
 
 <p>Collect -- Synthesize -- Set Up What Comes Next</p>
 
@@ -2328,7 +2325,7 @@ last_updated: 2026-07-02
 
 <p>If you have not submitted yet, do it now before you pack up. I will return written feedback before</p>
 
-<p>A later module in this lesson so you have something concrete to build on.</p>
+<p>a later lesson in this lesson so you have something concrete to build on.</p>
 
 <p>How to Submit -- Three Options</p>
 
@@ -2351,7 +2348,7 @@ last_updated: 2026-07-02
 
 <p>pass the filter, whether the reasoning is clear, and one suggestion for strengthening your</p>
 
-<p>best prompt before A later module.</p>
+<p>best prompt before a later lesson.</p>
 
 <p>Complete this before you leave. I will ask a few people to share out loud.</p>
 
@@ -2381,9 +2378,9 @@ last_updated: 2026-07-02
 
 <p>ones who are actually paying attention.</p>
 
-<p>Between-Session Challenge -- Before A later module</p>
+<p>Between-Session Challenge -- Before a later lesson</p>
 
-<p>A later module is all about what can go wrong with AI at work -- risks, ethics, and the hard questions. I</p>
+<p>a later lesson is all about what can go wrong with AI at work -- risks, ethics, and the hard questions. I</p>
 
 <p>want you to walk in already thinking about it.</p>
 
@@ -2395,7 +2392,7 @@ last_updated: 2026-07-02
 
 <p>coworker or family member said, or just a feeling you have not been able to shake. There is</p>
 
-<p>no wrong answer here. A later module is built around the real concerns people in your fields have.</p>
+<p>no wrong answer here. a later lesson is built around the real concerns people in your fields have.</p>
 
 <ul>
   <li>Something you are worried AI might replace or change in your field</li>
@@ -2405,7 +2402,7 @@ last_updated: 2026-07-02
 </ul>
 <p>You do not have to research it. Just bring the worry. We will work through it together in</p>
 
-<p>A later module.</p>
+<p>a later lesson.</p>
 
 <p>Write It Here So You Do Not Forget</p>
 
@@ -2423,11 +2420,11 @@ last_updated: 2026-07-02
 
 <p>______________</p>
 
-<p>A later module Preview -- Risks & Ethics</p>
+<p>a later lesson Preview -- Risks & Ethics</p>
 
-<p>Here is exactly what A later module covers so you know what you are walking into.</p>
+<p>Here is exactly what A later lesson covers so you know what you are walking into.</p>
 
-<p>A later module Topic What We Cover Why It Matters for Your Field</p>
+<p>a later lesson Topic What We Cover Why It Matters for Your Field</p>
 
 <p>Data Privacy &</p>
 
@@ -2493,16 +2490,16 @@ last_updated: 2026-07-02
 
 <p>careless ones</p>
 
-<p>Capstone Connection -- What Gets Added in a later module</p>
+<p>Capstone Connection -- What Gets Added in a later lesson</p>
 
-<p>in a later module you will add a risk layer to your AI Workplace Framework. For each of your Top 3</p>
+<p>in a later lesson you will add a risk layer to your AI Workplace Framework. For each of your Top 3</p>
 
 <p>AI-Ready Tasks, you will answer one question:</p>
 
 <p class="standout-question">"What could go wrong with AI on this task -- and how would I catch it or handle it?"</p>
 <p>That is Draft 2. It turns your framework from a capability list into a responsible plan. Come to</p>
 
-<p>A later module with your concern ready -- that is your starting point.</p>
+<p>a later lesson with your concern ready -- that is your starting point.</p>
 
 <p>Office Hours in this session --  to , This Room</p>
 
@@ -2517,7 +2514,7 @@ last_updated: 2026-07-02
 <p>together</p>
 
 <ul>
-  <li>Anything about A later module content you want to think through in advance</li>
+  <li>Anything about a later lesson content you want to think through in advance</li>
   <li>Concerns about the course, the pacing, or anything you need me to know</li>
 </ul>
 <p>No appointment needed. First come, first served. I am gone at .</p>
@@ -2532,6 +2529,6 @@ last_updated: 2026-07-02
 
 <p>anymore -- you have a filter, a framework, and real output you produced yourself.</p>
 
-<p>A later module is where it gets harder -- and more interesting. Bring your worry. See you then.</p>
+<p>a later lesson is where it gets harder -- and more interesting. Bring your worry. See you then.</p>
 
 <p>-- End of This course, in this lesson --</p>

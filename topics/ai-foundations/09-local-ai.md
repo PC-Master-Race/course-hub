@@ -5,7 +5,7 @@ topic: "ai-foundations"
 last_updated: 2026-07-02
 ---
 
-<p>A later module -- in this lesson</p>
+<p>a later lesson -- in this lesson</p>
 
 
 <h4>Hands On, Speak Up, and Move Forward</h4>
@@ -212,7 +212,7 @@ last_updated: 2026-07-02
 
 <ol>
   <li>Get into groups of 3 to 4 people.</li>
-  <li>Each group takes  to share their AI workflow plan with their group. Cover three things: what task you chose, what tool you are using (or planning to use), and one thing you learned from the ethics questions in your A later module discussion post.</li>
+  <li>Each group takes  to share their AI workflow plan with their group. Cover three things: what task you chose, what tool you are using (or planning to use), and one thing you learned from the ethics questions in your a later lesson discussion post.</li>
   <li>After each person shares, the group has  to ask a question or make a comment. Keep it supportive -- this is a learning environment.</li>
   <li>As a group, decide which plan you want to share with the full class. The person whose plan you choose will be the one to speak -- or the group can choose a spokesperson to summarize all of the group's ideas together.</li>
   <li>Prepare a 2 to 3 minute summary of what you discussed. You do not need notes or slides -- just a few sentences about what you talked about and what stood out.</li>
@@ -244,10 +244,7 @@ last_updated: 2026-07-02
 <p>You do not need to memorize these. Just have a natural conversation with others about what you talked about. Two to three minutes is plenty.</p>
 
 
-<h4>Course Send-Off</h4>
-
-
-<h4>Where You Go From Here</h4>
+<h4>Course Send-Off - Where You Go From Here</h4>
 
 <p>Three weeks ago you walked into this course knowing that AI existed. You are walking out knowing what it actually does, how to use it, where it falls short, when to be careful, and how it fits into your specific field. That is not a small thing. I can say with confidence that you now know more than 75 percent of people out there and you will only continue to learn more.</p>
 
@@ -257,8 +254,8 @@ last_updated: 2026-07-02
 
 | this course and 2 | You built your foundation. You learned what AI actually is, how language models work, how to write prompts that get useful results, and how to identify tasks in your own career that AI can realistically help with. You built an Opportunity Chart for your own workflow. |
 | --- | --- |
-| A later module | You built your ethics layer. You learned about accountability gaps, algorithmic bias, the right to explanation, and the real-world consequences when AI goes wrong. You applied that thinking directly to your own plan and made a public commitment to use AI intentionally and safely. |
-| A later module | You saw the full picture. You mapped AI tools across fourteen different vocations, learned the difference between local and hosted AI, and put your hands on the tools. You heard your peers' plans and shared your own. |
+| a later lesson | You built your ethics layer. You learned about accountability gaps, algorithmic bias, the right to explanation, and the real-world consequences when AI goes wrong. You applied that thinking directly to your own plan and made a public commitment to use AI intentionally and safely. |
+| a later lesson | You saw the full picture. You mapped AI tools across fourteen different vocations, learned the difference between local and hosted AI, and put your hands on the tools. You heard your peers' plans and shared your own. |
 
 <p>Five Things to Do After this course</p>
 

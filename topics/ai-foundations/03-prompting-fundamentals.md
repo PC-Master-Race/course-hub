@@ -16,10 +16,7 @@ youtube_id: "dH8gX3Zg85U"
 <p>Prompt engineering - the skill of crafting effective instructions for AI models - is the single most practical thing you will learn in this course. You do not need to write code. You do not need to understand how neural networks work. You need to learn how to communicate clearly and strategically with an AI system - and that is something every professional can do.</p>
 
 
-<h3>This module gives you the framework. The activity that follows gives you the reps.</h3>
-
-
-<h3>Part 1: Why Prompting Matters - Same Tool, Different World</h3>
+<h3>This module gives you the framework. The activity that follows gives you the reps. - Part 1: Why Prompting Matters - Same Tool, Different World</h3>
 
 <p>Before we get to the framework, let's make the problem concrete. Look at these two prompts and what they produce:</p>
 
@@ -222,9 +219,6 @@ youtube_id: "dH8gX3Zg85U"
   <li>Could you use any of these improved prompts in your actual job this week?</li>
   <li>What was surprising or unexpected about how the AI responded?</li>
 </ul>
-
-<h4>Module Wrap-Up: What You Can Now Do</h4>
-
 <p>After completing this lesson and the Prompt Makeover Lab, you should be able to:</p>
 
 <ul>

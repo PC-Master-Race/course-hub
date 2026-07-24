@@ -73,24 +73,12 @@ youtube_id: "JUp8B2r7zD8"
 
 <p>Quick check: Look at your filled-in RTCF row from Lesson 3. Does it hit all four components? If not, revise it now. You will use this skill again in Module 5 - today we layer advanced techniques on top of this foundation.</p>
 
-
-<h4>Coming Up Next: Module 5 - Advanced Prompting Techniques ()</h4>
-
 <p>You have recalled the foundation. Now we build on it. Module 5 introduces four professional-grade prompting techniques that go beyond RTCF - few-shot prompting, chain-of-thought, persona and constraint prompting, and iterative refinement. You will use all of them in the Prompt Tournament activity.</p>
 
 <p>Your only task right now: get your notes from in this lesson in front of you and think of one workplace task you have not yet tried in AI. You will use it in today's activity.</p>
 
 
-<h4>--- MODULE 5: Advanced Prompting Techniques ---</h4>
-
-
-<h4>Advanced Prompting Techniques</h4>
-
-
-<h4>From Framework to Fluency - Techniques That Unlock Professional-Grade Output</h4>
-
-
-<h4>From RTCF to Fluency</h4>
+<h4>Advanced Prompting Techniques - From Framework to Fluency - Techniques That Unlock Professional-Grade Output</h4>
 
 <p>In Lesson 3 you learned a structured framework for writing prompts. RTCF gives you a reliable starting point - and for many everyday tasks, it is all you need. But the most effective AI users do not stop at the framework. They layer additional techniques on top of it to get outputs that are more accurate, more tailored, and more immediately useful.</p>
 
@@ -321,9 +309,6 @@ youtube_id: "JUp8B2r7zD8"
   <li>What would you add to Round 3 to make it even better? What constraint or persona detail was missing?</li>
 </ul>
 
-<h4>Module Wrap-Up: What You Can Now Do</h4>
-
-
 <h3>After completing this lesson and the Prompt Tournament activity, you should be able to:</h3>
 
 <ul>
@@ -333,19 +318,8 @@ youtube_id: "JUp8B2r7zD8"
   <li>Practice iterative refinement by treating the AI conversation as a draft cycle, not a single transaction - improving each output with a targeted follow-up prompt.</li>
   <li>Identify situations where AI is the wrong tool - real-time data, physical judgment, legal accountability, sensitive confidential information, and high-stakes human conversations.</li>
 </ul>
-<p>You have moved from framework user to technique practitioner. Coming up next: Module 6 introduces Image AI - a completely different modality with its own prompting logic and workplace applications. The same critical-thinking habits you are building here apply directly.</p>
 
-
-<h4>--- MODULE 6: Image AI: A Practical Intro ---</h4>
-
-
-<h4>Image AI: A Practical Intro</h4>
-
-
-<h4>Expanding the Toolkit Beyond Text - What Image AI Can Do at Work</h4>
-
-
-<h4>Beyond Text: A New Modality in Your Toolkit</h4>
+<h4>Image AI: A Practical Intro - Expanding the Toolkit Beyond Text - What Image AI Can Do at Work - Beyond Text: A New Modality in Your Toolkit</h4>
 
 <p>Everything you have learned so far - RTCF, chain-of-thought, persona and constraint, iterative refinement - applies to text. Text is where most workplace AI value lives right now. But there is a second modality worth understanding, because it is already showing up in your field: image generation.</p>
 
@@ -451,10 +425,7 @@ youtube_id: "JUp8B2r7zD8"
 <p>Vague image prompts produce generic, often unusable results. Specific image prompts produce outputs that are much closer to what you actually need. Here is the structure to use:</p>
 
 
-<h4>The Five-Part Image Prompt Formula</h4>
-
-
-<h4>[Subject + Setting + Style + Mood/Tone + Format/Specs]</h4>
+<h4>The Five-Part Image Prompt Formula - [Subject + Setting + Style + Mood/Tone + Format/Specs]</h4>
 
 <p>Subject: Who or what is in the image. Be specific - not 'a worker' but 'a female warehouse supervisor in her 40s wearing a hard hat and safety vest, reviewing a clipboard'</p>
 
@@ -561,9 +532,6 @@ youtube_id: "JUp8B2r7zD8"
   <li>How does generating an image with AI compare to searching for stock photos or asking a colleague with design skills?</li>
 </ul>
 
-<h4>Module Wrap-Up: What You Can Now Do</h4>
-
-
 <h3>After completing this lesson and the Generate for Your Field activity, you should be able to:</h3>
 
 <ul>
@@ -577,7 +545,7 @@ youtube_id: "JUp8B2r7zD8"
 <p>Coming up after the break: the Anchor Activity - the centerpiece of This course. You will put everything from both days together in a structured, field-specific AI audit of your own work. Bring your in this lesson notes.</p>
 
 
-<h4>BONUS SKILL PREVIEW</h4>
+<h4>BONUS SKILL</h4>
 
 <p>Audio AI & Chain-of-Thought Reasoning  |  This course, in this lesson  |</p>
 
@@ -618,10 +586,7 @@ youtube_id: "JUp8B2r7zD8"
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img11.png" | relative_url }})
 
 
-<h4>Live Demonstration: Otter.ai Transcription</h4>
-
-
-<h4>Instructor Demo</h4>
+<h4>Live Demonstration: Otter.ai Transcription - Instructor Demo</h4>
 
 <p>Speak aloud for 60-90 seconds on a workplace scenario relevant to your students' fields (e.g., a mock client consultation, a brief site safety briefing, a customer service interaction). Let Otter.ai transcribe it live on the projected screen.</p>
 
@@ -661,10 +626,7 @@ youtube_id: "JUp8B2r7zD8"
   <li>Chain-of-Thought response: You ask a question → AI works through the problem step by step, showing intermediate reasoning → then gives a final answer.</li>
 </ul>
 
-<h4>How to Trigger Chain-of-Thought Reasoning</h4>
-
-
-<h4>Prompting Strategies That Activate CoT</h4>
+<h4>How to Trigger Chain-of-Thought Reasoning - Prompting Strategies That Activate CoT</h4>
 
 <p>Add 'think step by step' to any prompt: "Analyze this client complaint and think step by step about the most likely causes and appropriate responses."</p>
 
@@ -692,10 +654,7 @@ youtube_id: "JUp8B2r7zD8"
   <li>Name one decision or problem in your field where step-by-step AI reasoning could be useful:</li>
 </ol>
 
-<h4>Want to Go Deeper? Further Reading & Resources</h4>
-
-
-<h4>Credible Sources for Continued Learning</h4>
+<h4>Want to Go Deeper? Further Reading & Resources - Credible Sources for Continued Learning</h4>
 
 <p>Audio AI & Meeting Intelligence:</p>
 
@@ -709,10 +668,7 @@ youtube_id: "JUp8B2r7zD8"
   <li>Google DeepMind Blog (deepmind.google) - "Chain of Thought Prompting Elicits Reasoning in Large Language Models" - the foundational research paper made accessible.</li>
 </ul>
 
-<h4>Instructor Notes: Running This Segment</h4>
-
-
-<h4>Pacing and Facilitation</h4>
+<h4>Instructor Notes: Running This Segment - Pacing and Facilitation</h4>
 
 <p>Timing: This is a 20-minute segment -  Audio AI,  CoT. Do not let this expand. Students are likely fatigued at . Keep energy high through live demonstration rather than slides.</p>
 
@@ -725,7 +681,7 @@ youtube_id: "JUp8B2r7zD8"
 
 <h4>- End of Bonus Skill Preview: Audio AI & Chain-of-Thought Reasoning -</h4>
 
-<p>This course CLOSE & This course PREVIEW</p>
+<p>This course  & This course</p>
 
 
 <h3>Part 1: AI Word Association Revisit</h3>

@@ -5,7 +5,7 @@ topic: "ai-foundations"
 last_updated: 2026-07-02
 ---
 
-<p>A later module -- in this lesson</p>
+<p>a later lesson -- in this lesson</p>
 
 <p>Warm-Up</p>
 
@@ -13,7 +13,7 @@ last_updated: 2026-07-02
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img1.png" | relative_url }})
 
-<p>Welcome to A later module. This is the last week of the course and today is all about the future -- specifically your future and how AI is already showing up in the kind of work you do or want to do. Before we get into that, let us take a quick moment to check in.</p>
+<p>Welcome to a later lesson. This is the last week of the course and today is all about the future -- specifically your future and how AI is already showing up in the kind of work you do or want to do. Before we get into that, let us take a quick moment to check in.</p>
 
 
 <h4>Quick Check-In</h4>
