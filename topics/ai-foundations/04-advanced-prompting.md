@@ -7,31 +7,24 @@ youtube_id: "JUp8B2r7zD8"
 ---
 
 
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img1.png" | relative_url }})
-
-
-<div class="lead-in-card">
-  <span class="lead-in-badge">Lesson Section</span>
-
-
-<h3>Part 1: Case Study Reflection</h3>
-
-<p>Recently, you were asked to try one AI tool on a real task and bring back what you found. Now it is time to share. There are no wrong answers here - what matters is what you actually experienced, not what you thought you were supposed to experience.</p>
-
-</div>
-
-
 <div class="practice-card">
-
-
-<h4>Your Independent Practice - Quick Recap</h4>
-
+  <div class="practice-header">
+    <span class="practice-icon">🎯</span>
+    <span class="practice-title">Self-Paced Practice: Audit Your AI Prompting Experience</span>
+  </div>
+  <div class="practice-body">
+    <p>Think of one recent workplace task where you tried an AI assistant (or a task you plan to automate soon). Before we layer on advanced prompting techniques, take 30 seconds to audit your experience:</p>
+    <ul>
+      <li><strong>What was your goal?</strong> (e.g., Drafting a customer email, summarizing notes, creating a report outline)</li>
+      <li><strong>What worked or surprised you?</strong> Did the output hit the mark, or was it too generic?</li>
+      <li><strong>What would you improve?</strong> Did you need to give the AI more role context or specific format rules?</li>
+    </ul>
+    <p>Keep this task in mind as you work through today's techniques—you will use it in the prompt scratchpads below.</p>
+  </div>
 </div>
 
 
-| The task I tried AI on | Tool I used | What worked / what surprised me | What I would do differently |
-| --- | --- | --- | --- |
-|  |  |  |  |
+![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img1.png" | relative_url }})
 
 
 <h3>Part 2: RTCF Rapid Review</h3>

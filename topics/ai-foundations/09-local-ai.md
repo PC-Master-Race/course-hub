@@ -195,12 +195,7 @@ last_updated: 2026-07-02
 <p>Lesson 5</p>
 
 
-<h4>Group Discussion: Your AI Workflow</h4>
-
-<p>You have been working on your AI workflow plan across three weeks of discussion posts. Now it is time to share that plan with a small group and hear from others. This is a conversation, not a formal presentation. No one is being graded on how polished it sounds.</p>
-
-
-<h4>Small Group Discussion</h4>
+<h4>Group Discussion: Your AI Workflow - Small Group Discussion</h4>
 
 
 <h5 class="card-section-label">Purpose</h5>

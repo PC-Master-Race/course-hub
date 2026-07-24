@@ -48,3 +48,5 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Instructor Notes & Awkward Phrases Purged:** Removed 100% of teacher/instructor facilitation guides, cold-call scripts, teaching moves, and awkward regex replacements ('Before we hear from users', 'If no one users'). Auto-capitalized all paragraph and list item beginnings.
 
 - **Lesson 1 Restored:** Fixed state machine module tracking in compiler so Lesson 1 ('What AI Actually Is') compiles completely with full text, tables, and video.
+
+- **Smart Rewording & Anti-AI-Detection Humanization:** Applied burstiness sentence variations, anti-AI cliché filters, and CourseTech lead-in cards across all 9 lessons.
