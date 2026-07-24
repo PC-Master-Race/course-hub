@@ -1636,3 +1636,30 @@ input:focus-visible,
   font-weight: 700;
 }
 
+/* Prompt Tournament Grid Layout */
+.tournament-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .tournament-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.tournament-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.tournament-col label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-text-main);
+  margin-bottom: 0.35rem;
+}
+

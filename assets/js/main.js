@@ -7,7 +7,24 @@ document.addEventListener('DOMContentLoaded', () => {
   setupMobileMenu();
   setupDropdown();
   setupSmoothScrolling();
+  setupInputSanitizer();
 });
+
+/**
+ * Strict Security Sanitizer for Student Typing Fields
+ * Automatically strips HTML tags (<, >) on input to prevent HTML/XSS injection.
+ */
+function setupInputSanitizer() {
+  document.addEventListener('input', (e) => {
+    if (e.target && (e.target.tagName === 'TEXTAREA' || (e.target.tagName === 'INPUT' && e.target.type === 'text'))) {
+      const original = e.target.value;
+      const sanitized = original.replace(/<[^>]*>/g, '').replace(/[<>]/g, '');
+      if (sanitized !== original) {
+        e.target.value = sanitized;
+      }
+    }
+  });
+}
 
 /**
  * Mobile Navigation Hamburger Menu Toggle
