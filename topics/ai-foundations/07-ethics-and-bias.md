@@ -6,6 +6,10 @@ last_updated: 2026-07-02
 ---
 
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h2>Part 1: AI Bias & Accountability Gap</h2>
 
 <p>A later lesson, in this lesson - Complete Student Guide</p>
@@ -19,6 +23,8 @@ last_updated: 2026-07-02
 <p>Welcome to a later lesson. This week we are going to talk about something that most AI courses skip entirely: what happens when AI goes wrong, who is responsible, and what you can do about it.</p>
 
 <p>Before I teach you anything today, I want to hear from you first. Between our last session and now, I asked you to find one real example of an AI risk or worry. It could be something you read, something someone told you, or something you experienced yourself. Whatever came to mind -- that is what we are starting with today.</p>
+
+</div>
 
 
 <h4>Step 1 -- Share Your Worry</h4>

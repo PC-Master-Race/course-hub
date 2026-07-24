@@ -10,9 +10,15 @@ youtube_id: "JUp8B2r7zD8"
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img1.png" | relative_url }})
 
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h3>Part 1: Case Study Reflection</h3>
 
 <p>Recently, you were asked to try one AI tool on a real task and bring back what you found. Now it is time to share. There are no wrong answers here - what matters is what you actually experienced, not what you thought you were supposed to experience.</p>
+
+</div>
 
 
 <div class="practice-card">
@@ -304,9 +310,15 @@ youtube_id: "JUp8B2r7zD8"
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-04-img6.png" | relative_url }})
 
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h3>Part 1: How Image Generation Models Actually Work</h3>
 
 <p>You do not need to understand the mathematics. But knowing the basic mechanism helps you understand why these tools behave the way they do - why they sometimes produce brilliant results and why they sometimes produce a person with six fingers.</p>
+
+</div>
 
 
 <h4>How Diffusion Models Work - Plain English</h4>
@@ -527,9 +539,15 @@ youtube_id: "JUp8B2r7zD8"
 <p>You do not need to master these tools right now. You need to walk away thinking: 'That is something I could actually use.' If any of in this session's demonstrations spark a question or a use case in your field, write it down - your curiosity is exactly the fuel that makes This course powerful.</p>
 
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h3>Part 1: Audio AI - Transcription, Voice, and Meeting Intelligence</h3>
 
 <p>Audio AI is a category of tools that work with spoken language rather than typed text. These tools can transcribe speech to text, summarize spoken conversations, generate realistic synthetic voices, and extract action items from meetings - all automatically.</p>
+
+</div>
 
 
 <h4>What Audio AI Can Do For You</h4>
@@ -629,6 +647,10 @@ youtube_id: "JUp8B2r7zD8"
 <p>This course  & This course</p>
 
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h3>Part 1: AI Word Association Revisit</h3>
 
 <p>At the start of This course, in this lesson, you contributed words which represented your initial associations with AI before any instruction. You have spent the past two days learning what AI actually is, how to prompt it, how to identify opportunities, how to catch its errors, and how to approach it as a critical thinking tool.</p>
@@ -649,6 +671,8 @@ youtube_id: "JUp8B2r7zD8"
 <p>Complete this sentence:</p>
 
 <p>"AI can help someone in my field by _____________________________________________, and I plan to try it by ___________________"</p>
+
+</div>
 
 
 | Name: ___________________________________ | Field / Trade: ___________________________ |

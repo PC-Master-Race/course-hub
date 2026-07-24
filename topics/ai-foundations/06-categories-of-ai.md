@@ -1300,6 +1300,10 @@ last_updated: 2026-07-02
 
 <p class="standout-question">Own, without you telling it every step?</p>
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h3>Part 1: Think of It as a Spectrum, Not an On/Off Switch</h3>
 
 <p>Most people think AI tools are either smart or dumb. That is not quite right. It is better to picture</p>
@@ -1407,6 +1411,8 @@ last_updated: 2026-07-02
 <p>And then figures out the steps on its own. The key question to ask about any AI tool is not 'is</p>
 
 <p>It smart?' It is: 'How much can it do by itself, and what can it reach?'</p>
+
+</div>
 
 
 <h3>Part 2: Scoped AI -- Helpful, But It Stays in Its Lane</h3>

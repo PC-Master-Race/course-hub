@@ -7,6 +7,10 @@ youtube_id: "S08kQNgNGjk"
 ---
 
 
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
+
 <h4>Welcome to the Starting Line</h4>
 
 <p>Before you can use AI effectively at work, you need to know what it actually is - not what movies say it is, not what your coworker heard, and not what the headlines are screaming this week.</p>
@@ -14,10 +18,18 @@ youtube_id: "S08kQNgNGjk"
 
 <p>Let's clear the air.</p>
 
+</div>
+
+
+<div class="lead-in-card">
+  <span class="lead-in-badge">Lesson Section</span>
+
 
 <h3>Part 1: Three Things That Are Not the Same</h3>
 
 <p>One of the most common sources of confusion in the workplace is the blurring of three distinct concepts: software, automation, and artificial intelligence. They are related - but they are not the same thing. Here is how to tell them apart:</p>
+
+</div>
 
 
 |  | What It Does | Who Decides? | Workplace Example |
