@@ -1,316 +1,409 @@
 ---
 layout: lesson
-title: "Professional Fields & Applications"
+title: "AI Applications in Professional Fields"
 topic: "ai-foundations"
 last_updated: 2026-07-02
+youtube_id: "k4j3h2g1f0e"
 ---
 
-<p>A later lesson -- in this lesson</p>
+<p>Human Dignity, the Environment,</p>
 
-<p>Warm-Up</p>
+<p>And Your Ethical AI Plan</p>
 
-<p class="standout-question">How Are Ya Now?</p>
+<p>Thursday  |   --</p>
+
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img1.png" | relative_url }})
 
-<p>Welcome to a later lesson. This is the last week of the course and today is all about the future -- specifically your future and how AI is already showing up in the kind of work you do or want to do. Before we get into that, let us take a quick moment to check in.</p>
+<p>--- WEEK 3, DAY 2  -  WARM-UP ---</p>
+
+<p>One Thing That Stuck</p>
+
+<p>Re-engaging with Day 1 before we go deeper</p>
+
+<p>Before we get into today's material, I want to know what is still on your mind from yesterday. Day 1 covered a lot of heavy content -- real harm, real lawsuits, real ethical failures. I do not expect you to have processed all of it overnight. That is actually the point of starting today this way.</p>
+
+<p>Yesterday was about systems and accountability. Today is about people -- human dignity, the planet, knowledge, and what kind of AI user you choose to be.</p>
+
+<p>Share One Thing</p>
+
+<p>Think about yesterday's session. What is one thing that stayed with you? It could be something that surprised you, bothered you, made you angry, or that you are still not sure you understand. There is no wrong answer here.</p>
+
+<p>Prompts to Help You Think</p>
+
+<p class="standout-question">-- Was there a case study from Lesson 3 that you kept thinking about? Which one and why?</p>
+<p class="standout-question">-- Did something from yesterday connect to something you have personally experienced at work or school?</p>
+<p class="standout-question">-- Is there a concept you want me to explain again -- in a different way?</p>
+<p class="standout-question">-- Did yesterday change how you think about a tool you already use?</p>
+<p>Questions We Did Not Get To</p>
+
+<p>If anything from yesterday felt unfinished, now is the time to bring it up. I will address two or three questions quickly here. Anything that needs more time goes to office hours in this session.</p>
+
+<p>Write Your Question Here</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>Today in One Paragraph</p>
+
+<p>Yesterday we asked: who is responsible when AI gets it wrong? Today we ask a bigger question: what does it mean to build and use AI in a way that respects the dignity of every person it touches? We will also look at two things that most AI courses never mention -- the environmental cost of AI and what happens to knowledge when AI starts learning from itself.</p>
+<p>Then you will apply all of this to your own prospective AI workflow, building the ethics layer of your AI Workplace Framework.</p>
+
+<p>Human Dignity and the Right to an Explanation</p>
+
+<p>The moral foundation behind everything we talked about yesterday -- made real before it is made abstract</p>
+
+<p>Yesterday we looked at what goes wrong. Today we ask: what should go right? What does it actually mean to build and use AI in a way that treats every person as a full human being? That is the question this module is built around.</p>
+
+<p>I want to start with something concrete before I introduce the big ideas. That way the ideas will already make sense when we get to them.</p>
+
+<h3>Part 1 -- What Human Dignity Means in Plain Terms</h3>
+
+<p>Human dignity is not a complicated idea. It means this: every person deserves to be treated as a full human being -- not as a number, not as a data point, not as a risk category, and not as a productivity score.</p>
+
+<p>Think about a time you called a company and felt like you were being treated as a case number instead of a person. Or a time a system made a decision about you and no one explained why. Or a time you felt like the process did not see you at all -- just your record.</p>
+
+<p>That feeling has a name. It is a violation of dignity. And AI systems, when they are designed without care, can cause that feeling at a massive scale, to thousands of people at once, without anyone intending to.</p>
+
+<p>The Core Idea</p>
+
+<p>AI systems that reduce people to numbers cause real harm even when no individual human intended it. The harm does not require bad intentions. It requires only a system that was never designed to see the person behind the data.</p>
+
+<p>IMAGE SUGGESTION</p>
+
+<p>Placement: Below the Core Idea box, above Part 2</p>
+
+<p>What to show: A simple illustration showing two contrasting views of the same person. On the left: the person shown as a full human being with warmth and expression. On the right: the same person shown only as a data profile -- a bar chart, a score, a category label. The contrast communicates what it means to be reduced to a data point. Clean, flat, professional, no text inside.</p>
+
+<p>Image generation prompt: "Clean flat split illustration. Left side shows a full warm human figure with expression and individuality. Right side shows the same figure reduced to a simple data profile -- a bar chart, a score number, a category label replacing the person. Soft professional colors, white background, modern flat design, no text inside the image, thoughtful and dignified tone"</p>
+
+<h3>Part 2 -- Magnifica Humanitas: What It Is and Why It Matters</h3>
+
+<p>On May 15, 2026, Pope Leo XIV published a document called Magnifica Humanitas. In English, that means 'The Magnificent Humanity.' It is a papal encyclical one of the most significant documents a Pope can issue. This one was written specifically about artificial intelligence and the human person.</p>
+
+<p>I want to be very clear before we go further: this document is addressed to all people, regardless of faith or background. It is not a religious argument in the narrow sense. It is a moral argument about what we owe each other as human beings when we build and use technology that affects people's lives.</p>
+
+<p>You do not need to agree with everything in it. You do not need to share any particular faith. What you do need to do is engage with the ideas seriously because they are grounded in real ethical principles that show up in law, policy, and workplace practice.</p>
+
+<p>Magnifica Humanitas at a Glance</p>
+
+<p>-- Published: May 15, 2026, by Pope Leo XIV</p>
+
+<p>-- Full title: Magnifica Humanitas -- On Safeguarding the Human Person in the Time of Artificial Intelligence</p>
+
+<p>-- Official source: vatican.va</p>
+
+<p>-- Audience: All people, regardless of faith, background, or nationality</p>
+
+<p>-- Core argument: AI is a powerful tool, but it must be designed and used in ways that protect the dignity, equality, and accountability that every person deserves</p>
+
+<h3>Part 3 -- Chapter by Chapter: What It Actually Says</h3>
+
+<p>We are referencing specific chapters of Magnifica Humanitas throughout this week. Here is a clear summary of the four chapters most relevant to this course, in plain language, with the key idea of each one:</p>
 
 
-<h4>Quick Check-In</h4>
-
-
-<h5 class="card-section-label">Purpose</h5>
-
-<p>Settle in and get your thinking going before the main content</p>
-
-
-<h5 class="card-section-label">Instructions</h5>
-
-<ol>
-  <li>Think back to the task you identified in your discussion post -- the one you want to use AI for.</li>
-  <li>Write one sentence about where you are with that plan. Have you tried it yet? Are you still deciding? Did something change?</li>
-  <li>If you are comfortable, share with the person next to you.</li>
-</ol>
-<p>Today we are going to look at what AI actually looks like on the job -- not in theory, but the real tools that real employers are already using or starting to use in your field. Some of this will feel familiar. Some of it might surprise you. Either way, by the end of today you will have a clearer picture of what to expect as AI becomes a normal part of your workplace.</p>
-
-<p>-- 20 MIN</p>
-
-<p>Lesson 1</p>
-
-<p class="standout-question">What Is the Future of Work With AI?</p>
-
-| Type:  Reading and Discussion | Time: | Format:  Full group |
+| Chapter | What It Is About | How It Connects to This Course |
 | --- | --- | --- |
+| Chapter 2
+Equal dignity of all human beings | Every person has equal worth -- regardless of where they were born, what language they speak, or what they look like. No system, including AI, can treat people as less worthy based on those factors. | Directly connects to AI bias, predictive redlining, and the Amazon hiring tool we discussed in Lesson 5. |
+| Chapter 3
+Responsibility, transparency, and governance of AI | AI is valuable but must never make decisions about people's lives, employment, health, freedom, without transparent human oversight. A machine that decides your fate without explanation violates your dignity. | Directly connects to the accountability gap and the black box problem from Lesson 1. |
+| Chapter 4
+Dignity of work and breaking new forms of dependency | People must not become emotionally or functionally dependent on systems that cannot genuinely serve their human needs. Designing AI to simulate care it cannot provide is a moral failure. | Directly connects to algorithmic cruelty and AI companion systems from Lesson 7. |
+| Chapter 5
+AI and weapons | AI must never be given the authority to decide to use lethal force without a human making that choice. This is the hardest edge of the accountability question. | Extends the accountability gap to its most serious consequence: life and death decisions made by machines. |
 
-<p>You have probably heard people say things like "AI is going to take our jobs" or "AI will replace workers." The reality is more nuanced than that, and understanding the difference matters for how you plan your career.</p>
+<p>Full citation:</p>
+
+<p>Pope Leo XIV, Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence, Encyclical Letter, Vatican City, May 15, 2026. Available at: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html</p>
+
+<h3>Part 4 -- The Right to an Explanation</h3>
+
+<p>Here is something most people do not know: in many parts of the world, you now have, or are gaining, the legal right to know why an AI system made a decision about you.</p>
 
 
-<h4>Definition: The Future of Work</h4>
+| Where | What the Law Says | Status |
+| --- | --- | --- |
+| European Union | The EU AI Act gives people the right to an explanation when an AI system makes a significant decision about them, a loan denial, a job rejection, a medical determination. | In effect as of 2025. Companies must comply. |
+| United States | No comprehensive federal right to explanation exists yet. Some states have passed limited protections. Congress is actively debating broader legislation. | Ongoing. Rules vary by state and industry. |
+| Your workplace | Many organizations are now writing internal AI policies that include disclosure and explanation requirements, even where no law requires it yet. | Ask your HR department or check your employee handbook. |
 
-<p>A phrase that describes how jobs, skills, and workplaces are changing because of new technology -- including artificial intelligence. It does not mean everything will be automated. It means the nature of work is shifting and people who adapt will have an advantage.</p>
+<p>The question I want you to sit with: should people in the United States have the right to know why an AI system made a decision that affected their life? And if yes, what would that actually look like in your field?</p>
 
+<h3>Part 5 -- The New Luddites: Not Anti-Technology, Pro-Dignity</h3>
 
-<h4>Three Things That Are Actually Happening</h4>
+<p>You may have heard the word 'Luddite' used as an insult, meaning someone who is afraid of technology or refuses to use it. That is not what the word originally meant.</p>
 
-<p>Based on research from organizations like the World Economic Forum, McKinsey, and the U.S. Bureau of Labor Statistics, here is what we are actually seeing right now:</p>
+<p>The original Luddites were skilled craftspeople in early 19th-century England. They were not afraid of machines in general. They objected specifically to machines being used to lower wages, eliminate skilled work, and concentrate power in the hands of factory owners at the expense of workers who had spent years developing expertise.</p>
 
+<p>Today, a growing movement of technologists, workers, and ethicists is asking the same question. Not: should we use AI? But: is this particular use of AI making work more human, or less? Is it expanding what people can do, or is it replacing the dignity of skilled work with cheaper automation?</p>
 
-| AI is augmenting workers, not replacing most of them | For most jobs, AI is becoming a helper tool -- like having a very fast assistant who can draft emails, summarize data, generate images, or answer routine questions. The worker still makes the decisions. The worker still talks to the client. The worker still applies judgment. AI handles the repetitive parts. |
-| --- | --- |
-| New jobs are being created alongside old ones changing | Yes, some tasks are being automated. But new roles are also appearing -- AI prompt specialists, data reviewers, automation coordinators. Many existing jobs are expanding to include AI oversight rather than disappearing entirely. |
-| Workers who use AI well earn more and advance faster | Employers are actively looking for workers who know how to use AI tools. A nurse who can navigate AI-assisted documentation, a salesperson who can use AI to personalize outreach, or a designer who can generate concepts faster using AI -- these workers become more valuable, not less. |
+<p>The Question Worth Asking in Your Field</p>
+
+<p>For each AI tool you encounter in your career, ask: Is this tool being used to help me do better work? Or is it being used to replace my judgment, reduce my wages, or eliminate the expertise that took me years to build? The answer to that question is not always obvious, but asking it is the mark of a thoughtful and informed professional.</p>
 
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img2.png" | relative_url }})
 
+<p class="standout-question">DISCUSSION -- Does AI Treat You as a Person?</p>
+<p>Purpose</p>
 
-<h4>Something to Think About</h4>
+<p>This discussion uses your own experience. You do not need to have an AI example -- any automated system counts. The goal is to connect the concept of dignity to something you have actually felt.</p>
 
-<p>The workers who struggled most during past technology shifts (like the introduction of computers or the internet) were the ones who waited to learn. The workers who did well were the ones who leaned in early -- even when the technology felt new and uncertain. You are already doing that by being in this course.</p>
+<p>Instructions</p>
 
-<p>-- 20 MIN</p>
+<ol>
+  <li>Think of a time you interacted with an automated system, a chatbot, a phone menu, a screening tool, an automated rejection email, and felt like you were not being treated as a full human being.</li>
+  <li>Share that experience with your partner. What specifically made it feel dehumanizing? Was it the lack of explanation? The inability to make an exception? The feeling of being categorized?</li>
+  <li>Three or four pairs share with the class. As each story is shared, we will connect it to the concept of dignity from Magnifica Humanitas.</li>
+  <li>Closing question for the class: what would it actually look like for an AI tool in your workplace to respect the dignity of every person it touches? Name one specific design choice that would make a difference.</li>
+</ol>
 
-<p>Lesson 3</p>
+<p>The Hidden Costs: Environment and the Knowledge Problem</p>
+
+<p>Two things most AI courses never mention, kept brief and grounded</p>
+
+<p>Most conversations about AI focus on what it can do and what can go wrong with the outputs. This module talks about something different: what AI costs the world just by existing and running. These costs are real, they are already measurable, and they are growing.</p>
+
+<p>I am keeping this section short on purpose. You do not need to become an environmental scientist or a data researcher. You need to know enough to ask smart questions when your organization makes decisions about AI adoption.</p>
+
+<h3>Part A -- The Environmental Cost of AI</h3>
+
+<p>When you use ChatGPT or any other AI tool, a server somewhere in the world processes your request. That server generates enormous amounts of heat. Cooling that heat requires two things: electricity and water. A lot of both.</p>
 
 
-<h4>AI in Your Field: Healthcare and Human Services</h4>
-
-
-| Vocations:  CNA Nursing, Pharmacy Tech, Behavioral Specialist | Time: |
+| The Environmental Cost | Why It Matters |
 | --- | --- |
+| Water use: AI data centers require massive amounts of water to cool the servers that run AI models. Some projections estimate hundreds of billions of gallons per year across U.S. data centers by 2028. | This water comes from the same sources local communities rely on for drinking water and agriculture -- often in drought-prone regions of the American Southwest. |
+| Electricity use: Training a single large AI model can consume as much electricity as dozens of homes use in an entire year. Running AI at scale adds significantly to that number. | As AI expands into more industries and more daily tasks, its energy footprint grows. Claims of environmental responsibility from AI-heavy companies deserve close examination. |
+| Carbon emissions: Most U.S. electricity still comes from sources that produce carbon emissions. More electricity used by AI means more emissions -- unless energy sources change. | This connects AI adoption to climate change in a direct and measurable way that is rarely discussed in mainstream AI coverage. |
 
-<p>If you work in healthcare or human services, AI is already in your workplace -- even if you have not noticed it yet. Let us look at what is actually being used, what it does, and what it means for your role.</p>
+<p>Magnifica Humanitas -- Chapter 4: The Universal Destination of Goods</p>
 
+<p>Chapter Four of Magnifica Humanitas discusses what it calls 'the universal destination of goods' -- the principle that the earth's resources belong to all people, not just those who can build the largest data centers. AI's physical infrastructure, the land, water, and energy it consumes is not a neutral technology issue.</p>
+<p>It is a social justice issue. The communities bearing the environmental cost are often not the same communities receiving the economic benefits.</p>
 
-<h4>CNA and Nursing</h4>
-
-<p>Nursing and CNA work is built on human connection -- and that is not going away. But the documentation, scheduling, and information-lookup parts of the job are being transformed by AI right now.</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| DAX Copilot (by Nuance/Microsoft) | Listens to a patient conversation and automatically writes clinical notes. The nurse or doctor reviews and approves. | Hospitals, urgent care clinics, large medical groups |
-| Epic Systems AI | Suggests care plans, flags patients at risk of deterioration, and auto-populates documentation fields based on vitals and history. | Most large hospital networks in the U.S. |
-| Ava by Artisight | Uses cameras and AI to monitor patients in rooms and alert nurses if a patient is trying to get up alone or shows signs of distress. | ICUs and hospital patient rooms |
-| AI Scheduling Tools (like QGenda) | Automatically builds nursing schedules based on certifications, shift preferences, and patient ratios. | Hospital staffing departments |
-
-<p class="standout-question">Definition: What Does This Mean for CNAs?</p>
-<p>Your job is not disappearing. But employers will increasingly expect you to work alongside these tools -- knowing how to flag an AI note that looks wrong, how to respond when the monitoring system alerts you, and how to enter data in ways the AI can use. Workers who are comfortable with these systems get pulled into higher-responsibility roles faster.</p>
-
-
-<h4>Pharmacy Technician</h4>
-
-<p>Pharmacy work involves a lot of data -- prescriptions, drug interactions, insurance claims, inventory. AI is being used to handle the routine processing so technicians can focus on patient-facing work.</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| ScriptPro and Omnicell AI | Automated dispensing systems that use AI to verify prescriptions, count pills, and flag potential drug interactions before a tech or pharmacist reviews. | Retail pharmacies, hospital pharmacies |
-| Rx30 and QS/1 AI Features | Pharmacy management software with AI that auto-fills insurance information, catches billing errors, and predicts refill timing. | Independent and chain pharmacies |
-| CoverMyMeds AI | Automates prior authorization requests to insurance companies -- a task that used to take technicians hours of phone calls. | Most pharmacy software systems |
-
-
-<h4>Behavioral Specialist</h4>
-
-<p>Behavioral health is one of the most human-centered fields there is -- and AI is being introduced carefully in ways that support the specialist rather than replace the relationship.</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Eleos Health | Uses AI to transcribe therapy and behavioral sessions, then generates progress notes automatically. The specialist reviews and edits before signing. | Behavioral health clinics, ABA therapy providers |
-| Cognigy.AI for mental health triage | An AI chatbot that handles initial intake questions, screens for risk level, and routes patients to the right specialist. The specialist handles everything from there. | Community mental health centers |
-| Predict Align Prevent (PAP) | Uses school data to predict which students may need behavioral intervention before a crisis occurs. | School districts, educational behavioral programs |
+<p>Source: Pope Leo XIV, Magnifica Humanitas, Ch. 4 -- vatican.va (May 15, 2026)</p>
 
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img3.png" | relative_url }})
 
-<p>Lesson 5</p>
+<h3>Part B -- The Knowledge Problem</h3>
 
+<p>Here is the second hidden cost, and this one is less visible but just as important for the future of AI and the people who use it.</p>
 
-<h4>AI in Your Field: Business, Finance, and Real Estate</h4>
+<p>AI Is Increasingly Learning from AI</p>
 
-<p>Business, finance, and real estate are fields where large amounts of data, documents, and communications are processed every day. AI has moved into these fields quickly because the tasks are often repetitive, data-heavy, and language-driven -- exactly the type of work AI handles well.</p>
+<p>When AI models were first trained, they learned from content created by human beings, books, articles, websites, research papers, conversations. That content reflected real human thought, creativity, and experience.</p>
 
-<p>Accounting</p>
+<p>But here is what is happening now: the internet is filling up with AI-generated content. New AI models being trained today are increasingly learning from that content -- text, images, and data that was itself produced by earlier AI models.</p>
 
+<p>Think of it like making a photocopy of a photocopy of a photocopy. Each generation loses a little more clarity. The output becomes blander, less accurate, and less grounded in original human experience.</p>
 
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| QuickBooks AI (Intuit Assist) | Automatically categorizes transactions, flags unusual spending patterns, generates financial summaries in plain language, and answers questions about your books. | Small businesses, freelancers, accounting firms |
-| Sage Intacct AI | Automates accounts payable and receivable, matches invoices to purchase orders, and produces financial reports with AI-written explanations. | Mid-size businesses, nonprofits, growing companies |
-| Vic.ai | Reads invoices using AI, codes them to the right accounts, and routes them for approval -- reducing manual data entry for accounting teams. | Accounting departments in mid to large businesses |
-| CoPilot for Excel (Microsoft 365) | Lets you describe what you want in plain English -- like 'show me all expenses over $500 from last quarter' -- and AI builds the formula or chart for you. | Any business using Microsoft Office |
+<p>Definition: Model Collapse</p>
 
+<p>Model collapse is what researchers call the gradual degradation of AI output quality that happens when AI models are trained on AI-generated data instead of original human content. The model loses the richness, diversity, and accuracy of real human knowledge -- and starts producing output that sounds plausible but contains less genuine insight.</p>
 
-<h4>ERP (Enterprise Resource Planning)</h4>
+<p>Minority Voices Get Erased First</p>
 
-<p class="standout-question">Definition: What is ERP?</p>
-<p>ERP stands for Enterprise Resource Planning. It is a type of software that connects all the different parts of a business -- inventory, accounting, HR, purchasing, customer orders -- into one system. Companies like SAP, Oracle, and Microsoft make ERP software used by businesses worldwide.</p>
+<p>Here is the part of this problem that should concern you most. When AI smooths out unusual or rare patterns in its training data, it tends to eliminate minority perspectives, rare languages, and unconventional ideas first. The more a viewpoint differs from the majority of the training data, the more likely it is to be treated as noise and filtered out.</p>
 
+<p>This means AI models become more accurate and more fluent for the majority and less useful or actively harmful for everyone else. The groups who already have less representation in the data end up with even less representation in the AI outputs that affect their lives.</p>
 
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| SAP Business AI | Predicts supply chain disruptions, auto-matches vendor invoices, flags suspicious transactions, and provides plain-language answers to inventory and finance questions. | Manufacturing, logistics, large enterprises |
-| Microsoft Dynamics 365 Copilot | AI built into Microsoft's ERP platform. Drafts emails to vendors, summarizes customer history, and suggests next steps for sales or service reps. | Businesses of all sizes using Microsoft ecosystem |
-| Oracle AI in Fusion Cloud | Automates financial close processes, flags anomalies in financial data, and generates HR and procurement reports automatically. | Large enterprises, government contractors |
+<p>The Skill Atrophy Risk</p>
 
+<p>We talked about deskilling in Lesson 5 in the context of workplace judgment. Here is the broader version of that same concern:</p>
 
-<h4>Real Estate</h4>
+<p>What Skill Atrophy Looks Like at Scale</p>
 
+<p>-- If workers hand off writing, analysis, and judgment entirely to AI, they gradually lose the capacity to do those things themselves.</p>
 
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Zillow AI and Zestimate | Uses AI to estimate property values based on hundreds of data points -- square footage, location, recent sales, school ratings, and more. | Zillow platform, real estate searches |
-| ChatGPT / Claude for listing descriptions | Agents use AI to write compelling property descriptions from bullet points of features. A good listing description used to take  -- AI does a first draft in seconds. | Real estate agencies, independent agents |
-| Ojo Labs and Homebot | AI tools that analyze buyer and seller behavior to predict who is ready to move, and send personalized market updates automatically. | Real estate brokerages, mortgage companies |
-| DocuSign AI (Intelligent Agreement Management) | Reads contracts, flags unusual clauses, and extracts key dates and obligations from real estate agreements. | Real estate transactions, property management |
+<p>-- If they lose that capacity, they also lose the ability to catch AI's errors, which is the one safeguard that makes human oversight meaningful.</p>
 
+<p>-- If enough workers in a field lose those skills, the entire field loses its ability to function without AI,  creating a dependency that no one consciously chose.</p>
 
-<h4>Business Administration and Architectural Firms</h4>
+<p>-- This course is specifically designed to prevent that outcome for you. Using AI as a tool that enhances your work is very different from using it as a replacement for your thinking.</p>
 
+<p>QUICK REFLECTION -- One Fact That Surprised You</p>
 
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Notion AI | Summarizes meeting notes, drafts project updates, creates databases from plain-language descriptions, and helps teams organize large amounts of information. | Startups, design firms, business admin teams |
-| Autodesk AI (including Revit and Forma) | AI-assisted design tools that generate building layout options based on constraints like square footage, light requirements, and zoning rules. | Architecture firms, engineering companies |
-| Microsoft 365 Copilot | AI that works inside Word, Excel, Outlook, and Teams to draft documents, summarize email chains, build presentations, and pull data from meetings. | Virtually any office environment |
-| Otter.ai | Records and transcribes meetings in real time, identifies who said what, and generates a summary with action items automatically. | Architecture firms, admin teams, any meeting-heavy role |
+<p>Purpose</p>
 
-<p>Entrepreneur</p>
+<p>No extended discussion here. The goal is simple: before you move into your own personal work, make sure at least one fact from this module has personally landed for you.</p>
 
-<p>If you run your own business or plan to, AI is essentially giving small business owners access to tools that used to require a full team. Here are the ones with the biggest impact:</p>
+<p>Instructions</p>
 
+<ol>
+  <li>On your own, write one sentence: the fact from Module 6 that most surprised you and why.</li>
+  <li>Be specific -- do not write 'AI uses a lot of water.' Write: 'I did not know that training one AI model can use as much electricity as [number] homes in a full year, and that surprises me because...'</li>
+  <li>We will discuss some of these in class and I will be the first to start.</li>
+</ol>
 
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| ChatGPT / Claude / Gemini | Draft marketing copy, business plans, social media posts, customer emails, product descriptions, FAQs, and contracts. Your all-purpose writing assistant. | Any business with a computer |
-| Canva AI (Magic Design and Magic Write) | Generates professional marketing materials, social media graphics, presentations, and brand kits from a simple text description. | Small businesses, solo entrepreneurs |
-| Shopify AI (Sidekick) | Helps online store owners write product descriptions, set up discount campaigns, analyze sales data, and answer business questions in plain language. | E-commerce businesses on Shopify |
-| HubSpot AI | Automates customer follow-up emails, scores leads based on behavior, generates sales email sequences, and summarizes CRM data. | Small to mid-size businesses doing sales and marketing |
+<p>Write Your Sentence Here</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>--- CAPSTONE DRAFT 2: Ethics Layer ---</p>
+
+<p>Your Proposed Workflow Part 2 -- Ethics Layer</p>
+
+<p>Applying everything from Week 3 to your own AI opportunity</p>
+
+<p>This is the most important work of the week. Everything in Day 1 and Day 2 -- the case studies, the bias discussion, the concept of human dignity, the Magnifica Humanitas framework -- has been building toward the questions you are going to answer right now.</p>
+
+<p>Open your Week 2 capstone document. Find Section 2 -- the AI-ready task you identified in your field. That task is what we are examining today. You are going to add Section 4 to your capstone: the ethics layer.</p>
+
+<p>The Thread Across the Weeks</p>
+
+<p>Week 2: You found the opportunity. You identified a task in your field that AI could realistically help with.</p>
+
+<p>Week 3: You examine whether it is safe and ethical to pursue. Identify if there are any aspects that might cause harm to others or yourself long term.</p>
+
+<p>Week 4: You present the full picture, the opportunity, the risks, and your plan for navigating both.</p>
+
+<p>Section 4 -- The Ethics Layer</p>
+
+<p>Add Section 4 to your capstone document. Answer each of the four questions below as honestly and specifically as you can. There are no right answers -- only thoughtful ones and careless ones. I want thoughtful.</p>
+
+<p class="standout-question">Question 1 -- Does This Tool Affect Other People?</p>
+<p>Think about proposed your AI task. Who else is involved? Customers, coworkers, patients, students, clients, job applicants -- anyone beyond just you. If other people are affected by this tool or its outputs, name them specifically.</p>
+
+<p>Example: 'My task is using AI to screen job applicants. The people affected are the applicants -- they may never know an AI reviewed their resume.'</p>
+
+<p>Your answer:</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p class="standout-question">Question 2 -- Could This Tool Produce an Unfair or Harmful Outcome?</p>
+<p>Is there any realistic way that bias in the training data, a hallucination, a misclassification, or a bad output could harm someone? Even a small chance counts -- write it down. If you cannot think of any risk, think harder. Every tool has one.</p>
+
+<p>Example: 'If the AI summarizes patient notes incorrectly, a doctor might make a treatment decision based on wrong information.'</p>
+
+<p>Your answer:</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p class="standout-question">Question 3 -- Does Anyone Have the Right to Know AI Was Involved?</p>
+<p>If AI helped write a document, generate an image, score an application, or make a recommendation, does the person receiving that output deserve to know? What does your current workplace policy say? What do you think the policy should say?</p>
+
+<p>Example: 'If AI wrote a performance review about an employee, I think that employee has the right to know -- because it affects how they are evaluated.'</p>
+
+<p>Your answer:</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p class="standout-question">Question 4 -- What Is the Human Backup Plan?</p>
+<p>What happens if the AI gets it wrong? Who reviews the output before it affects a real person? Who is accountable if the output causes harm? If you cannot answer this question clearly, that is your ethics concern right there.</p>
+
+<p>Example: 'Before any AI-generated report goes to a client, my supervisor reviews it. If something is wrong, my supervisor and I are both accountable.'</p>
+
+<p>Your answer:</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>Small Group Share-Out</p>
+
+<p>At the about the 30 min mark, stop writing and form groups of two or three people near you. Share your Section 4 answers you do not need to read every word, just walk your group through your task and the biggest ethical concern you identified.</p>
+
+<p>What Each Group Is Looking For</p>
+
+<p>-- Identify one ethical concern that came up across your different fields -- even if the specific tasks are different.</p>
+
+<p>-- Notice where your answers overlap and where they are completely different. Both are useful.</p>
+
+<p>-- One person per group shares that shared concern with the class.</p>
 
 
 ![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img4.png" | relative_url }})
 
-<p>Lesson 7</p>
+<p>--- WEEK 3 CLOSE & WEEK 4 PREVIEW ---</p>
+
+<p>Week 3 Close and Week 4 Preview</p>
+
+<p>Collecting what we built -- and setting up the final week</p>
 
 
-<h4>AI in Your Field: Creative and Design Industries</h4>
-
-<p>Creative fields were some of the first to feel the impact of AI image generation tools. But the story is more interesting than just 'AI can make pictures now.' The designers who are thriving are the ones using AI to work faster, present more options to clients, and spend more of their time on the decisions that actually require a human eye.</p>
-
-
-<h4>Interior Design</h4>
-
-<p>Interior designers spend a significant amount of time creating mood boards, rendering concepts, sourcing products, and writing proposals. AI is changing each of these steps.</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
+| Time:  30 min | Format:  Submit + reflect + preview | Week:  Week 3, Day 2 |
 | --- | --- | --- |
-| Midjourney and Adobe Firefly | Generate photo-realistic room renders from a text description. Instead of waiting days for a 3D rendering, you describe the space and AI produces a visual in seconds. | Design studios, freelance designers, client presentations |
-| RoomGPT and Reimagine Home | Upload a photo of an existing room and AI redesigns it in different styles -- modern, minimalist, rustic, etc. Great for showing clients before/after concepts. | Residential design, real estate staging, home renovations |
-| Houzz Pro AI | AI that helps interior designers write client proposals, create project timelines, manage contractor communications, and track budgets. | Interior design firms, independent designers |
-| Pinterest and Canva AI | Generate mood boards and visual concepts from keywords or uploaded images. Canva Magic Design creates professional presentations from a brief description. | Freelance designers, small studios |
+
+<p>We are at the end of Week 3. This is worth pausing on for a moment. Two weeks ago you were learning what AI is. This week you examined who is responsible when it causes harm, what fairness and dignity require, what it costs the environment, and whether your own AI task holds up under ethical scrutiny. That is not a small thing.</p>
+
+<p>Step 1 -- Submit Part 2 of Your Discussion Project</p>
+
+<p>How to Submit</p>
+
+<p>-- Canvas: Share part two of your discussion in the discussion prompt that will be available on Friday June 5th. Instructions will be posted on the discussion but will mirror the in class activity we completed today.</p>
+
+<p>Step 2 -- Exit Ticket</p>
+
+<p>Exit Ticket -- Complete This Sentence</p>
+
+<p>Complete this sentence before you leave:</p>
+
+<p>"Before I use AI for [my chosen task], I need to make sure that ___."</p>
+
+<p>Write your sentence here:</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>_____________________________________________________________________________________</p>
+
+<p>Week 4 Preview -- The Final Week</p>
+
+<p>Week 4 is about the future. After everything you have learned -- the tools, the opportunities, the ethics, the risks -- the final week is about putting it all together and presenting your thinking.</p>
 
 
-<h4>Floral Design</h4>
+| Week 4 Topic | What It Means for You |
+| --- | --- |
+| The Future of Work and AI Adoption Challenges | A realistic look at how workplaces are actually adapting to AI -- the barriers, the speed bumps, and the opportunities that are still open. |
+| -- The Full Picture | Bringing together all eight course outcomes into one coherent view of what it means to be an AI-informed professional. |
+| Capstone Finalization | You take your workflow document -- the opportunity you identified, the ethics layer you built this week -- and prepare to discuss it. |
+| Presentation Day | Day 2 of Week 4 is presentation day. Each student walks through their AI Workplace Framework in 2 to . It does not need to be polished. It needs to be honest and informed. |
 
-<p>Floral design is a creative, seasonal, and highly personal business. AI is being used to help florists with the parts of the business that are not about the flowers -- the communication, the marketing, the planning, and the client experience.</p>
+<p>Presentation Prep -- Start Thinking Now</p>
 
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| ChatGPT / Claude for proposals and client emails | Write personalized wedding floral proposals, event quotes, and follow-up emails in a fraction of the time. You describe the event and AI drafts the full proposal. | Floral shops, freelance florists, wedding vendors |
-| Canva AI and Adobe Firefly | Create marketing materials, social media graphics, and promotional flyers. Generate concept images of floral arrangements from a text description for client approval. | Floral shops, event florists |
-| Instagram and Meta AI tools | AI-powered scheduling and content tools that suggest the best times to post, generate caption ideas, and analyze which posts get the most engagement. | Any florist with a social media presence |
-| BloomNation and Lovingly platform AI | Online floral marketplaces with built-in AI that helps florists set pricing, manage inventory, and optimize their online listings for search. | Retail floral shops with online presence |
-
-
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img5.png" | relative_url }})
-
-<p>Module 5</p>
-
-
-<h4>AI in Your Field: Education and Behavioral Health</h4>
-
-<p>Education and behavioral health share something important: they are both deeply relationship-based. The human connection is the product. AI is being introduced in ways that protect that relationship by handling the administrative and analytical work so educators and specialists can focus on people.</p>
-
-<p>Education</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Khan Academy Khanmigo | An AI tutor built into Khan Academy that guides students through problems with questions instead of just giving answers. It also helps teachers plan lessons. | K-12 and community college classrooms |
-| Grammarly and Turnitin AI | Grammarly provides AI writing assistance for students and educators. Turnitin's AI detection tool helps educators identify AI-generated student work. | Schools, colleges, universities |
-| Curipod and Diffit | Curipod generates interactive lessons, slides, and activities from a topic description. Diffit adapts reading materials to different grade levels automatically. | K-12 classrooms, adult education |
-| Google learning space AI and Gemini in Workspace | Assists teachers with writing rubrics, generating quiz questions, creating differentiated assignments, and summarizing student performance data. | Schools using Google Workspace for Education |
-| MagicSchool.ai | An AI platform designed specifically for teachers -- generates lesson plans, IEP accommodations, parent emails, report card comments, and behavior intervention plans. | K-12 public and private schools |
-
-
-<h4>Important Note for Educators</h4>
-
-<p>Many school districts are still developing their AI policies. Before using any AI tool with student data or for student-facing purposes, always check your district's current policy. Student data is protected under FERPA (Family Educational Rights and Privacy Act), which means student information cannot be shared with AI systems that are not FERPA-compliant without parent consent.</p>
-
-
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img6.png" | relative_url }})
-
-<p>Module 6</p>
-
-
-<h4>AI in Your Field: Sales, Customer Service, and Manufacturing</h4>
-
-<p>Sales, customer service, and manufacturing all deal with high volumes of interactions, data, and processes that repeat constantly. These fields have seen some of the fastest AI adoption because the efficiency gains are easy to measure.</p>
-
-<p>Sales</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Salesforce Einstein AI | Scores leads based on how likely they are to buy, suggests the next best action for a sales rep, and summarizes customer history before a call. | Sales teams at mid to large businesses |
-| Gong.io | Records and analyzes sales calls using AI. It identifies what top performers say differently, flags deals that are at risk, and coaches reps based on real conversation data. | Inside sales teams, B2B sales organizations |
-| HubSpot Sales AI | Drafts personalized outreach emails, sequences follow-up messages automatically, and shows when a prospect opened your email or clicked a link. | Small to mid-size sales teams |
-| ChatGPT for sales scripts | Reps use AI to generate customized pitches, objection responses, and follow-up emails based on the prospect's industry and pain points. | Any sales role with computer access |
-
-
-<h4>Customer Service</h4>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Zendesk AI and Intercom | AI handles common customer questions automatically (order status, return policies, FAQs) and routes complex issues to a human agent with context already provided. | E-commerce, SaaS companies, any business with a help desk |
-| Freshdesk Freddy AI | Suggests responses to customer tickets based on similar past cases, auto-tags and prioritizes tickets, and summarizes long customer email chains. | Customer support departments |
-| Salesforce Service Cloud AI | Provides agents with real-time AI suggestions during a live chat or call, shows customer sentiment, and auto-generates case summaries after each interaction. | Call centers, enterprise customer service |
-| ChatGPT and Claude for response drafting | Agents use AI to draft replies to complex customer situations faster, ensuring a consistent and professional tone. | Any customer service role with email or chat support |
-
-<p>Manufacturing</p>
-
-
-| AI Tool | What It Does | Where You Will See It |
-| --- | --- | --- |
-| Sight Machine | Uses AI to monitor production lines in real time, detect defects before products leave the line, and identify where waste or slowdowns are occurring. | Automotive, electronics, food processing plants |
-| C3.ai for manufacturing | Predicts when machines are likely to fail before they break down -- called predictive maintenance. This prevents expensive unplanned shutdowns. | Large manufacturing facilities |
-| IBM Maximo with AI | Asset management system with AI that tracks equipment health, schedules maintenance automatically, and generates work orders based on sensor data. | Industrial manufacturing, utilities, facilities management |
-| Tulip Interfaces | A no-code platform that lets factory floor workers build their own AI-assisted apps to track production steps, quality checks, and training processes. | Small to mid-size manufacturers, lean production environments |
-
-
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-08-img7.png" | relative_url }})
-
-
-<h4>What You Saw Today and What Is Coming Next</h4>
-
-<p>Today you saw AI tools that are already in use across fourteen different fields. Some of them are tools your employer may already be using. Some of them are tools you can start using on your own right now. All of them point in the same direction: workers who know how to work alongside AI will have more opportunities than those who do not.</p>
-
-
-<h4>Three Things to Take Away From Today</h4>
+<p>Your presentation does not need slides. It does not need to be memorized. It needs to answer three questions clearly:</p>
 
 <ul>
-  <li>AI is already in your industry. It is not coming -- it is here. The tools in this guide are not experiments. They are being purchased and deployed by real employers in your field right now.</li>
-  <li>Your job is to be the human in the loop. AI handles the repetitive, data-heavy, or language-driven parts. You handle the judgment, the relationships, the context, and the accountability. That is not a small thing -- that is the valuable part.</li>
-  <li>You already have a head start. You spent three weeks learning how to identify AI opportunities, write effective prompts, evaluate AI tools, and think about the ethics of AI use. Most people in your field have not done that. You have.</li>
+  <li>What is the AI-ready task you identified in your field -- and why did you choose it?</li>
+  <li>What ethical concerns did you find when you examined it this week -- and how would you address them?</li>
+  <li>What is your personal plan for using AI responsibly in your field going forward?</li>
 </ul>
 
-| Local AI vs. Hosted AI | We are going to break down what local AI tools actually are, how they compare to hosted tools like ChatGPT and Gemini, and when each one makes sense. There is also a video that goes deeper on specific local tools you can potentially run on your own computer. |
-| --- | --- |
-| Hands-On Exploration | You will have time to get extra hands on time with AI tools to try things, ask questions, and see how the tools respond to your specific field and workflow. |
-| Group Presentations | You will share your AI workflow plan with a small group. One person from each group will walk others through what their group discussed. This is collaborative not a formal presentation. |
+<p>Two to three minutes. Your capstone document open in front of you. Your own words. That is all you need.</p>
 
-<p>Great work today. You now have a map of where AI is in your industry. Thursday we put hands on the tools. See you then.</p>
+<p>Office Hours in this session -- to , This Room</p>
+
+<p>If you have questions about your capstone, your presentation, anything from this week's content, or anything you are still working through -- stay after class. I will be here until . No appointment needed.</p>

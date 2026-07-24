@@ -3,19 +3,34 @@ layout: lesson
 title: "The 5 Categories of AI at Work"
 topic: "ai-foundations"
 last_updated: 2026-07-02
+youtube_id: "a8f7d6e5c4b"
 ---
 
+<p><!-- PAGE 1 --></p>
 
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img1.png" | relative_url }})
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 1 of 44</p>
+
+<p>AI Foundations</p>
+
+<p>(VOC AIW)</p>
 
 <p>Table of Contents</p>
 
 <p>[Right-click and select "Update Field" to generate the Table of Contents]</p>
 
+<p><!-- PAGE 2 --></p>
 
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img2.png" | relative_url }})
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
 
-<p>This course, in this lesson -</p>
+<p>AI Foundations  |  Week 2, Day 2  |      Page 2 of 44</p>
+
+<p>--- WEEK 2, DAY 2 - WARM-UP ---</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |</p>
+
+<p>Warm-Up & Review</p>
 
 <p>Debrief</p>
 
@@ -31,12 +46,11 @@ last_updated: 2026-07-02
 
 <p>Session tool ready</p>
 
-
-<h3>Part 1 - Reflection & Review</h3>
+<p>Part 1 - Reflection & Review</p>
 
 <p>Last class I gave you a challenge: find one AI tool in the category most relevant to your field that</p>
 
-<p>You didn't know existed before in this lesson. A few of you are going to share out loud - and as you</p>
+<p>You didn't know existed before Day 1. A few of you are going to share out loud - and as you</p>
 
 <p>Listen to your peers, I want you to do two things:</p>
 
@@ -45,7 +59,11 @@ last_updated: 2026-07-02
   <li>Notice if any of them apply to your field, even if it wasn't the original person's category</li>
 </ul>
 
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img3.png" | relative_url }})
+<p><!-- PAGE 3 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 3 of 44</p>
 
 <p>Your Tool - Fill This In</p>
 
@@ -85,10 +103,13 @@ last_updated: 2026-07-02
 
 <p>Get every one - focus on any that sound relevant to your field.</p>
 
+<p><!-- PAGE 4 --></p>
 
-![Educational diagram illustrating lesson concepts]({{ "/assets/images/topics/ai-foundations/lesson-06-img4.png" | relative_url }})
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
 
-<p># Tool Name Category + Why It Caught Your Eye</p>
+<p>AI Foundations  |  Week 2, Day 2  |      Page 4 of 44</p>
+
+<h2>Tool Name Category + Why It Caught Your Eye</h2>
 
 <p>1</p>
 
@@ -100,24 +121,29 @@ last_updated: 2026-07-02
 
 <p>5</p>
 
-
-<h3>Part 2 - Category & Filter Quick Review</h3>
+<p>Part 2 - Category & Filter Quick Review</p>
 
 <p>I am going to read a task out loud. Your job: call out which of the 5 categories it belongs to, and</p>
+
+<p>Whether it passes the 4 -question filter. We're going fast - this is a warm-up, not a quiz. There is</p>
 
 <p>No wrong answer if you can explain your thinking.</p>
 
 <p>Quick Reminder - The 4-Question Filter</p>
 
+<p>Ask these four questions. If most answers are YES → good fit for AI:</p>
+
 <ul>
-  <li>Ask these four questions. If most answers are YES → good fit for AI:</li>
   <li>Is this task repetitive? Does it come up over and over in roughly the same form?</li>
+  <li>Is it language or data -based? Can AI actually process what this task involves?</li>
   <li>Is a mistake recoverable? Can a human catch and fix errors before they cause real</li>
 </ul>
+
 <p class="standout-question">Harm?</p>
 <ul>
   <li>Is there a clear 'good enough' threshold? Do you know what a usable output looks</li>
 </ul>
+
 <p class="standout-question">Like?</p>
 <p>5 Categories: Language & Communication  ·  Data & Analysis  ·  Image & Visual  ·  Audio &</p>
 
@@ -126,6 +152,12 @@ last_updated: 2026-07-02
 <p>Your Notes - 4 Rounds</p>
 
 <p>Fill in as we go. I'll give you about 30 seconds after each task before we move on.</p>
+
+<p><!-- PAGE 5 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 5 of 44</p>
 
 <p>Round The Task (I'll read this aloud) Which Category? Pass the Filter? (YES /</p>
 
@@ -163,8 +195,7 @@ last_updated: 2026-07-02
 
 <p>Reading levels</p>
 
-
-<h3>Part 3 - What We Are Doing in this session</h3>
+<p>Part 3 - What We Are Doing in this session</p>
 
 <p>Here is the full picture for today. We have three big blocks:</p>
 
@@ -190,25 +221,31 @@ last_updated: 2026-07-02
 
 <p>Anchor</p>
 
-
-<h3>Activity</h3>
+<p>Activity</p>
 
 <p>(Part 2)</p>
 
 <p>You test a second task from your field</p>
 
-<p>Using a different AI category than in this lesson</p>
+<p>Using a different AI category than Day 1</p>
 
 <ul>
   <li>run the filter, write a layered RTCF</li>
 </ul>
+
 <p>Prompt, and document what worked</p>
 
 <p>This completes the Industry AI Audit you</p>
 
-<p>Started in this lesson - and gives you real</p>
+<p>Started in Day 1 - and gives you real</p>
 
 <p>Output to drop into your capstone</p>
+
+<p><!-- PAGE 6 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 6 of 44</p>
 
 <p>Capstone</p>
 
@@ -226,13 +263,13 @@ last_updated: 2026-07-02
 
 <p>This is the living document you'll add to</p>
 
-<p>In this course and 4. It becomes your final</p>
+<p>In Weeks 3 and 4. It becomes your final</p>
 
 <p>Presentation.</p>
 
 <p>One Thing Before We Start</p>
 
-<p>Pull up your in this lesson anchor output - the task you ran through the filter and the RTCF prompt</p>
+<p>Pull up your Day 1 anchor output - the task you ran through the filter and the RTCF prompt</p>
 
 <p>You built. You'll need it for the Anchor Activity in Part 2 in this session. Screenshot, typed notes, or</p>
 
@@ -245,11 +282,22 @@ last_updated: 2026-07-02
 <ul>
   <li>Let's get into it -</li>
 </ul>
-<p>THE 5 CATEGORIES OF AI AT WORK</p>
+
+<p><!-- PAGE 7 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 7 of 44</p>
+
+<p>--- THE 5 CATEGORIES OF AI AT WORK ---</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |</p>
 
 <p>The 5 Categories of AI at Work</p>
 
 <p>Map the full landscape -- now that you have used two of these yourself.</p>
+
+<p>Time CMOs Key Concepts Why It Matters Now</p>
 
 <p>(primary) /</p>
 
@@ -278,15 +326,20 @@ last_updated: 2026-07-02
 <ul>
   <li>It helps you match the right tool to the right task instead of forcing everything through</li>
 </ul>
+
 <p>One tool that may not be the best fit.</p>
 
 <ul>
   <li>It helps you evaluate new tools intelligently so when someone shows you a new AI</li>
 </ul>
+
 <p class="standout-question">Product, you can immediately ask: which category does this belong to?</p>
 <ul>
   <li>It sets up your capstone directly. The AI Workplace Framework you are building requires</li>
 </ul>
+
+<p>You to identify which categories apply to your field -- this module gives you the vocabulary to</p>
+
 <p>Do that precisely.</p>
 
 <p>Category 1: Language and Communication</p>
@@ -298,6 +351,12 @@ last_updated: 2026-07-02
 <p>Gemini: Google's AI -- great for drafting inside Google Docs and Gmail.</p>
 
 <p>Microsoft Copilot: Built into Word and Outlook -- rewrite, summarize, generate from prompts.</p>
+
+<p><!-- PAGE 8 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 8 of 44</p>
 
 <p>Field Examples</p>
 
@@ -351,6 +410,12 @@ last_updated: 2026-07-02
 
 <p>Finance / Accounting Flag unusual transactions using plain-language</p>
 
+<p><!-- PAGE 9 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 9 of 44</p>
+
 <p>Prompts.</p>
 
 <p>Category 3: Image and Visual</p>
@@ -363,7 +428,7 @@ last_updated: 2026-07-02
 
 <p>Adobe Firefly: Adobe's AI image tool -- integrates with Photoshop and Express.</p>
 
-<p>Note: Students used this category earlier in this guide today -- you already have hands-on experience here!</p>
+<p>Note: Students used this category earlier in class today -- you already have hands-on experience here!</p>
 
 <p>Field Examples</p>
 
@@ -400,6 +465,12 @@ last_updated: 2026-07-02
 <p>Suno / Udio: Generate royalty-free background music for videos, presentations, or business</p>
 
 <p>Content.</p>
+
+<p><!-- PAGE 10 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 10 of 44</p>
 
 <p>Note: You have a dedicated Audio AI guide with more detail on these tools -- use it alongside this</p>
 
@@ -456,6 +527,12 @@ last_updated: 2026-07-02
 <p>Added to a spreadsheet.</p>
 
 <p>Marketing Auto-post approved content across platforms</p>
+
+<p><!-- PAGE 11 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 11 of 44</p>
 
 <p>When a file is added to a folder.</p>
 
@@ -515,20 +592,19 @@ last_updated: 2026-07-02
 
 <p>-- AI agents are the next frontier -- tools that can handle multi-step tasks on your behalf.</p>
 
-<p>-- a later lesson will go deeper into agents and the important ethical questions they raise.</p>
+<p>-- Week 3 will go deeper into agents and the important ethical questions they raise.</p>
 
 <p>-- For now: if a tool asks for a goal and handles the steps itself, you are working with an agent.</p>
 
+<p><!-- PAGE 12 --></p>
 
-<div class="activity-card">
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
 
+<p>AI Foundations  |  Week 2, Day 2  |      Page 12 of 44</p>
 
-<h3>Activity: Category Sort + Field Map</h3>
+<p>Activity: Category Sort + Field Map</p>
 
-</div>
-
-
-<h3>This is a fast, whole-class activity. You will map the five categories to your own field and share</h3>
+<p>This is a fast, whole-class activity. You will map the five categories to your own field and share</p>
 
 <p>Out with the group. No right or wrong answers -- the goal is to make the map feel real for your</p>
 
@@ -548,11 +624,13 @@ last_updated: 2026-07-02
 
 <p>Share-Out Debrief</p>
 
+<p>-- Instructor will call on 4-5 students to share their two categories and one task each.</p>
+
 <p class="standout-question">-- Class maps responses below -- which categories appear most across all fields?</p>
-<p class="standout-question">-- Discussion: Is any category missing from this course? Why might that be?</p>
+<p class="standout-question">-- Discussion: Is any category missing from our class? Why might that be?</p>
 <p>-- Key takeaway: The map is not the same for every field -- your job is to know YOUR map.</p>
 
-<p>Canvas Assignment -- Submit before proceeding</p>
+<p>Canvas Assignment -- Submit Before Next Class</p>
 
 <p>-- Name your two most relevant AI categories.</p>
 
@@ -562,6 +640,12 @@ last_updated: 2026-07-02
 
 <p class="standout-question">-- Bonus: Which category feels hardest to apply in your work right now? Why?</p>
 <p>Submit as a text entry or short paragraph in the Canvas assignment box.</p>
+
+<p><!-- PAGE 13 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 13 of 44</p>
 
 <p>What Audio AI Does</p>
 
@@ -610,6 +694,12 @@ last_updated: 2026-07-02
 <p>Accountant / Bookkeeper After a client call, speak a quick voice memo: what they asked, what</p>
 
 <p>You advised, what the next step is. AI turns 60 seconds of talking into</p>
+
+<p><!-- PAGE 14 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 14 of 44</p>
 
 <p>A clean log entry.</p>
 
@@ -691,6 +781,12 @@ last_updated: 2026-07-02
 
 <p>On in Meet settings before</p>
 
+<p><!-- PAGE 15 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 15 of 44</p>
+
 <p>The call</p>
 
 <p>Bonus -- AI Music & Audio Generation for Work</p>
@@ -705,7 +801,7 @@ last_updated: 2026-07-02
 
 <p>Why This Matters for Your Business</p>
 
-<p>If you have ever posted a Reel, a property walkthrough video, a learning space tutorial, or a</p>
+<p>If you have ever posted a Reel, a property walkthrough video, a classroom tutorial, or a</p>
 
 <p>Promo clip -- and added music from Spotify or YouTube -- you may have gotten flagged,</p>
 
@@ -781,6 +877,12 @@ last_updated: 2026-07-02
 
 <p>Hiring a composer</p>
 
+<p><!-- PAGE 16 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 16 of 44</p>
+
 <p>Quick Field Examples -- Who Uses This and How</p>
 
 <p>Field How AI Music Generation Helps</p>
@@ -820,21 +922,30 @@ last_updated: 2026-07-02
 <ul>
   <li>For a real estate video: Calm, upbeat instrumental, light piano and acoustic guitar,</li>
 </ul>
+
 <p>Warm and welcoming, 60 seconds</p>
 
 <ul>
   <li>For a florist promo: Cheerful spring-feeling background track, no vocals, light and airy,</li>
 </ul>
+
 <p>Suitable for a flower shop social post</p>
 
 <ul>
   <li>For a business pitch: Professional, confident background music, subtle electronic</li>
 </ul>
+
 <p>Rhythm, modern and clean, 2 -minute presentation</p>
 
 <p>That is the whole prompt. The AI handles genre, tempo, key, and instrumentation. You get</p>
 
 <p>A downloadable audio file in seconds.</p>
+
+<p><!-- PAGE 17 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 17 of 44</p>
 
 <p>The 4-Question Filter Applied to Audio Tasks</p>
 
@@ -885,38 +996,53 @@ last_updated: 2026-07-02
 
 <p>Before you record anyone with AI -- a client, a student, a patient, a colleague -- you</p>
 
-
-<div class="practice-card">
-
-
-<h3>Must tell them and get their agreement. This is not just good practice. In many fields it is</h3>
+<p>Must tell them and get their agreement. This is not just good practice. In many fields it is</p>
 
 <p>The law.</p>
 
 <ul>
   <li>Healthcare & behavioral health: HIPAA applies. Recording without consent in a clinical</li>
 </ul>
+
 <p>Setting can create serious legal exposure.</p>
+
+<p><!-- PAGE 18 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 18 of 44</p>
 
 <ul>
   <li>Education: FERPA protects student information. Any AI tool processing student data</li>
 </ul>
+
 <p>Needs institutional evaluation.</p>
 
 <ul>
   <li>Real estate & business: California is a two-party consent state -- all parties on a phone</li>
 </ul>
+
 <p>Call must agree to being recorded.</p>
 
 <p>The rule is simple: Say: "I am going to use an AI tool to take notes on our conversation -- is</p>
 
 <p>That okay?" If they say yes, proceed. If they say no, take notes the old -fashioned way.</p>
 
-<p>IMAGE AI: HANDS-ON LAB</p>
+<p><!-- PAGE 19 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 19 of 44</p>
+
+<p>--- IMAGE AI: HANDS-ON LAB ---</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |</p>
 
 <p>Image AI: Hands-On Lab</p>
 
 <p>Concepts are done. Now you build something real.</p>
+
+<p>Time CMOs Skills Practiced Tools Needed</p>
 
 <p>/  Critical thinking, prompt</p>
 
@@ -928,7 +1054,7 @@ last_updated: 2026-07-02
 
 <p>Quick Recap -- What You Already Know</p>
 
-<p>In this lesson you were introduced to the four -part image prompt framework. Before you generate</p>
+<p>In Day 1 you were introduced to the four -part image prompt framework. Before you generate</p>
 
 <p>Anything today, let's make sure that structure is sharp in your mind -- because the quality of</p>
 
@@ -976,6 +1102,12 @@ last_updated: 2026-07-02
 
 <p>One Rule Before You Generate</p>
 
+<p><!-- PAGE 20 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 20 of 44</p>
+
 <p>Write your prompt completely before you hit generate. Do not start with a half-formed</p>
 
 <p>Idea and iterate by accident. Think through all four elements -- Subject, Style, Mood, Format</p>
@@ -1012,10 +1144,7 @@ last_updated: 2026-07-02
 
 <p>Generates images inline</p>
 
-</div>
-
-
-<h3>Activity -- Generate for Your Field</h3>
+<p>Activity -- Generate for Your Field</p>
 
 <p>Your task: generate one image that is directly relevant to your work -- something you could</p>
 
@@ -1036,6 +1165,12 @@ last_updated: 2026-07-02
 <p>These are examples, not requirements. If your field is not listed, apply the same thinking to your</p>
 
 <p>Actual work.</p>
+
+<p><!-- PAGE 21 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 21 of 44</p>
 
 <p>Field What to Generate Why It Is Useful</p>
 
@@ -1116,26 +1251,37 @@ last_updated: 2026-07-02
 <ol>
   <li>Identify your use case. What specifically do you need an image for? Name the task before</li>
 </ol>
+
 <p>You write anything.</p>
 
 <ol>
   <li>Write your full prompt. Include all four elements: Subject + Style + Mood + Format. Write it</li>
 </ol>
+
 <p>As one complete, detailed description.</p>
 
 <ol>
   <li>Show your prompt before generating. Hold it up or share your screen -- get a quick check</li>
 </ol>
+
 <p>Before you run it.</p>
 
 <ol>
   <li>Generate the image. Run your prompt. Look at the result critically -- does it match what you</li>
 </ol>
+
 <p class="standout-question">Envisioned?</p>
 <ol>
   <li>Answer the three reflection questions below. Write 1-2 sentences for each. You will</li>
 </ol>
+
 <p>Share one answer during the debrief.</p>
+
+<p><!-- PAGE 22 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 22 of 44</p>
 
 <p>Reflection -- Three Questions to Answer in Writing</p>
 
@@ -1184,11 +1330,19 @@ last_updated: 2026-07-02
   <li>Too generic: "A nice professional image for a real estate agent"</li>
   <li>Better: "A warm, sunlit suburban home exterior, professional real estate photography</li>
 </ul>
+
 <p>Style, welcoming and family -friendly mood, horizontal format for a listing flyer"</p>
+
+<p><!-- PAGE 23 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 23 of 44</p>
 
 <ul>
   <li>Even better (after first attempt): "Same as above -- add a well-maintained front garden</li>
 </ul>
+
 <p>And a blue front door, golden hour lighting"</p>
 
 <p>Each iteration is a lesson in how the AI reads your language.</p>
@@ -1246,6 +1400,12 @@ last_updated: 2026-07-02
 
 <p>An image looks</p>
 
+<p><!-- PAGE 24 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 24 of 44</p>
+
 <p>Threshold? professional enough to</p>
 
 <p>Use. Your professional</p>
@@ -1271,15 +1431,22 @@ last_updated: 2026-07-02
   <li>The full prompt you used to generate it (copy and paste the exact text)</li>
   <li>Your written answers to all three reflection questions (1 -2 sentences each)</li>
 </ul>
+
 <p>Graded on: Completion and thoughtfulness of your reflection -- not on whether your image</p>
 
 <p>Looks good. A mediocre image with a sharp, honest reflection earns full credit every time.</p>
 
-<p>End of Image AI: Hands-On Lab</p>
+<p>--- End of Image AI: Hands-On Lab ---</p>
+
+<p><!-- PAGE 25 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 25 of 44</p>
 
 <p>Two ways AI tools work -- and why the difference matters in your job</p>
 
-<p>You have been learning how to use AI tools since This course. You know what a large language</p>
+<p>You have been learning how to use AI tools since Week 1. You know what a large language</p>
 
 <p>Model is. You know how to write a good prompt. Now let us talk about something that confuses</p>
 
@@ -1299,12 +1466,7 @@ last_updated: 2026-07-02
 <p>Scope means: what is the tool allowed to do? Autonomy means: can the tool do things on its</p>
 
 <p class="standout-question">Own, without you telling it every step?</p>
-
-<div class="lead-in-card">
-  <span class="lead-in-badge">Lesson Section</span>
-
-
-<h3>Part 1: Think of It as a Spectrum, Not an On/Off Switch</h3>
+<p>Part 1: Think of It as a Spectrum, Not an On/Off Switch</p>
 
 <p>Most people think AI tools are either smart or dumb. That is not quite right. It is better to picture</p>
 
@@ -1400,6 +1562,12 @@ last_updated: 2026-07-02
 
 <p>Real actions that</p>
 
+<p><!-- PAGE 26 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 26 of 44</p>
+
 <p>Affect real people</p>
 
 <p>The Simple Version to Remember</p>
@@ -1412,10 +1580,7 @@ last_updated: 2026-07-02
 
 <p>It smart?' It is: 'How much can it do by itself, and what can it reach?'</p>
 
-</div>
-
-
-<h3>Part 2: Scoped AI -- Helpful, But It Stays in Its Lane</h3>
+<p>Part 2: Scoped AI -- Helpful, But It Stays in Its Lane</p>
 
 <p>Have you ever used a chat box on a company website to ask a question? Maybe it helped you</p>
 
@@ -1441,6 +1606,12 @@ last_updated: 2026-07-02
 <p>Other problems to solve. It does not connect to other tools on its own. Modern examples:</p>
 
 <p>Intercom, Zendesk AI, and bots built on Playlab.ai.</p>
+
+<p><!-- PAGE 27 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 27 of 44</p>
 
 <p>Examples of Scoped AI at Work</p>
 
@@ -1534,14 +1705,19 @@ last_updated: 2026-07-02
 
 <p>-- It is predictable. You can test it and know what it will do.</p>
 
-
-<h3>Part 3: Autonomous Agents -- You Give the Goal, It Does the Work</h3>
+<p>Part 3: Autonomous Agents -- You Give the Goal, It Does the Work</p>
 
 <p>Think about a really capable coworker. You walk up to them on Monday and say: 'Can you find</p>
 
 <p>The three best vendors for our supply order, compare their prices, write up a one -page</p>
 
 <p>Summary, and email it to the team by noon?' Then you walk away.</p>
+
+<p><!-- PAGE 28 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 28 of 44</p>
 
 <p>A good coworker can do that. They will figure out the steps themselves. They will use whatever</p>
 
@@ -1630,6 +1806,14 @@ last_updated: 2026-07-02
 <p>You review the final result -- not</p>
 
 <p>Every step it took.</p>
+
+<p><!-- PAGE 29 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 29 of 44</p>
+
+<p>Part 4: What This Looks Like in Your Field</p>
 
 <p>The same job can be done very differently depending on which kind of AI you use. Read the</p>
 
@@ -1751,8 +1935,13 @@ last_updated: 2026-07-02
 
 <p>Attention.</p>
 
+<p><!-- PAGE 30 --></p>
 
-<h3>Part 5: More Power Means More Responsibility</h3>
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 30 of 44</p>
+
+<p>Part 5: More Power Means More Responsibility</p>
 
 <p>Here is the important thing to understand: the more an AI tool can do on its own, the more</p>
 
@@ -1812,48 +2001,43 @@ last_updated: 2026-07-02
 
 <p>Goes out to real people.</p>
 
-<p>Coming in a later lesson: Big Questions About Agents</p>
+<p>Coming in Week 3: Big Questions About Agents</p>
 
 <p class="standout-question">-- If an agent makes a decision that hurts someone -- who is responsible? You? Your company?</p>
 <p class="standout-question">The people who built the tool?</p>
 <p class="standout-question">-- What kinds of tasks should always have a human in charge -- no matter how good the AI gets?</p>
 <p class="standout-question">-- How should workplaces write rules for tools that can act on their own?</p>
+<p><!-- PAGE 31 --></p>
 
-<div class="activity-card">
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
 
+<p>AI Foundations  |  Week 2, Day 2  |      Page 31 of 44</p>
 
-<h3>ACTIVITY: Scoped or Autonomous? -- Classify and Defend</h3>
+<p>ACTIVITY: Scoped or Autonomous? -- Classify and Defend</p>
 
-</div>
+<p>Time:   |  Whole-class activity</p>
 
+<p>Purpose</p>
 
-<h3>Time:   |  Whole-class activity</h3>
-
-
-<h5 class="card-section-label">Purpose</h5>
-
-
-<div class="practice-card">
-
-
-<h3>Practice using what you just learned. Read each scenario, decide what type of AI it is, and explain</h3>
+<p>Practice using what you just learned. Read each scenario, decide what type of AI it is, and explain</p>
 
 <p>Your thinking. There are no trick questions -- but some are harder than others.</p>
 
-
-<h5 class="card-section-label">Instructions</h5>
+<p>Instructions</p>
 
 <ol>
   <li>Read each scenario on your own.</li>
   <li>For each one, write your answer: S = Scoped, A = Autonomous Agent, or M = Mixed (a little of</li>
 </ol>
+
 <p>Both).</p>
 
 <ol>
   <li>Write one sentence explaining why you chose that answer.</li>
   <li>Compare your answers with the person next to you. Did you agree? If not, talk it out.</li>
-  <li>others will share a few disagreements out loud. Be ready to explain your thinking.</li>
+  <li>The class will share a few disagreements out loud. Be ready to explain your thinking.</li>
 </ol>
+
 <p>Scenario Your</p>
 
 <p>Answer (S /</p>
@@ -1867,6 +2051,7 @@ last_updated: 2026-07-02
 <ol>
   <li>A chat box on a clothing store's website. It is powered</li>
 </ol>
+
 <p>By real AI and understands how you talk. But it only</p>
 
 <p>Knows about that store's products, shipping, and</p>
@@ -1876,6 +2061,7 @@ last_updated: 2026-07-02
 <ol>
   <li>You open Microsoft Copilot and type: 'Look at last</li>
 </ol>
+
 <p>Week's sales emails, find the three biggest deals still</p>
 
 <p>Open, and write a follow-up message for each one.' It</p>
@@ -1885,6 +2071,7 @@ last_updated: 2026-07-02
 <ol>
   <li>You use ChatGPT to help you write a performance</li>
 </ol>
+
 <p>Review. You type your notes, it writes a draft. You</p>
 
 <p>Copy and paste the draft into your HR system</p>
@@ -1894,6 +2081,7 @@ last_updated: 2026-07-02
 <ol>
   <li>A Zapier automation watches a Google Sheet. Every</li>
 </ol>
+
 <p>Time someone adds a row with the word 'Urgent,' it</p>
 
 <p>Sends a message to your team's Slack channel.</p>
@@ -1901,6 +2089,7 @@ last_updated: 2026-07-02
 <ol>
   <li>A hospital system that reads incoming patient</li>
 </ol>
+
 <p>Referrals, checks which rooms are available in three</p>
 
 <p>Departments, schedules the intake appointment, and</p>
@@ -1909,9 +2098,16 @@ last_updated: 2026-07-02
 
 <p>Before a staff member sees the referral.</p>
 
+<p><!-- PAGE 32 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 32 of 44</p>
+
 <ol>
   <li>Claude (from Anthropic) set up for customer service</li>
 </ol>
+
 <p>At a company. It is connected only to that company's</p>
 
 <p>Information and is set up to send customers to a</p>
@@ -1941,9 +2137,12 @@ last_updated: 2026-07-02
 
 <p>More questions before you trust that tool with something important.</p>
 
+<p>After reading this module, you should be able to do these things:</p>
+
 <ul>
   <li>Explain why saying 'chatbots just follow rules' is no longer accurate -- and what the better</li>
 </ul>
+
 <p>Explanation is.</p>
 
 <ul>
@@ -1951,11 +2150,13 @@ last_updated: 2026-07-02
   <li>Walk through the six steps an autonomous agent uses to complete a goal.</li>
   <li>Name two things that can go wrong with autonomous agents and one way to reduce each</li>
 </ul>
+
 <p>Risk.</p>
 
 <ul>
   <li>Look at a real AI tool from your field and say whether it is scoped, autonomous, or a mix --</li>
 </ul>
+
 <p>And explain why.</p>
 
 <p class="standout-question">Want to Learn More?</p>
@@ -1966,32 +2167,52 @@ last_updated: 2026-07-02
 <ul>
   <li>IBM -- What Are AI Agents? -- A clear, plain-English explanation of how agents work and how they</li>
 </ul>
+
 <p>Are different from other AI tools. ibm.com/think/topics/ai-agents</p>
+
+<p><!-- PAGE 33 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 33 of 44</p>
 
 <ul>
   <li>McKinsey -- AI Agents: The Next Frontier -- How real businesses are using AI agents today, and what</li>
 </ul>
+
 <p>It means for workers who are not in technical roles. mckinsey.com</p>
 
 <ul>
   <li>Intercom -- How AI Customer Service Actually Works -- A look from inside one of the biggest AI chat</li>
 </ul>
+
 <p>Platforms at how they use AI within a defined scope. intercom.com/blog</p>
 
 <ul>
   <li>MIT Technology Review -- Why AI Agents Are More Dangerous Than Chatbots -- A short, thoughtful</li>
 </ul>
+
 <p>Piece on what changes when AI can act, not just answer questions.</p>
 
-<p>This course, in this lesson  |  BONUS EXTENSION</p>
+<p><!-- PAGE 34 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 34 of 44</p>
+
+<p>WEEK 2, DAY 2  |  BONUS EXTENSION</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |</p>
 
 <p>ATS Resume Lab -- Optional</p>
 
 <p>Extension</p>
 
-<p>Use AI to Beat the Resume Screener -- in this guide or At Home</p>
+<p>Use AI to Beat the Resume Screener -- In Class or At Home</p>
 
-<p>15 min in this guide -- or</p>
+<p>Time Format CMO Covered Who This Is For</p>
+
+<p>15 min in class -- or</p>
 
 <p>Finish at home</p>
 
@@ -2043,21 +2264,31 @@ last_updated: 2026-07-02
 <ul>
   <li>Repetitive? YES -- you apply to multiple jobs, and each one needs the same</li>
 </ul>
+
+<p><!-- PAGE 35 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 35 of 44</p>
+
 <p>Optimization process</p>
 
 <ul>
   <li>Language-based? YES -- it is entirely about matching written words from one document</li>
 </ul>
+
 <p>To another</p>
 
 <ul>
   <li>Recoverable if wrong? YES -- you read and approve every change before submitting</li>
 </ul>
+
 <p>Anything</p>
 
 <ul>
   <li>Clear good-enough threshold? YES -- a resume that includes the top 5 -8 keywords</li>
 </ul>
+
 <p>From the job posting is measurably better than one that does not</p>
 
 <p>Bottom line: Resume optimization is one of the clearest examples of a language task that</p>
@@ -2085,6 +2316,12 @@ last_updated: 2026-07-02
 <p>Keywords and phrases an ATS system would be</p>
 
 <p>Scanning for. List them in order of importance.</p>
+
+<p><!-- PAGE 36 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 36 of 44</p>
 
 <p>ChatGPT</p>
 
@@ -2161,6 +2398,12 @@ last_updated: 2026-07-02
 <p>/  None   (circle one)</p>
 
 <p>First reaction:</p>
+
+<p><!-- PAGE 37 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 37 of 44</p>
 
 <p>______________________________________________________________________</p>
 
@@ -2246,6 +2489,12 @@ last_updated: 2026-07-02
 
 <p>Based on what sounds good. Read every line. If a claim is not accurate, cut it or fix it before</p>
 
+<p><!-- PAGE 38 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 38 of 44</p>
+
 <p>You send anything.</p>
 
 <p>The goal is not to trick the ATS. The goal is to make sure the right words are present so a</p>
@@ -2261,11 +2510,13 @@ last_updated: 2026-07-02
 <ul>
   <li>For your capstone: If job searching is part of your current life, you can add ATS resume</li>
 </ul>
+
 <p>Optimization as one of your Top 3 AI -Ready Tasks in Section 2</p>
 
 <ul>
   <li>Prompt to add: The keyword extraction prompt from Step 1 is a strong RTCF example</li>
 </ul>
+
 <p>You could paste into Section 3</p>
 
 <p>This is optional -- only add it if it is genuinely relevant to where you are right now. The</p>
@@ -2274,13 +2525,23 @@ last_updated: 2026-07-02
 
 <p>-- End of ATS Resume Lab -- Optional At-Home Extension --</p>
 
-<p>This course, in this lesson  |</p>
+<p><!-- PAGE 39 --></p>
 
-<p>This course Close & a later lesson Preview</p>
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 39 of 44</p>
+
+<p>WEEK 2, DAY 2  |  CLOSE</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |</p>
+
+<p>Week 2 Close & Week 3 Preview</p>
 
 <p>Collect -- Synthesize -- Set Up What Comes Next</p>
 
 <p>Time Format Before You Leave Office Hours</p>
+
+<p>Exit Ticket + Preview  Submit Capstone Draft</p>
 
 <p>1</p>
 
@@ -2290,71 +2551,95 @@ last_updated: 2026-07-02
 
 <p>Look What You Built in this session</p>
 
+<p>Before we do the exit ticket, take 30 seconds and look at what you actually accomplished in one</p>
+
 <p>Class session.</p>
 
-<p>This course, in this lesson -- What You Did</p>
+<p>Week 2, Day 2 -- What You Did</p>
 
 <ul>
   <li>Audio AI -- Lesson 7: Learned what audio AI does, which tools exist, tried a live demo,</li>
 </ul>
+
 <p>And heard about AI music generation for copyright -free content</p>
 
-</div>
-
-
-<h3>• Anchor Activity Part 2: Tested a second task from your field in a different AI category --</h3>
+<ul>
+  <li>Anchor Activity Part 2: Tested a second task from your field in a different AI category --</li>
+</ul>
 
 <p>Ran the filter, wrote a layered RTCF prompt, documented what worked</p>
 
 <ul>
   <li>Cluster Share-Out: Heard how your peers are using AI in their fields and gave peer</li>
 </ul>
+
 <p>Feedback on each other's outputs</p>
 
 <ul>
   <li>Capstone Draft 1: Started your AI Workplace Framework -- your field, your top 3 AI -</li>
 </ul>
+
 <p>Ready tasks, and your best prompt from this week, all in one document</p>
 
 <ul>
   <li>ATS Resume Lab: Saw how AI can optimize a resume for applicant tracking systems --</li>
 </ul>
+
 <p>Either tried it live or took home the prompt scaffold</p>
 
 <p>Two full class sessions. A real AI output from your own field. A capstone document you</p>
 
 <p>Actually started. That is not nothing -- that is a foundation.</p>
 
+<p><!-- PAGE 40 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 40 of 44</p>
+
+<p><!-- PAGE 41 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 41 of 44</p>
+
 <p>Before You Leave -- Submit Your Capstone Draft 1</p>
 
 <p>If you have not submitted yet, do it now before you pack up. I will return written feedback before</p>
 
-<p>A later lesson in this lesson so you have something concrete to build on.</p>
+<p>Week 3 Day 1 so you have something concrete to build on.</p>
 
 <p>How to Submit -- Three Options</p>
 
 <ul>
   <li>Canvas: Upload your Google Doc link or paste the text directly into the Canvas</li>
 </ul>
+
 <p>Submission box for this assignment</p>
 
 <ul>
   <li>Email: Send to rubensmailbag@gmail.com -- subject line: AIW Capstone Draft 1 -- [Your</li>
 </ul>
+
 <p>Name]</p>
 
 <ul>
   <li>Screenshot: If your draft is on your phone, screenshot all three sections and send them</li>
 </ul>
+
 <p>In one message</p>
 
 <p>What I will send back: Brief written feedback on each of your three tasks -- whether they</p>
 
 <p>Pass the filter, whether the reasoning is clear, and one suggestion for strengthening your</p>
 
-<p>Best prompt before a later lesson.</p>
+<p>Best prompt before Week 3.</p>
+
+<p>Exit Ticket -- One Honest Thought</p>
 
 <p>Complete this before you leave. I will ask a few people to share out loud.</p>
+
+<p>Exit Ticket</p>
 
 <p>One task from my field I thought was AI -ready -- but now I am not so sure:</p>
 
@@ -2376,15 +2661,21 @@ last_updated: 2026-07-02
 
 <p>______________</p>
 
+<p><!-- PAGE 42 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 42 of 44</p>
+
 <p>This is not a trick question. Doubt and nuance are signs of better thinking -- not signs that you</p>
 
 <p>Did not get it. The students who leave in this session a little less certain than when they arrived are the</p>
 
 <p>Ones who are actually paying attention.</p>
 
-<p>Between-Session Challenge -- Before a later lesson</p>
+<p>Between-Session Challenge -- Before Week 3</p>
 
-<p>A later lesson is all about what can go wrong with AI at work -- risks, ethics, and the hard questions. I</p>
+<p>Week 3 is all about what can go wrong with AI at work -- risks, ethics, and the hard questions. I</p>
 
 <p>Want you to walk in already thinking about it.</p>
 
@@ -2396,7 +2687,7 @@ last_updated: 2026-07-02
 
 <p>Coworker or family member said, or just a feeling you have not been able to shake. There is</p>
 
-<p>No wrong answer here. a later lesson is built around the real concerns people in your fields have.</p>
+<p>No wrong answer here. Week 3 is built around the real concerns people in your fields have.</p>
 
 <ul>
   <li>Something you are worried AI might replace or change in your field</li>
@@ -2404,9 +2695,10 @@ last_updated: 2026-07-02
   <li>A question about privacy, data, or who owns the output</li>
   <li>A feeling that you are moving too fast without understanding the risks</li>
 </ul>
+
 <p>You do not have to research it. Just bring the worry. We will work through it together in</p>
 
-<p>A later lesson.</p>
+<p>Week 3.</p>
 
 <p>Write It Here So You Do Not Forget</p>
 
@@ -2424,11 +2716,17 @@ last_updated: 2026-07-02
 
 <p>______________</p>
 
-<p>A later lesson Preview -- Risks & Ethics</p>
+<p><!-- PAGE 43 --></p>
 
-<p>Here is exactly what A later lesson covers so you know what you are walking into.</p>
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
 
-<p>A later lesson Topic What We Cover Why It Matters for Your Field</p>
+<p>AI Foundations  |  Week 2, Day 2  |      Page 43 of 44</p>
+
+<p>Week 3 Preview -- Risks & Ethics</p>
+
+<p>Here is exactly what Week 3 covers so you know what you are walking into.</p>
+
+<p>Week 3 Topic What We Cover Why It Matters for Your Field</p>
 
 <p>Data Privacy &</p>
 
@@ -2494,20 +2792,27 @@ last_updated: 2026-07-02
 
 <p>Careless ones</p>
 
-<p>Capstone Connection -- What Gets Added in a later lesson</p>
+<p>Capstone Connection -- What Gets Added in Week 3</p>
 
-<p>In a later lesson you will add a risk layer to your AI Workplace Framework. For each of your Top 3</p>
+<p>In Week 3 you will add a risk layer to your AI Workplace Framework. For each of your Top 3</p>
 
 <p>AI-Ready Tasks, you will answer one question:</p>
 
-<p class="standout-question">"What could go wrong with AI on this task -- and how would I catch it or handle it?"</p>
+<p>"What could go wrong with AI on this task -- and how would I catch it or handle it?"</p>
+
 <p>That is Draft 2. It turns your framework from a capability list into a responsible plan. Come to</p>
 
-<p>A later lesson with your concern ready -- that is your starting point.</p>
+<p>Week 3 with your concern ready -- that is your starting point.</p>
 
 <p>Office Hours in this session --  to , This Room</p>
 
 <p>Stay if you want one -on-one time. I will be here for  after class. Bring any of the</p>
+
+<p><!-- PAGE 44 --></p>
+
+<p>AI Foundations  |  Week 2, Day 2  |   (VOC AIW)</p>
+
+<p>AI Foundations  |  Week 2, Day 2  |      Page 44 of 44</p>
 
 <p>Following:</p>
 
@@ -2515,17 +2820,19 @@ last_updated: 2026-07-02
   <li>Questions about your Capstone Draft 1 before I give feedback</li>
   <li>A prompt you wrote that did not work the way you expected -- we will troubleshoot it</li>
 </ul>
+
 <p>Together</p>
 
 <ul>
-  <li>Anything about a later lesson content you want to think through in advance</li>
+  <li>Anything about Week 3 content you want to think through in advance</li>
   <li>Concerns about the course, the pacing, or anything you need me to know</li>
 </ul>
+
 <p>No appointment needed. First come, first served. I am gone at .</p>
 
 <p>One Last Thing Before You Go</p>
 
-<p>You came into this course knowing how to do your job. You are leaving This course knowing</p>
+<p>You came into this course knowing how to do your job. You are leaving Week 2 knowing</p>
 
 <p>How to make AI work for your job.</p>
 
@@ -2533,6 +2840,6 @@ last_updated: 2026-07-02
 
 <p>Anymore -- you have a filter, a framework, and real output you produced yourself.</p>
 
-<p>A later lesson is where it gets harder -- and more interesting. Bring your worry. See you then.</p>
+<p>Week 3 is where it gets harder -- and more interesting. Bring your worry. See you then.</p>
 
-<p>-- End of This course, in this lesson --</p>
+<p>-- End of Week 2, Day 2 --</p>

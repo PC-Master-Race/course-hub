@@ -20,7 +20,7 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 
 ### 3. Content Scrubbing & Refinement
 - **Jargon Removal:** Stripped all references to synchronous physical classrooms (e.g., "in the next class", "group work", "your instructor") and replaced them with self-paced, online-friendly phrasing.
-- **Typography:** Globally replaced all em dashes (`—`) and en dashes (`–`) with standard hyphens (`-`) across the compiler and generated Markdown to eliminate "AI-generated" connotations.
+- **Typography:** Globally replaced all em dashes (`â€”`) and en dashes (`â€“`) with standard hyphens (`-`) across the compiler and generated Markdown to eliminate "AI-generated" connotations.
 
 ### 4. Image Extraction & Formatting
 - **Full Audit:** Verified all 44 images across the curriculum.
@@ -49,7 +49,7 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 
 - **Lesson 1 Restored:** Fixed state machine module tracking in compiler so Lesson 1 ('What AI Actually Is') compiles completely with full text, tables, and video.
 
-- **Smart Rewording & Anti-AI-Detection Humanization:** Applied burstiness sentence variations, anti-AI clich� filters, and CourseTech lead-in cards across all 9 lessons.
+- **Smart Rewording & Anti-AI-Detection Humanization:** Applied burstiness sentence variations, anti-AI cliché filters, and CourseTech lead-in cards across all 9 lessons.
 
 - **Case Study Reflection Purged:** Replaced classroom share-out script ('bring back what you found') and empty 4-column recap table with an interactive Self-Paced Practice Card.
 
@@ -58,3 +58,4 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Universal Table Cell Textareas:** Configured compiler and JavaScript engine (setupEditableTableCells) to automatically render interactive textareas inside all table cells where students type.
 
 - **Prompt Table Textareas Fixed:** Added explicit interactive textareas directly inside table cells underneath the 'My prompt (write it here)' and 'AI output (paste key phrases or summarize)' header lines for Round 1, Round 2, and Round 3.
+- **Lesson 3 HTML Scratchpad Alignment:** Replaced markdown tables with direct HTML practice cards containing textarea fields placed directly under 'My prompt (write it here)' and 'AI output (paste key phrases or summarize)'.
