@@ -8,7 +8,20 @@ document.addEventListener('DOMContentLoaded', () => {
   setupDropdown();
   setupSmoothScrolling();
   setupInputSanitizer();
+  setupEditableTableCells();
 });
+
+/**
+ * Auto-enhance empty or student-input table cells into interactive typing textareas
+ */
+function setupEditableTableCells() {
+  document.querySelectorAll('table td').forEach(td => {
+    const text = td.innerText.trim();
+    if (!text || text === '' || text === ' ' || text === '&nbsp;') {
+      td.innerHTML = '<textarea class="prompt-scratchpad" placeholder="Type your response here..." rows="2" aria-label="Student response field"></textarea>';
+    }
+  });
+}
 
 /**
  * Strict Security Sanitizer for Student Typing Fields

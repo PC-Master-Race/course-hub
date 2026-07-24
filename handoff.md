@@ -52,3 +52,5 @@ The Course Hub is a self-paced, online curriculum generated from a series of Wor
 - **Smart Rewording & Anti-AI-Detection Humanization:** Applied burstiness sentence variations, anti-AI cliché filters, and CourseTech lead-in cards across all 9 lessons.
 
 - **Case Study Reflection Purged:** Replaced classroom share-out script ('bring back what you found') and empty 4-column recap table with an interactive Self-Paced Practice Card.
+
+- **Interactive Tournament Scratchpads & Input Security:** Converted static Prompt Tournament tables into interactive dual-textarea scratchpads with client-side JS HTML-stripping sanitizer (setupInputSanitizer).

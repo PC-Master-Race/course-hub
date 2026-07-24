@@ -519,11 +519,11 @@ youtube_id: "JUp8B2r7zD8"
 
 | Critique question | Your assessment |
 | --- | --- |
-| Is it accurate? Does anything look physically wrong, anatomically incorrect, or technically off for your field? |  |
-| Is it usable as-is, or does it need editing? What specifically would you change? |  |
-| Would you actually use this at work - as a draft, a mockup, or a final product? |  |
-| How long did it take to generate vs. how long would it take to create from scratch or find a stock image? |  |
-| Are there any bias, representation, or appropriateness concerns for your specific audience? |  |
+| Is it accurate? Does anything look physically wrong, anatomically incorrect, or technically off for your field? | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> |
+| Is it usable as-is, or does it need editing? What specifically would you change? | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> |
+| Would you actually use this at work - as a draft, a mockup, or a final product? | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> |
+| How long did it take to generate vs. how long would it take to create from scratch or find a stock image? | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> |
+| Are there any bias, representation, or appropriateness concerns for your specific audience? | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> |
 
 <p>Debrief Questions - group discussion</p>
 
@@ -796,7 +796,7 @@ youtube_id: "JUp8B2r7zD8"
 
 | ⚖️  TRUST ASSESSMENT FRAMEWORK <br> □  Is this output accurate? (Did I verify the key facts independently?) <br> □  Is this output appropriate? (Right tone, format, and audience?) <br> □  Is this output complete? (Does it cover everything it needs to?) <br> □  Is this output mine? (Did I review, edit, and own this output?) <br> □  What happens if this is wrong? (What is my professional exposure?) <br> If you would not sign your name to it → verify before using. |  | 🧠  CHAIN-OF-THOUGHT TRIGGERS <br> "Think step by step before answering."  - general purpose <br> "Walk me through your reasoning."  - for analysis or decisions <br> "Show your work, then give your final answer."  - for calculations or diagnoses <br> "List the steps you would follow before giving your recommendation."  - for processes <br> "What could go wrong with this approach? Reason through it."  - for risk assessment <br> Use CoT whenever errors in reasoning would be costly. | 🧠  CHAIN-OF-THOUGHT TRIGGERS <br> "Think step by step before answering."  - general purpose <br> "Walk me through your reasoning."  - for analysis or decisions <br> "Show your work, then give your final answer."  - for calculations or diagnoses <br> "List the steps you would follow before giving your recommendation."  - for processes <br> "What could go wrong with this approach? Reason through it."  - for risk assessment <br> Use CoT whenever errors in reasoning would be costly. |
 | --- | --- | --- | --- |
-|  |  |  |
+| <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> | <textarea class="prompt-scratchpad" placeholder="Type here..." rows="2"></textarea> |
 
 <p class="standout-question">🔀  WHICH TECHNIQUE SHOULD I USE?</p>
 
