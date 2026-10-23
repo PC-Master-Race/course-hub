@@ -250,6 +250,9 @@ a { color: inherit; }
 .safety li.owner-mismatch { font-weight: 600; }
 .safety .county { display: inline-block; margin-top: 10px; font-weight: 600; color: var(--eucalyptus); }
 .safety.warn .county { color: var(--poppy-ink); }
+.env { margin: 14px 22px 0; font-size: 14.5px; }
+.env-title { margin: 0 0 4px; font-weight: 700; }
+.env ul { margin: 0; padding-left: 20px; display: grid; gap: 3px; color: var(--muted); }
 .contact { margin: 14px 22px 0; font-size: 15px; overflow-wrap: anywhere; }
 .contact span { display: block; font-size: 13px; color: var(--muted); }
 
@@ -421,7 +424,8 @@ function normalize(l) {
     safety: (l.safety && typeof l.safety === "object") ? l.safety : null,
     owner: (l.owner_check || "").toLowerCase(),
     county: safeUrl(l.county_url),
-    contact: l.contact || ""
+    contact: l.contact || "",
+    environment: Array.isArray(l.environment) ? l.environment.filter(Boolean) : []
   };
 }
 
@@ -520,6 +524,7 @@ function card(l) {
       ${perk("Cooling:", l.ac || "Unknown")}
     </ul>
     ${safetyBlock(l)}
+    ${l.environment.length ? `<div class="env"><p class="env-title">Nearby to know about</p><ul>${l.environment.map((e) => `<li>${esc(e)}</li>`).join("")}</ul></div>` : ""}
     ${noteBlock(l)}
     ${l.contact ? `<p class="contact"><span>Contact on listing</span>${esc(l.contact)}</p>` : ""}
     <div class="home-foot">
