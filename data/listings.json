@@ -12,7 +12,7 @@
       "type": "condo",
       "laundry": "W/D in unit",
       "parking": "Detached 2-car garage",
-      "ac": "Unknown",
+      "ac": "Unknown (county shows central heat)",
       "distance_mi": 7,
       "source": "Craigslist",
       "url": "https://www.craigslist.org/view/d/west-covina-rarely-available-1br-1ba/vqJqS2ciAmFjMXQSM9EU3v",
@@ -22,8 +22,13 @@
       "safety": {
         "level": "careful",
         "reasons": [
-          "Rent is far below similar 1 bedroom condos nearby (others on the street list around $2,200)",
-          "Not yet checked for copied photos or scam wording"
+          "County records match the listing: 710 sq ft, 1 bed, 1 bath, built 1978",
+          "No recent sale: last sold in 2012, so the same owner has held it for about 14 years",
+          "No homeowner's exemption on file, which fits a home that is rented out",
+          "Property taxes are current, with no default",
+          "Rent is far below similar units on the same street (another lists around $2,235)",
+          "The lot is only about 950 sq ft, so the 2-car garage is likely in a separate garage area; confirm which garage comes with the unit",
+          "County parcel number is 8733-001-068 if you want to look it up"
         ]
       },
       "owner_check": "unknown",
