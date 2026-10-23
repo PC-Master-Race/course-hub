@@ -18,7 +18,17 @@
       "url": "https://www.craigslist.org/view/d/west-covina-rarely-available-1br-1ba/vqJqS2ciAmFjMXQSM9EU3v",
       "sent_date": "2026-10-22",
       "status": "new",
-      "notes": "Zip 91792 rated B- overall per CrimeGrade; West Covina ranked among safest large US cities (MoneyGeek). No known data center nearby. Rent well below market, verify owner in person, never wire money."
+      "notes": "Zip 91792 rated B- overall per CrimeGrade; West Covina ranked among safest large US cities (MoneyGeek). No known data center nearby.",
+      "safety": {
+        "level": "careful",
+        "reasons": [
+          "Rent is far below similar 1 bedroom condos nearby (others on the street list around $2,200)",
+          "Not yet checked for copied photos or scam wording"
+        ]
+      },
+      "owner_check": "unknown",
+      "county_url": "https://portal.assessor.lacounty.gov/",
+      "contact": ""
     }
   ],
   "runs": [

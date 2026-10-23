@@ -233,6 +233,26 @@ a { color: inherit; }
 .note.caution { background: var(--caution-soft); }
 .note.caution strong { color: var(--caution); }
 
+.safety {
+  margin: 16px 22px 0;
+  padding: 13px 15px 14px;
+  border-radius: 12px;
+  border: 1.5px solid var(--eucalyptus);
+  font-size: 14.5px;
+}
+.safety.warn { border-color: var(--poppy); background: var(--poppy-soft); }
+.safety.bad { border-color: var(--caution); background: var(--caution-soft); }
+.safety-title { display: flex; gap: 8px; align-items: center; margin: 0; font-weight: 700; }
+.safety-title svg { width: 18px; height: 18px; flex: none; color: var(--eucalyptus); }
+.safety.warn .safety-title svg { color: var(--poppy-ink); }
+.safety.bad .safety-title svg, .safety.bad .safety-title { color: var(--caution); }
+.safety ul { margin: 8px 0 0; padding-left: 26px; display: grid; gap: 4px; line-height: 1.45; }
+.safety li.owner-mismatch { font-weight: 700; color: var(--caution); }
+.safety .county { display: inline-block; margin-top: 10px; font-weight: 600; color: var(--eucalyptus); }
+.safety.warn .county { color: var(--poppy-ink); }
+.contact { margin: 14px 22px 0; font-size: 15px; overflow-wrap: anywhere; }
+.contact span { display: block; font-size: 13px; color: var(--muted); }
+
 .home-foot {
   margin-top: auto;
   padding: 20px 22px 22px;
@@ -375,6 +395,7 @@ const daysAgo = (d) => { const t = dateOf(d); if (!t) return Infinity; const now
 const ICON = {
   check: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="10" r="8.2"/><path d="m6.5 10.3 2.4 2.4 4.6-5"/></svg>',
   maybe: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10" cy="10" r="8.2"/><path d="M10 6v5"/><circle cx="10" cy="14" r=".6" fill="currentColor"/></svg>',
+  shield: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round" aria-hidden="true"><path d="M10 2.2 16.4 4.6v5c0 4-2.8 6.9-6.4 8.2-3.6-1.3-6.4-4.2-6.4-8.2v-5Z"/></svg>',
   out: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h7v7M13 3 4 12"/></svg>'
 };
 
@@ -396,7 +417,11 @@ function normalize(l) {
     url: safeUrl(l.url),
     found: l.sent_date || l.found_date || "",
     status: (l.status || "new").toLowerCase(),
-    notes: l.notes || ""
+    notes: l.notes || "",
+    safety: (l.safety && typeof l.safety === "object") ? l.safety : null,
+    owner: (l.owner_check || "").toLowerCase(),
+    county: safeUrl(l.county_url),
+    contact: l.contact || ""
   };
 }
 
@@ -436,10 +461,33 @@ function perk(label, value, goodTest) {
   return `<li class="${unsure ? "unsure" : ""}">${unsure ? ICON.maybe : ICON.check}<span>${esc(label)} <em>${esc(value)}</em></span></li>`;
 }
 
-function noteBlock(text) {
-  if (!text) return "";
-  const caution = /scam|wire|verify|too good|below market|deposit before/i.test(text);
-  return `<p class="note${caution ? " caution" : ""}">${caution ? "<strong>Worth a careful look.</strong> " : ""}${esc(text)}</p>`;
+function noteBlock(l) {
+  if (!l.notes) return "";
+  const caution = !l.safety && /scam|wire|too good|deposit before/i.test(l.notes);
+  return `<p class="note${caution ? " caution" : ""}">${caution ? "<strong>Worth a careful look.</strong> " : ""}${esc(l.notes)}</p>`;
+}
+
+const SAFETY = {
+  legit:   { cls: "ok",   title: "No warning signs found" },
+  careful: { cls: "warn", title: "Check this one carefully" },
+  scam:    { cls: "bad",  title: "Likely scam" }
+};
+const OWNER = {
+  verified: "Owner matches county records",
+  mismatch: "Poster does not match the county owner",
+  unknown:  "Owner could not be checked"
+};
+
+function safetyBlock(l) {
+  if (!l.safety && !l.owner) return "";
+  const lvl = SAFETY[(l.safety && l.safety.level || "").toLowerCase()] || null;
+  const reasons = (l.safety && Array.isArray(l.safety.reasons)) ? l.safety.reasons.filter(Boolean) : [];
+  const ownerLine = OWNER[l.owner] ? `<li class="owner-${esc(l.owner)}">${esc(OWNER[l.owner])}</li>` : "";
+  return `<div class="safety ${lvl ? lvl.cls : "warn"}">
+    <p class="safety-title">${ICON.shield}<span>${esc(lvl ? lvl.title : "Scam check")}</span></p>
+    ${(reasons.length || ownerLine) ? `<ul>${ownerLine}${reasons.map((r) => `<li>${esc(r)}</li>`).join("")}</ul>` : ""}
+    ${l.county ? `<a class="county" href="${esc(l.county)}" target="_blank" rel="noopener noreferrer">Look up this property in county records</a>` : ""}
+  </div>`;
 }
 
 function card(l) {
@@ -471,7 +519,9 @@ function card(l) {
       ${perk("Parking:", l.parking)}
       ${perk("Cooling:", l.ac || "Unknown")}
     </ul>
-    ${noteBlock(l.notes)}
+    ${safetyBlock(l)}
+    ${noteBlock(l)}
+    ${l.contact ? `<p class="contact"><span>Contact on listing</span>${esc(l.contact)}</p>` : ""}
     <div class="home-foot">
       <span class="found">Found ${esc(shortDate(l.found))} on ${esc(l.source)}</span>
       ${l.url ? `<a class="open" href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">See the listing ${ICON.out}</a>` : ""}
