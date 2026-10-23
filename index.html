@@ -555,7 +555,7 @@ function render() {
   live.classList.toggle("offline", source !== "live");
   $("live-text").textContent = lastRun ? `Last search ${longDate(lastRun)}` : "Waiting for the first search";
 
-  const shown = sorted();
+  const shown = sorted().filter((l) => l.status !== "gone" && l.status !== "passed");
   $("grid").innerHTML = shown.length
     ? shown.map(card).join("")
     : `<div class="empty"><h3>Nothing yet</h3>When a place fits everything we need, it will appear here the same afternoon.</div>`;
