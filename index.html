@@ -247,7 +247,7 @@ a { color: inherit; }
 .safety.warn .safety-title svg { color: var(--poppy-ink); }
 .safety.bad .safety-title svg, .safety.bad .safety-title { color: var(--caution); }
 .safety ul { margin: 8px 0 0; padding-left: 26px; display: grid; gap: 4px; line-height: 1.45; }
-.safety li.owner-mismatch { font-weight: 700; color: var(--caution); }
+.safety li.owner-mismatch { font-weight: 600; }
 .safety .county { display: inline-block; margin-top: 10px; font-weight: 600; color: var(--eucalyptus); }
 .safety.warn .county { color: var(--poppy-ink); }
 .contact { margin: 14px 22px 0; font-size: 15px; overflow-wrap: anywhere; }
@@ -474,7 +474,7 @@ const SAFETY = {
 };
 const OWNER = {
   verified: "Owner matches county records",
-  mismatch: "Poster does not match the county owner",
+  mismatch: "Poster's name is different from the county records (normal when a realtor or manager lists it)",
   unknown:  "Owner could not be checked"
 };
 
