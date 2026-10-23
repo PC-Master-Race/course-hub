@@ -1,49 +1,541 @@
----
-layout: default
-title: "Home"
----
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Our Next Place</title>
+<meta name="description" content="Rentals within about 15 miles of Walnut, updated after every daily search.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%232E5546'/%3E%3Cpath d='M14 34 32 18l18 16v14a2 2 0 0 1-2 2H38V38H26v12H16a2 2 0 0 1-2-2Z' fill='%23F1F3EE'/%3E%3Ccircle cx='46' cy='16' r='6' fill='%23E39B2D'/%3E%3C/svg%3E">
+<style>
+:root {
+  --paper: #F1F3EE;
+  --surface: #FFFFFF;
+  --ink: #1C2B27;
+  --muted: #5B6B65;
+  --line: #D5DCD2;
+  --eucalyptus: #2E5546;
+  --eucalyptus-soft: #E1EAE3;
+  --sage: #A9BBA8;
+  --poppy: #E39B2D;
+  --poppy-soft: #FBEBD2;
+  --poppy-ink: #8A5508;
+  --caution: #9C3D2E;
+  --caution-soft: #F6E1DC;
+  --f-display: "Gloock", Georgia, "Times New Roman", serif;
+  --f-body: "Figtree", "Segoe UI", system-ui, sans-serif;
+  --r-card: 18px;
+  --r-pill: 999px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #131C19;
+    --surface: #1B2723;
+    --ink: #E9EEE9;
+    --muted: #A3B2AC;
+    --line: #2C3B36;
+    --eucalyptus: #8CC2A9;
+    --eucalyptus-soft: #21342D;
+    --sage: #4E6458;
+    --poppy: #F0B055;
+    --poppy-soft: #3A2C16;
+    --poppy-ink: #F3C47E;
+    --caution: #EBA092;
+    --caution-soft: #3A221E;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--f-body);
+  font-size: 17px;
+  line-height: 1.55;
+}
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--poppy); outline-offset: 3px; border-radius: 6px; }
 
-<!-- Hero Section -->
-<section class="hero-section">
-  <div class="container">
-    <h1 class="hero-title">Welcome to Course Hub</h1>
-    <p class="hero-subtitle">Interactive, high-legibility, and distraction-free tech lessons. Built for vocational re-entry and lifelong learners.</p>
-  </div>
-</section>
+.page {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 max(18px, env(safe-area-inset-left)) 72px max(18px, env(safe-area-inset-right));
+}
 
-<!-- Course Browser Section -->
-<section class="courses-browser" aria-label="Available Courses">
-  <div class="container">
-    
-    {% assign categories = "AI Literacy|Office Productivity|Foundational Tech" | split: "|" %}
-    {% for cat in categories %}
-      {% assign anchor_id = cat | slugify %}
-      <section class="category-group" id="{{ anchor_id }}">
-        <div class="category-section-header">
-          <h2 class="category-section-title">{{ cat }}</h2>
-        </div>
-        
-        <div class="course-grid">
-          {% assign cat_topics = site.data.topics | where: "category", cat %}
-          {% for topic in cat_topics %}
-            <article class="course-card {% if topic.lessons.size == 0 %}coming-soon{% endif %}">
-              <h3 class="course-card-title">{{ topic.title }}</h3>
-              <p class="course-card-desc">{{ topic.description }}</p>
-              {% if topic.lessons.size > 0 %}
-                <a href="{{ '/topics/' | append: topic.id | append: '/' | relative_url }}" class="course-card-link" aria-label="Explore the {{ topic.title }} course">
-                  Explore Course
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
-                </a>
-              {% else %}
-                <span class="course-card-link disabled" aria-label="Course {{ topic.title }} is coming soon">
-                  Coming Soon
-                </span>
-              {% endif %}
-            </article>
-          {% endfor %}
-        </div>
-      </section>
-    {% endfor %}
+/* Hero: the one bold moment. A big serif line, with the live count written into the sentence below. */
+.hero {
+  position: relative;
+  padding: clamp(48px, 10vw, 104px) 0 clamp(28px, 5vw, 44px);
+}
+.hero svg.hills {
+  position: absolute;
+  inset: auto -18px 0 -18px;
+  width: calc(100% + 36px);
+  height: 120px;
+  z-index: 0;
+  pointer-events: none;
+}
+.hero > *:not(svg) { position: relative; z-index: 1; }
+.hero h1 {
+  font-family: var(--f-display);
+  font-weight: 400;
+  font-size: clamp(46px, 10vw, 104px);
+  line-height: .98;
+  letter-spacing: -0.015em;
+  margin: 0 0 22px;
+  max-width: 11ch;
+  text-wrap: balance;
+}
+.lede {
+  margin: 0;
+  max-width: 54ch;
+  font-size: clamp(18px, 2.4vw, 21px);
+  color: var(--muted);
+}
+.lede strong { color: var(--ink); font-weight: 600; }
+.live {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 20px;
+  font-size: 14px;
+  color: var(--muted);
+}
+.live i {
+  width: 9px; height: 9px; border-radius: 50%;
+  background: var(--eucalyptus);
+  box-shadow: 0 0 0 0 var(--eucalyptus);
+  animation: pulse 2.4s ease-out 3;
+}
+.live.offline i { background: var(--sage); animation: none; }
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--eucalyptus) 55%, transparent); }
+  100% { box-shadow: 0 0 0 12px transparent; }
+}
 
-  </div>
-</section>
+/* Toolbar */
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 18px 0;
+  border-top: 1.5px solid var(--ink);
+  margin-bottom: 26px;
+}
+.toolbar h2 {
+  font-family: var(--f-display);
+  font-weight: 400;
+  font-size: 26px;
+  margin: 0;
+}
+.sort { display: flex; gap: 6px; flex-wrap: wrap; }
+.sort button {
+  font: 600 14px var(--f-body);
+  color: var(--ink);
+  background: transparent;
+  border: 1.5px solid var(--line);
+  border-radius: var(--r-pill);
+  padding: 8px 15px;
+  cursor: pointer;
+}
+.sort button[aria-pressed="true"] {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+/* Listings */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr));
+  gap: 20px;
+}
+.home {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 0;
+}
+.home.faded { opacity: .58; }
+.home-head {
+  padding: 22px 22px 18px;
+  display: grid;
+  gap: 4px;
+}
+.price {
+  font-family: var(--f-display);
+  font-size: 44px;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  font-variant-numeric: lining-nums;
+}
+.price small {
+  font-family: var(--f-body);
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0;
+  margin-left: 2px;
+}
+.street { font-weight: 700; font-size: 19px; margin: 10px 0 0; overflow-wrap: anywhere; }
+.town { color: var(--muted); margin: 0; }
+.badge-new {
+  justify-self: start;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--poppy-ink);
+  background: var(--poppy-soft);
+  border-radius: var(--r-pill);
+  padding: 3px 11px;
+  margin-bottom: 8px;
+}
+.facts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.facts div { padding: 12px 10px; text-align: center; }
+.facts div + div { border-left: 1px solid var(--line); }
+.facts b { display: block; font-size: 19px; font-weight: 700; }
+.facts span { font-size: 13px; color: var(--muted); }
+
+/* Distance meter: 0 to 15 miles from Mt. SAC */
+.distance { padding: 16px 22px 4px; }
+.distance-row { display: flex; justify-content: space-between; font-size: 14px; color: var(--muted); margin-bottom: 7px; }
+.distance-row strong { color: var(--ink); font-weight: 600; }
+.meter { position: relative; height: 8px; border-radius: 8px; background: var(--eucalyptus-soft); }
+.meter span { position: absolute; inset: 0 auto 0 0; border-radius: 8px; background: var(--eucalyptus); }
+
+.perks { list-style: none; margin: 0; padding: 16px 22px 0; display: grid; gap: 9px; }
+.perks li { display: flex; gap: 10px; align-items: flex-start; font-size: 15px; }
+.perks svg { flex: none; width: 20px; height: 20px; margin-top: 1px; color: var(--eucalyptus); }
+.perks .unsure svg { color: var(--poppy); }
+.perks em { font-style: normal; color: var(--muted); }
+
+.note {
+  margin: 16px 22px 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--eucalyptus-soft);
+  font-size: 14.5px;
+  line-height: 1.5;
+}
+.note.caution { background: var(--caution-soft); }
+.note.caution strong { color: var(--caution); }
+
+.home-foot {
+  margin-top: auto;
+  padding: 20px 22px 22px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.found { font-size: 13.5px; color: var(--muted); }
+.open {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 15px;
+  background: var(--eucalyptus);
+  color: #fff;
+  padding: 11px 18px;
+  border-radius: var(--r-pill);
+}
+@media (prefers-color-scheme: dark) { .open { color: #10201a; } }
+.open:hover { filter: brightness(1.08); }
+.open svg { width: 16px; height: 16px; }
+
+.empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 56px 20px;
+  border: 1.5px dashed var(--line);
+  border-radius: var(--r-card);
+  color: var(--muted);
+}
+.empty h3 { font-family: var(--f-display); font-weight: 400; font-size: 28px; color: var(--ink); margin: 0 0 8px; }
+
+/* Lower section: what we look for + search log */
+.lower {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 40px;
+  margin-top: 72px;
+  padding-top: 28px;
+  border-top: 1.5px solid var(--ink);
+}
+@media (max-width: 760px) { .lower { grid-template-columns: 1fr; gap: 36px; } }
+.lower h2 { font-family: var(--f-display); font-weight: 400; font-size: 26px; margin: 0 0 14px; }
+.must { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.must li { display: flex; gap: 10px; }
+.must li::before {
+  content: "";
+  flex: none;
+  width: 8px; height: 8px;
+  margin-top: 9px;
+  border-radius: 50%;
+  background: var(--poppy);
+}
+.log { list-style: none; margin: 0; padding: 0; }
+.log li {
+  display: grid;
+  grid-template-columns: 76px 1fr;
+  gap: 14px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.log time { font-weight: 700; }
+.log p { margin: 0; color: var(--muted); font-size: 15.5px; }
+.log .count { color: var(--ink); font-weight: 600; }
+
+footer { margin-top: 56px; font-size: 14px; color: var(--muted); }
+
+@media (prefers-reduced-motion: reduce) { .live i { animation: none; } }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="hero">
+    <h1>Our next place</h1>
+    <p class="lede" id="lede">Homes for rent within about 15 miles of Walnut. A new search runs every afternoon, and anything that fits shows up here.</p>
+    <div class="live" id="live"><i aria-hidden="true"></i><span id="live-text">Checking for the latest results</span></div>
+    <svg class="hills" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 96 C140 60 260 70 380 84 S620 40 760 58 1000 92 1200 64 V120 H0Z" fill="var(--eucalyptus-soft)"/>
+      <path d="M0 110 C180 92 300 100 460 104 S760 82 900 96 1100 108 1200 98 V120 H0Z" fill="var(--sage)" opacity=".35"/>
+    </svg>
+  </header>
+
+  <section aria-labelledby="list-title">
+    <div class="toolbar">
+      <h2 id="list-title">Places that fit</h2>
+      <div class="sort" role="group" aria-label="Sort listings">
+        <button type="button" data-sort="newest" aria-pressed="true">Newest first</button>
+        <button type="button" data-sort="rent" aria-pressed="false">Lowest rent</button>
+        <button type="button" data-sort="size" aria-pressed="false">Most space</button>
+        <button type="button" data-sort="near" aria-pressed="false">Closest</button>
+      </div>
+    </div>
+    <div class="grid" id="grid" aria-live="polite"></div>
+  </section>
+
+  <section class="lower">
+    <div>
+      <h2>Every place here has</h2>
+      <ul class="must">
+        <li>Rent of $1,400 a month or less</li>
+        <li>At least 650 square feet, all to ourselves</li>
+        <li>A washer and dryer, or hookups, inside the unit</li>
+        <li>Somewhere to park off the street</li>
+        <li>A neighborhood with low crime</li>
+        <li>A listing that was checked and still live on the day it was found</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Search log</h2>
+      <ul class="log" id="log"></ul>
+    </div>
+  </section>
+
+  <footer>
+    Listings link to the site they were posted on. Always see a place in person before paying anything.
+  </footer>
+</div>
+
+<script>
+const SUPABASE_URL = "https://pamgrriwzflbzxrxkqxz.supabase.co";
+const SUPABASE_KEY = "sb_publishable_Vrl1i67yZtIxbINCCIRXnQ__h6bD_-D";
+const REFRESH_MS = 5 * 60 * 1000;
+
+let listings = [], runs = [], sortBy = "newest", source = "";
+try { const s = localStorage.getItem("onp-sort"); if (s) sortBy = s; } catch (e) {}
+
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const num = (v) => (v === null || v === undefined || v === "" || isNaN(Number(v))) ? null : Number(v);
+const money = (n) => n == null ? "?" : "$" + n.toLocaleString("en-US");
+const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? u : null;
+const dateOf = (d) => { if (!d) return null; const t = new Date(String(d).slice(0, 10) + "T12:00:00"); return isNaN(t) ? null : t; };
+const shortDate = (d) => { const t = dateOf(d); return t ? t.toLocaleDateString("en-US", { month: "short", day: "numeric" }) : ""; };
+const longDate = (d) => { const t = dateOf(d); return t ? t.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" }) : ""; };
+const daysAgo = (d) => { const t = dateOf(d); if (!t) return Infinity; const now = new Date(); now.setHours(12, 0, 0, 0); return Math.round((now - t) / 86400000); };
+
+const ICON = {
+  check: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="10" r="8.2"/><path d="m6.5 10.3 2.4 2.4 4.6-5"/></svg>',
+  maybe: '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10" cy="10" r="8.2"/><path d="M10 6v5"/><circle cx="10" cy="14" r=".6" fill="currentColor"/></svg>',
+  out: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h7v7M13 3 4 12"/></svg>'
+};
+
+function normalize(l) {
+  return {
+    id: l.id,
+    address: l.address || "Address not given",
+    city: l.city || "",
+    rent: num(l.rent),
+    sqft: num(l.sqft),
+    beds: num(l.beds),
+    baths: num(l.baths),
+    type: l.type || "",
+    laundry: l.laundry || "",
+    parking: l.parking || "",
+    ac: l.ac || "",
+    distance: num(l.distance_mi),
+    source: l.source || "the listing site",
+    url: safeUrl(l.url),
+    found: l.sent_date || l.found_date || "",
+    status: (l.status || "new").toLowerCase(),
+    notes: l.notes || ""
+  };
+}
+
+async function fromSupabase() {
+  const h = { apikey: SUPABASE_KEY, Authorization: "Bearer " + SUPABASE_KEY };
+  const [a, b] = await Promise.all([
+    fetch(SUPABASE_URL + "/rest/v1/rental_listings?select=*&order=sent_date.desc", { headers: h, cache: "no-store" }),
+    fetch(SUPABASE_URL + "/rest/v1/rental_runs?select=*&order=date.desc&limit=30", { headers: h, cache: "no-store" })
+  ]);
+  if (!a.ok) throw new Error("listings " + a.status);
+  const L = await a.json();
+  const R = b.ok ? await b.json() : [];
+  return { listings: L, runs: R };
+}
+
+async function fromFile() {
+  const r = await fetch("data/listings.json?t=" + Date.now(), { cache: "no-store" });
+  if (!r.ok) throw new Error("file " + r.status);
+  const j = await r.json();
+  return { listings: j.listings || [], runs: j.runs || [] };
+}
+
+async function load() {
+  let data = null;
+  try { data = await fromSupabase(); source = "live"; }
+  catch (e) {
+    try { data = await fromFile(); source = "saved"; } catch (e2) { source = "none"; }
+  }
+  if (data) {
+    listings = data.listings.map(normalize);
+    runs = data.runs;
+  }
+  render();
+}
+
+function sorted() {
+  const arr = listings.slice();
+  const gone = (l) => (l.status === "passed" || l.status === "gone") ? 1 : 0;
+  const by = {
+    newest: (a, b) => String(b.found).localeCompare(String(a.found)) || (a.rent ?? 1e9) - (b.rent ?? 1e9),
+    rent: (a, b) => (a.rent ?? 1e9) - (b.rent ?? 1e9),
+    size: (a, b) => (b.sqft ?? 0) - (a.sqft ?? 0),
+    near: (a, b) => (a.distance ?? 1e9) - (b.distance ?? 1e9)
+  }[sortBy] || (() => 0);
+  return arr.sort((a, b) => gone(a) - gone(b) || by(a, b));
+}
+
+function perk(label, value, goodTest) {
+  if (!value) return "";
+  const unsure = /unknown|not stated|unclear|window|wall|portable/i.test(value) || (goodTest && !goodTest(value));
+  return `<li class="${unsure ? "unsure" : ""}">${unsure ? ICON.maybe : ICON.check}<span>${esc(label)} <em>${esc(value)}</em></span></li>`;
+}
+
+function noteBlock(text) {
+  if (!text) return "";
+  const caution = /scam|wire|verify|too good|below market|deposit before/i.test(text);
+  return `<p class="note${caution ? " caution" : ""}">${caution ? "<strong>Worth a careful look.</strong> " : ""}${esc(text)}</p>`;
+}
+
+function card(l) {
+  const bedLabel = l.beds === 0 ? "Studio" : (l.beds == null ? "?" : l.beds);
+  const bedUnit = l.beds === 0 ? "" : (l.beds === 1 ? "bed" : "beds");
+  const pct = l.distance == null ? 0 : Math.max(4, Math.min(100, (l.distance / 15) * 100));
+  const isNew = daysAgo(l.found) <= 1 && l.status === "new";
+  const faded = l.status === "passed" || l.status === "gone";
+  const kind = l.type ? l.type.charAt(0).toUpperCase() + l.type.slice(1) : "";
+  return `<article class="home${faded ? " faded" : ""}">
+    <div class="home-head">
+      ${isNew ? '<span class="badge-new">New today</span>' : ""}
+      ${faded ? '<span class="badge-new">No longer available</span>' : ""}
+      <div class="price">${money(l.rent)}<small>/month</small></div>
+      <h3 class="street">${esc(l.address)}</h3>
+      <p class="town">${esc([l.city, kind].filter(Boolean).join(", "))}</p>
+    </div>
+    <div class="facts">
+      <div><b>${esc(bedLabel)}</b><span>${bedUnit || "&nbsp;"}</span></div>
+      <div><b>${l.baths == null ? "?" : esc(l.baths)}</b><span>${l.baths === 1 ? "bath" : "baths"}</span></div>
+      <div><b>${l.sqft == null ? "?" : l.sqft.toLocaleString("en-US")}</b><span>sq ft</span></div>
+    </div>
+    ${l.distance == null ? "" : `<div class="distance">
+      <div class="distance-row"><span>Distance to Mt. SAC</span><strong>about ${esc(l.distance)} mi</strong></div>
+      <div class="meter" role="img" aria-label="About ${esc(l.distance)} of 15 miles"><span style="width:${pct}%"></span></div>
+    </div>`}
+    <ul class="perks">
+      ${perk("Laundry:", l.laundry)}
+      ${perk("Parking:", l.parking)}
+      ${perk("Cooling:", l.ac || "Unknown")}
+    </ul>
+    ${noteBlock(l.notes)}
+    <div class="home-foot">
+      <span class="found">Found ${esc(shortDate(l.found))} on ${esc(l.source)}</span>
+      ${l.url ? `<a class="open" href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">See the listing ${ICON.out}</a>` : ""}
+    </div>
+  </article>`;
+}
+
+function render() {
+  document.querySelectorAll(".sort button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.sort === sortBy)));
+
+  const active = listings.filter((l) => l.status !== "passed" && l.status !== "gone");
+  const newToday = active.filter((l) => daysAgo(l.found) <= 1).length;
+  const lastRun = runs.length ? runs[0].date : (listings[0] && listings[0].found);
+
+  if (source === "none") {
+    $("lede").innerHTML = "Homes for rent within about 15 miles of Walnut. The results did not load just now. Refresh the page in a minute to try again.";
+  } else {
+    const countLine = active.length === 0
+      ? "Nothing fits yet, but the search keeps looking every afternoon."
+      : `<strong>${active.length} ${active.length === 1 ? "place fits" : "places fit"}</strong> so far${newToday ? `, ${newToday} of them new today` : ""}.`;
+    $("lede").innerHTML = `Homes for rent within about 15 miles of Walnut. ${countLine} A new search runs every afternoon.`;
+  }
+
+  const live = $("live");
+  live.classList.toggle("offline", source !== "live");
+  $("live-text").textContent = lastRun ? `Last search ${longDate(lastRun)}` : "Waiting for the first search";
+
+  const shown = sorted();
+  $("grid").innerHTML = shown.length
+    ? shown.map(card).join("")
+    : `<div class="empty"><h3>Nothing yet</h3>When a place fits everything we need, it will appear here the same afternoon.</div>`;
+
+  $("log").innerHTML = runs.length
+    ? runs.slice(0, 14).map((r) => `<li><time datetime="${esc(r.date)}">${esc(shortDate(r.date))}</time><p><span class="count">${esc(r.new_sent ?? 0)} new.</span> ${esc(r.summary || "")}</p></li>`).join("")
+    : `<li><time></time><p>The first search has not run yet.</p></li>`;
+}
+
+document.querySelector(".sort").addEventListener("click", (e) => {
+  const b = e.target.closest("button[data-sort]");
+  if (!b) return;
+  sortBy = b.dataset.sort;
+  try { localStorage.setItem("onp-sort", sortBy); } catch (err) {}
+  render();
+});
+
+load();
+setInterval(load, REFRESH_MS);
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+</script>
+</body>
+</html>

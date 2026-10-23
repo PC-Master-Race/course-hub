@@ -1,0 +1,31 @@
+{
+  "updated": "2026-10-22",
+  "listings": [
+    {
+      "id": "3713-new-york-st-west-covina",
+      "address": "3713 New York St",
+      "city": "West Covina",
+      "rent": 1000,
+      "sqft": 710,
+      "beds": 1,
+      "baths": 1,
+      "type": "condo",
+      "laundry": "W/D in unit",
+      "parking": "Detached 2-car garage",
+      "ac": "Unknown",
+      "distance_mi": 7,
+      "source": "Craigslist",
+      "url": "https://www.craigslist.org/view/d/west-covina-rarely-available-1br-1ba/vqJqS2ciAmFjMXQSM9EU3v",
+      "sent_date": "2026-10-22",
+      "status": "new",
+      "notes": "Zip 91792 rated B- overall per CrimeGrade; West Covina ranked among safest large US cities (MoneyGeek). No known data center nearby. Rent well below market, verify owner in person, never wire money."
+    }
+  ],
+  "runs": [
+    {
+      "date": "2026-10-22",
+      "new_sent": 1,
+      "summary": "Reviewed about 230 listings across 12 sites; 1 new match found."
+    }
+  ]
+}
