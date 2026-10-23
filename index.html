@@ -357,8 +357,6 @@ footer { margin-top: 56px; font-size: 14px; color: var(--muted); }
 </div>
 
 <script>
-const SUPABASE_URL = "https://pamgrriwzflbzxrxkqxz.supabase.co";
-const SUPABASE_KEY = "sb_publishable_Vrl1i67yZtIxbINCCIRXnQ__h6bD_-D";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let listings = [], runs = [], sortBy = "newest", source = "";
@@ -402,18 +400,6 @@ function normalize(l) {
   };
 }
 
-async function fromSupabase() {
-  const h = { apikey: SUPABASE_KEY, Authorization: "Bearer " + SUPABASE_KEY };
-  const [a, b] = await Promise.all([
-    fetch(SUPABASE_URL + "/rest/v1/rental_listings?select=*&order=sent_date.desc", { headers: h, cache: "no-store" }),
-    fetch(SUPABASE_URL + "/rest/v1/rental_runs?select=*&order=date.desc&limit=30", { headers: h, cache: "no-store" })
-  ]);
-  if (!a.ok) throw new Error("listings " + a.status);
-  const L = await a.json();
-  const R = b.ok ? await b.json() : [];
-  return { listings: L, runs: R };
-}
-
 async function fromFile() {
   const r = await fetch("data/listings.json?t=" + Date.now(), { cache: "no-store" });
   if (!r.ok) throw new Error("file " + r.status);
@@ -423,10 +409,8 @@ async function fromFile() {
 
 async function load() {
   let data = null;
-  try { data = await fromSupabase(); source = "live"; }
-  catch (e) {
-    try { data = await fromFile(); source = "saved"; } catch (e2) { source = "none"; }
-  }
+  try { data = await fromFile(); source = "live"; }
+  catch (e) { source = "none"; }
   if (data) {
     listings = data.listings.map(normalize);
     runs = data.runs;

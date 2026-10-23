@@ -1,3 +1,3 @@
 # Our Next Place
 
-A simple page that shows rental listings found by a daily search. Listings load live from Supabase (tables `rental_listings` and `rental_runs`, public read only). If that is unreachable, the page falls back to `data/listings.json`.
+Shows rental listings found by a daily search. The page reads `data/listings.json` on every visit, and the daily search updates that file after each run.
