@@ -33,7 +33,13 @@
       },
       "owner_check": "unknown",
       "county_url": "https://portal.assessor.lacounty.gov/",
-      "contact": ""
+      "contact": "",
+      "environment": [
+        {
+          "text": "BKK landfill, a former hazardous waste landfill with contaminated soil gas and groundwater, is roughly 1.5 miles northwest. In early 2026 state regulators began testing for landfill gas under homes in a neighborhood south of the landfill; it is not confirmed whether that includes this street.",
+          "url": "https://dtsc.ca.gov/hw-projects/bkk-corporation-landfill"
+        }
+      ]
     }
   ],
   "runs": [

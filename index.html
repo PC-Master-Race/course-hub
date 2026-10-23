@@ -250,9 +250,9 @@ a { color: inherit; }
 .safety li.owner-mismatch { font-weight: 600; }
 .safety .county { display: inline-block; margin-top: 10px; font-weight: 600; color: var(--eucalyptus); }
 .safety.warn .county { color: var(--poppy-ink); }
-.env { margin: 14px 22px 0; font-size: 14.5px; }
+.env { margin: 14px 22px 0; padding: 12px 14px; border-radius: 12px; background: var(--caution-soft); font-size: 14.5px; }
 .env-title { margin: 0 0 4px; font-weight: 700; }
-.env ul { margin: 0; padding-left: 20px; display: grid; gap: 3px; color: var(--muted); }
+.env ul { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
 .env a { color: var(--eucalyptus); font-weight: 600; white-space: nowrap; }
 .contact { margin: 14px 22px 0; font-size: 15px; overflow-wrap: anywhere; }
 .contact span { display: block; font-size: 13px; color: var(--muted); }
@@ -525,7 +525,7 @@ function card(l) {
       ${perk("Cooling:", l.ac || "Unknown")}
     </ul>
     ${safetyBlock(l)}
-    ${l.environment.length ? `<div class="env"><p class="env-title">Nearby to know about</p><ul>${l.environment.map((e) => { const t = typeof e === "string" ? e : (e.text || ""); const u = typeof e === "string" ? null : safeUrl(e.url); return `<li>${esc(t)}${u ? ` <a href="${esc(u)}" target="_blank" rel="noopener noreferrer">Learn more</a>` : ""}</li>`; }).join("")}</ul></div>` : ""}
+    ${l.environment.length ? `<div class="env"><p class="env-title">Pollution and contamination nearby</p><ul>${l.environment.map((e) => { const t = typeof e === "string" ? e : (e.text || ""); const u = typeof e === "string" ? null : safeUrl(e.url); return `<li>${esc(t)}${u ? ` <a href="${esc(u)}" target="_blank" rel="noopener noreferrer">Learn more</a>` : ""}</li>`; }).join("")}</ul></div>` : ""}
     ${noteBlock(l)}
     ${l.contact ? `<p class="contact"><span>Contact on listing</span>${esc(l.contact)}</p>` : ""}
     <div class="home-foot">
